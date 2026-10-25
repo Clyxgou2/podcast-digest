@@ -1,0 +1,676 @@
+[
+ {
+  "addedAt": "2026-10-25T11:47:31Z",
+  "durationMin": 34,
+  "lang": "en",
+  "lines": [
+   "Box CEO Aaron Levie argues AI agents let teams of 3–10 people match the output of organizations about 20 times their size, eroding incumbents' resource advantage as founders shift from doing the work to orchestrating and reviewing agents.",
+   "As execution costs like code and marketing assets approach zero, he says value moves to strategic clarity, product taste and spotting real market opportunities.",
+   "Cutting the cost of labor-heavy work by 90%+ creates demand for services that weren't economical before; in his view AI's ROI is currently far higher in high-stakes enterprise tasks than in consumer apps.",
+   "He sees a 'matrix' of opportunities in specialized agents for every job function in every industry, best built by pairing technical founders with domain experts — but stresses distribution and owning the customer relationship still decide who wins."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1792922400,
+  "seq": 9246282,
+  "status": "summarized",
+  "tags": [
+   "AI-agents",
+   "startups",
+   "enterprise-AI",
+   "Box"
+  ],
+  "title": "The New Startup Playbook | Box CEO Aaron Levie",
+  "url": "https://app.podwise.ai/dashboard/episodes/9246282",
+  "id": "9246282"
+ },
+ {
+  "addedAt": "2026-10-25T02:46:43Z",
+  "durationMin": 79,
+  "lang": "en",
+  "lines": [
+   "Revisiting Shopify 15 months after passing on it near $80, the hosts say the business has beaten their expectations — it now handles about 14% of US e-commerce — but they still won't buy at roughly 112x operating earnings.",
+   "They credit a flywheel of enterprise wins, high merchant retention and a rising take rate, and note the shift from heavy dilution to buybacks that now offset stock-based compensation, marking it as a self-funding compounder.",
+   "On agentic commerce, they argue Shopify's structured, real-time Catalog feed lets AI agents read product data more reliably than web scraping, and that intent-based AI discovery favors long-tail independent brands over big incumbents.",
+   "They push back on the idea that merchants will vibe-code their own replacements, citing operational complexity and lost perks like volume-negotiated payment rates, and see AI agents mattering more for high-consideration purchases than automated replenishment."
+  ],
+  "podcast": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
+  "publishTime": 1792886400,
+  "seq": 9244421,
+  "status": "summarized",
+  "tags": [
+   "e-commerce",
+   "agentic-commerce",
+   "stock-pitch",
+   "valuation"
+  ],
+  "title": "TIP855: Shopify (SHOP): The Big Winner of Agentic Commerce? w/ Shawn O'Malley & Daniel Mahncke",
+  "url": "https://app.podwise.ai/dashboard/episodes/9244421",
+  "id": "9244421"
+ },
+ {
+  "addedAt": "2026-10-24T11:46:59Z",
+  "durationMin": 42,
+  "lang": "en",
+  "lines": [
+   "Ben Horowitz argues that AI makes companies easier to start, but the hardest parts of founding — deciding under uncertainty, building momentum and managing self-doubt — haven't changed.",
+   "He frames AI as a \"probabilistic computer\" with instant utility, letting small teams reach huge audiences without the slow, network-dependent adoption curve of the early internet.",
+   "He rejects the \"GPT wrapper\" critique: serious apps combine multiple models and accumulate proprietary data, which becomes a durable moat alongside market dominance.",
+   "In his view, VC's real value today is generating momentum through hiring and customer wins rather than product advice, and AI entertainment is a new medium, not automated film or TV.",
+   "His advice for crises: founders need a sense of inevitability to push through doubt, and should ignore the overwhelming implications and focus only on the single best available move."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1792836000,
+  "seq": 9242931,
+  "status": "summarized",
+  "tags": [
+   "entrepreneurship",
+   "venture-capital",
+   "AI-startups",
+   "leadership"
+  ],
+  "title": "What It Takes to Win as a Founder | Ben Horowitz",
+  "url": "https://app.podwise.ai/dashboard/episodes/9242931",
+  "id": "9242931"
+ },
+ {
+  "addedAt": "2026-10-24T08:48:00Z",
+  "durationMin": 49,
+  "lang": "en",
+  "lines": [
+   "Richard Mott, owner of Chicago's North Pond and Spark Shared Kitchen, explains why restaurants are a brutal business: thin margins, volatile food and labor costs, and fleeting popularity, with fine dining operating as a high-stakes luxury product.",
+   "He argues operators face competition from \"non-economic\" owners who run restaurants for ego or lifestyle, and that following labor, overtime and immigration rules puts compliant players at a 5–10% cost disadvantage.",
+   "Mott says wine sales, historically fine dining's highest-margin line, are down about 25%, a consumer shift that threatens the traditional profit model; with no lag between input costs and revenue, restaurants must reprice often under inflation.",
+   "His answer is the shared-kitchen model, which pools licensing, equipment and compliance costs so small food entrepreneurs can start without heavy capital — and he credits 80% of a venture's success to the team, only 20% to the idea."
+  ],
+  "podcast": "Odd Lots",
+  "publishTime": 1792828800,
+  "seq": 9242685,
+  "status": "summarized",
+  "tags": [
+   "restaurants",
+   "small-business",
+   "consumer"
+  ],
+  "title": "How a Chicago Restaurant Has Stayed Open For Nearly Three Decades",
+  "url": "https://app.podwise.ai/dashboard/episodes/9242685",
+  "id": "9242685"
+ },
+ {
+  "addedAt": "2026-10-24T23:47:00Z",
+  "durationMin": null,
+  "lang": "en",
+  "lines": [
+   "The hosts argue AI spending is dangerously concentrated: about 1% of companies account for 90% of it, and most of that comes from unprofitable, VC-backed startups recycling capital — a circular loop without broad enterprise adoption, echoing Ken Griffin's bubble warning.",
+   "With Palo Alto Networks' Nikesh Arora, they frame the PHP exploit as a symptom of deep technical debt; AI has turned cyber defense into an automated cat-and-mouse game won by whoever can aggregate infrastructure data and spot anomalies at scale.",
+   "They say large enterprises are moving toward open-weight models for data sovereignty and auditability, and that autonomous agents in finance need a liability framework separating user error from platform failure.",
+   "On France's unrest, the hosts argue public spending above 50% of GDP fails to deliver quality services and fuels populist anger; they advocate shifting from defined-benefit programs to market-based equity models and selective, productivity-focused immigration."
+  ],
+  "podcast": "All-In Podcast",
+  "publishTime": 1792799576,
+  "seq": 9243709,
+  "status": "summarized",
+  "tags": [
+   "AI-bubble",
+   "cybersecurity",
+   "open-weight-models",
+   "Europe"
+  ],
+  "title": "AI Cyber Panic, Ken Griffin’s Bubble Warning, The Fall of France?",
+  "url": "https://app.podwise.ai/dashboard/episodes/9243709",
+  "id": "9243709"
+ },
+ {
+  "addedAt": "2026-10-24T02:46:49Z",
+  "durationMin": 65,
+  "lang": "en",
+  "lines": [
+   "The panel argues Google is betting on frontier models over near-term cloud profits, and is pushing toward a single, agent-first assistant that sits across its sprawling product lineup.",
+   "In that “headless” future, a unified agent replaces siloed app interfaces, so success gets measured by agentic query volume rather than classic user engagement; the core bottleneck is how Sundar Pichai splits scarce compute between Cloud revenue and research.",
+   "On funding, the hosts see AI moving from open-ended optimism to hard scrutiny, with investors showing fatigue after repeated mega-rounds and asking where personal agents make money.",
+   "Alex Stamos calls this a cybersecurity “Black October”: a critical PHP flaw exposed roughly 70% of websites to remote code execution, amid a surge of automated, AI-enhanced attacks he sees as a permanent shift.",
+   "He argues professionalized access brokers now use agents to find, secure and auction footholds, and that the fix is refactoring legacy stacks like PHP and Node.js into memory-safe languages — newly feasible with AI coding — plus better password hygiene."
+  ],
+  "podcast": "Big Technology Podcast",
+  "publishTime": 1792793520,
+  "seq": 9241773,
+  "status": "summarized",
+  "tags": [
+   "Google",
+   "AI-funding",
+   "cybersecurity",
+   "AI-agents"
+  ],
+  "title": "Google’s Potential, AI Money Spigot Shutting?, PHP Bug & Cybersecurity’s “Black October”",
+  "url": "https://app.podwise.ai/dashboard/episodes/9241773",
+  "id": "9241773"
+ },
+ {
+  "addedAt": "2026-10-23T11:47:12Z",
+  "durationMin": 61,
+  "lang": "en",
+  "lines": [
+   "Andy Jassy says AI demand is unlike anything Amazon has seen: AWS's AI business hit a $25B run rate in three years, and even with about $220B of capex, 2026–27 capacity is largely sold out.",
+   "He expects power, cooling and chip constraints to last several years, and argues broad enterprise adoption needs inference costs to fall by an order of magnitude.",
+   "Custom silicon such as Graviton and Trainium is, in his view, a necessity for price-performance because dominant chip suppliers have little incentive to cut prices.",
+   "Inside Amazon, AI lets small cross-functional teams do in weeks what took dozens of people a year, so he favors versatile engineers over narrow specialists and is rebuilding products like Alexa from scratch.",
+   "He also says AI-speed vulnerability discovery means apps must be patchable by agents in minutes, and likens data center buildouts to the 1950s US highway program."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1792749600,
+  "seq": 9239472,
+  "status": "summarized",
+  "tags": [
+   "AI-capex",
+   "cloud",
+   "semiconductors",
+   "Amazon"
+  ],
+  "title": "Amazon CEO Andy Jassy on Why Amazon Is Investing $220 Billion in AI",
+  "url": "https://app.podwise.ai/dashboard/episodes/9239472",
+  "id": "9239472"
+ },
+ {
+  "addedAt": "2026-10-24T08:48:00Z",
+  "durationMin": 86,
+  "lang": "zh",
+  "lines": [
+   "学者汪玉姣以泰国为切入点，梳理1850至1990年代侨批业的兴衰：这是一套“银信合一”、集汇兑、物流和跨国贸易于一体的去中心化商业网络，在没有现代金融设施的年代靠宗族关系把钱和信从曼谷经香港送到汕头。",
+   "嘉宾指出，批局的主要利润并非手续费，而是汇率差套利，以及把沉淀的汇款资金拿去做贸易周转；联号式的分散结构让它在战争和政策动荡中能及时止损、灵活迁移。",
+   "她认为泰国对华人以“吸纳”为主，通过改名、泰语教育等强制泰化把华人变成泰国公民，与周边国家的激进排华不同；二战“泰日同盟”时期业者仍维持了秘密汇路。",
+   "随着侨眷经济自立、现代金融下沉和通讯进步，侨批的“生存纽带”功能消失，90年代退出历史，部分批局转型旅行社，反映需求从生存汇款转向寻根探亲。"
+  ],
+  "podcast": "忽左忽右",
+  "publishTime": 1792748806,
+  "seq": 9242584,
+  "status": "summarized",
+  "tags": [
+   "历史",
+   "华人网络",
+   "跨境金融",
+   "东南亚"
+  ],
+  "title": "510 泰国侨批沉浮录：下南洋浪潮中的跨国华人经济网络",
+  "url": "https://app.podwise.ai/dashboard/episodes/9242584",
+  "id": "9242584"
+ },
+ {
+  "addedAt": "2026-10-23T11:47:12Z",
+  "durationMin": 44,
+  "lang": "en",
+  "lines": [
+   "Jeanna Smialek, author of The Invisible Hand of Maria Edgeworth, argues the Regency-era novelist spread Adam Smith's ideas to the public by weaving them into fiction.",
+   "She says Edgeworth engaged critically with David Ricardo in letters, questioning comparative advantage and the risks of agricultural over-specialization in Ireland.",
+   "During the potato famine, Edgeworth shifted from strict laissez-faire toward what Smialek frames as proto-Keynesian intervention.",
+   "In Smialek's telling, economics' 19th-century turn to math ('physics jealousy') erased narrative-driven women thinkers, and today's AI disruption echoes the social instability of the early Industrial Revolution."
+  ],
+  "podcast": "Odd Lots",
+  "publishTime": 1792742400,
+  "seq": 9238927,
+  "status": "summarized",
+  "tags": [
+   "economic-history",
+   "economics",
+   "books"
+  ],
+  "title": "The Forgotten Godmother of Economic Literature",
+  "url": "https://app.podwise.ai/dashboard/episodes/9238927",
+  "id": "9238927"
+ },
+ {
+  "addedAt": "2026-10-22T23:47:04Z",
+  "durationMin": 61,
+  "lang": "en",
+  "lines": [
+   "a16z is broadening a16z crypto into a16z Frontier, backing ambitious, cross-disciplinary founders in hardware, science and media rather than investing by category; the hosts say founders should now ask whether an idea is ambitious enough, not too ambitious.",
+   "They argue AI lets small teams build full-stack companies spanning software, hardware and science that once took large organizations decades, and that the gap between AI-native startups and incumbents is the widest in tech history.",
+   "Open-source models are framed as the key safeguard against AI power concentrating in a few companies or governments.",
+   "They expect the internet to shift from human-to-human to agent-to-agent networks, while AI answers break the search-traffic bargain behind web content, forcing new economics and protocols.",
+   "Other ideas: AI reverse engineering makes hardware programmable, and adoption splits by age, with people over 35 tending to see new tech as a threat."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1792685277,
+  "seq": 9231676,
+  "status": "summarized",
+  "tags": [
+   "venture-capital",
+   "AI-agents",
+   "open-source",
+   "a16z"
+  ],
+  "title": "The Frontier Ideas a16z Wants to Fund | Marc Andreessen, Ben Horowitz & Chris Dixon",
+  "url": "https://app.podwise.ai/dashboard/episodes/9231676",
+  "id": "9231676"
+ },
+ {
+  "addedAt": "2026-10-25T08:47:13Z",
+  "durationMin": null,
+  "lang": "en",
+  "lines": [
+   "Magic Patterns CEO Alex Danilowicz argues that as AI speeds up the final production stage, design work shifts toward brainstorming and exploring ideas as interactive, code-backed prototypes rather than static 2D mockups.",
+   "He says the product's canvas interface lets non-designers iterate on many directions at once instead of being locked into a linear chat thread, and that the company built it to solve a pain point its front-end-engineer founders had themselves.",
+   "The episode critiques the 'vibe-coded' look of many AI startup sites: heavy animation, scroll-jacking and hidden calls to action that obscure the product and hurt conversion; for AI apps, a visible prompt box on the landing page is framed as a key conversion driver.",
+   "Other points: privacy and data-retention transparency is becoming a prerequisite for trust, every role should do customer support, and staying differentiated means repeatedly reworking the product around new standards like MCP."
+  ],
+  "podcast": "Y Combinator",
+  "publishTime": 1792681216,
+  "seq": 9233367,
+  "status": "summarized",
+  "tags": [
+   "design",
+   "AI-tools",
+   "startups",
+   "conversion"
+  ],
+  "title": "How To Stand Out In A World Of AI Designs",
+  "url": "https://app.podwise.ai/dashboard/episodes/9233367",
+  "id": "9233367"
+ },
+ {
+  "addedAt": "2026-10-22T11:47:29Z",
+  "durationMin": 53,
+  "lang": "en",
+  "lines": [
+   "Bhaskar Sunkara, co-author of The Blueprint, makes the case for market socialism: worker-managed firms, public banking and an expanded public sector, with markets still coordinating consumer goods.",
+   "He argues it fixes 20th-century socialism's flaws through hard budget constraints that let failing firms die, and benchmark wages that push firms toward productivity and tech investment instead of cheap labor.",
+   "On housing, he proposes public land ownership and state-led construction to bypass zoning barriers, while keeping rent differences based on demand; managers would be rewarded through performance pay and profit-sharing.",
+   "He says AI can't replace markets in coordinating constantly shifting preferences, and names the transition from existing property structures and short election cycles as the main obstacles."
+  ],
+  "podcast": "Odd Lots",
+  "publishTime": 1792656000,
+  "seq": 9225097,
+  "status": "summarized",
+  "tags": [
+   "political-economy",
+   "socialism",
+   "housing"
+  ],
+  "title": "Bhaskar Sunkara Thinks the Market Has a Place Under Socialism",
+  "url": "https://app.podwise.ai/dashboard/episodes/9225097",
+  "id": "9225097"
+ },
+ {
+  "addedAt": "2026-10-22T11:47:29Z",
+  "durationMin": 40,
+  "lang": "en",
+  "lines": [
+   "Intapp's Ben Harrison argues that \"firm AI\" in professional services is moving from research assistants to agents that carry out a firm's own multi-step procedures, such as fundraising, LP onboarding and deal lifecycle management.",
+   "Unlike general frontier models, he says, these agents plug into internal systems and draw on the firm's institutional memory and relationship data, while enforcing information barriers and confidentiality rules.",
+   "He sees governance, not model capability, as the main adoption barrier, and says firms with mature data and digital infrastructure can \"skip the line.\"",
+   "In his view, automating junior analysts' data-heavy work lets firms scale without adding support staff, expanding margins and reshaping the apprenticeship model, while humans keep final decisions."
+  ],
+  "podcast": "Capital Allocators – Inside the Institutional Investment Industry",
+  "publishTime": 1792656000,
+  "seq": 9225293,
+  "status": "summarized",
+  "tags": [
+   "private-equity",
+   "AI-agents",
+   "vertical-software"
+  ],
+  "title": "AI in the Investment Firm – Ben Harrison (EP.522)",
+  "url": "https://app.podwise.ai/dashboard/episodes/9225293",
+  "id": "9225293"
+ },
+ {
+  "addedAt": "2026-10-22T11:47:29Z",
+  "durationMin": 30,
+  "lang": "en",
+  "lines": [
+   "In this sponsored replay, DealCloud's Ben Harrison argues that dealmakers need vertical software, because horizontal CRMs are built for linear sales funnels rather than multi-year relationship networks.",
+   "He says the biggest gain is automated data capture from email, calendars and third-party market data, replacing manual entry; generative AI then becomes a recommendation engine that flags likely deal targets.",
+   "He notes middle-market companies ($25M–$1B revenue) make up two-thirds of US PE deal value, and says Excel and legacy in-house systems remain DealCloud's main competitors.",
+   "He calls private equity and credit a secular bull market and cites projections of the asset class topping $20 trillion as retail access widens."
+  ],
+  "podcast": "Capital Allocators – Inside the Institutional Investment Industry",
+  "publishTime": 1792655400,
+  "seq": 9225112,
+  "status": "summarized",
+  "tags": [
+   "private-equity",
+   "vertical-software",
+   "CRM"
+  ],
+  "title": "[REPLAY] DealCloud - Ben Harrison (Dealcloud), (S3. Sponsored Insight)",
+  "url": "https://app.podwise.ai/dashboard/episodes/9225112",
+  "id": "9225112"
+ },
+ {
+  "addedAt": "2026-10-22T23:47:04Z",
+  "durationMin": 78,
+  "lang": "en",
+  "lines": [
+   "BCG chief economist Philipp Carlsson-Szlezak argues the idea that Gen Z and Millennials are falling behind is wrong: at the same life stage they have higher real incomes and stronger balance sheets than Boomers and Gen X.",
+   "He calls the K-shaped economy story statistically unsupported, saying the bottom of the income distribution has also gained in real income and net worth since 2020.",
+   "On housing, he says Millennial homeownership catches up with Gen X by about age 42, and a constant-size median home has been roughly as affordable for three decades; much of the squeeze reflects a preference for expensive cities.",
+   "He blames the pessimism on social media inflating benchmarks (such as the belief that $600K a year is needed), election cycles and weaker community networks, which feed 'financial nihilism' and spending over saving."
+  ],
+  "podcast": "Hidden Forces",
+  "publishTime": 1792652400,
+  "seq": 9224882,
+  "status": "summarized",
+  "tags": [
+   "macro",
+   "generations",
+   "housing",
+   "inequality"
+  ],
+  "title": "Why Younger Generations Are Convinced They Are Falling Behind | Philipp Carlsson-Szlezak",
+  "url": "https://app.podwise.ai/dashboard/episodes/9224882",
+  "id": "9224882"
+ },
+ {
+  "addedAt": "2026-10-22T02:47:10Z",
+  "durationMin": 72,
+  "lang": "en",
+  "lines": [
+   "The hosts pitch GE Aerospace as a near-monopoly in commercial jet engines with a huge installed base, whose profits come mainly from the aftermarket rather than new engines.",
+   "They describe a razor-and-blade model: engines are sold around break-even, while services and spare parts make up over 70% of revenue and most profits, with returns on invested capital near 40%.",
+   "Regulatory certification locks suppliers in for decades, and mandated maintenance plus the need for original parts make the aftermarket captive and more resilient than new-equipment sales.",
+   "They credit CEO Larry Culp's breakup of the old GE conglomerate and operational focus, citing the pieces' combined value rising from $96B to over $600B in eight years, and in-house castings to ease supply bottlenecks.",
+   "The main risk, in their view, is valuation: at about 40x free cash flow despite a $210B backlog, the stock is exposed to slower Boeing/Airbus output, normalizing maintenance cycles and multiple compression; the segment's profit fell 82% in 2020."
+  ],
+  "podcast": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
+  "publishTime": 1792627200,
+  "seq": 9223249,
+  "status": "summarized",
+  "tags": [
+   "aerospace",
+   "industrials",
+   "stock-pitch",
+   "valuation"
+  ],
+  "title": "TIP854: GE Aerospace: Chris Hohn’s Biggest Bet w/ Daniel Mahncke & Shawn O'Malley",
+  "url": "https://app.podwise.ai/dashboard/episodes/9223249",
+  "id": "9223249"
+ },
+ {
+  "addedAt": "2026-10-22T23:47:04Z",
+  "durationMin": null,
+  "lang": "en",
+  "lines": [
+   "IBM's Arvind Krishna and Palo Alto Networks' Nikesh Arora warn that quantum computing could break today's encryption by around 2030, so the move to post-quantum cryptography must start now to counter 'harvest now, decrypt later' attacks.",
+   "The guests expect 75–90% of enterprise token use to go to cheaper, auditable open-weight models, with frontier models reserved for high-stakes tasks.",
+   "They see a return to vertical integration, IBM- or Nvidia-style, and argue that thousands of separate software vendors create an unmanageable attack surface, driving consolidation onto a few platforms as AI makes many point tools redundant.",
+   "On security and policy, they call for pooled vulnerability data to reach parity with attackers, describe the global AI race as one no country will slow, and say agentic coding still can't be fully verified for high-reliability uses like banking."
+  ],
+  "podcast": "All-In Podcast",
+  "publishTime": 1792626170,
+  "seq": 9226846,
+  "status": "summarized",
+  "tags": [
+   "cybersecurity",
+   "quantum-computing",
+   "open-weight-models",
+   "SaaS"
+  ],
+  "title": "Arvind Krishna & Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare & SaaS Collapse",
+  "url": "https://app.podwise.ai/dashboard/episodes/9226846",
+  "id": "9226846"
+ },
+ {
+  "addedAt": "2026-10-21T11:48:00Z",
+  "durationMin": 38,
+  "lang": "en",
+  "lines": [
+   "Reducto CEO Adit Abraham argues that documents — PDFs, spreadsheets, scans — are the missing infrastructure layer holding AI agents back from real-world work.",
+   "He says frontier models look precise but have poor recall on long or complex files, silently dropping data in ways generic benchmarks don't catch; traditional OCR fares worse on nested tables and odd layouts.",
+   "Reducto's answer is specialized vision-language models plus self-correcting harnesses for deterministic, high-fidelity extraction, now extended to context-aware reasoning and document editing, with over 7 billion pages processed.",
+   "He sees a market opening because big labs compete on general reasoning, leaving the document 'last mile' to specialists; the episode cites 80% of insurance claim appeals being overturned as evidence of costly manual errors.",
+   "Abraham dismisses public benchmarks as marketing and recommends evaluating on domain-specific data with LLM-as-judge rubrics."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1792576800,
+  "seq": 9220527,
+  "status": "summarized",
+  "tags": [
+   "AI-agents",
+   "document-AI",
+   "infrastructure"
+  ],
+  "title": "The Missing Infrastructure for AI Agents: Documents | Reducto’s Adit Abraham",
+  "url": "https://app.podwise.ai/dashboard/episodes/9220527",
+  "id": "9220527"
+ },
+ {
+  "addedAt": "2026-10-21T11:48:00Z",
+  "durationMin": 38,
+  "lang": "en",
+  "lines": [
+   "Nobel laureate James Robinson (Why Nations Fail) argues that political institutions determine economic outcomes: inclusive rules channel energy into innovation, while extractive ones enrich narrow elites.",
+   "He says the US is not a failed state but faces a crisis of inclusion, noting real incomes for the non-college majority have stagnated for about 50 years, alongside polarization and falling trust.",
+   "Robinson views China's boom as 'extractive growth' that he expects to stall, since the lack of political accountability eventually chokes off creative destruction.",
+   "He frames AI as an Industrial Revolution-style shock where productivity gains may displace unskilled wages, making distribution the central political problem; he cites South Korea as a model of accountable industrial policy.",
+   "He also defends trade unions as a check on employer monopsony power and says ideas about legitimacy shape state behavior as much as material interests."
+  ],
+  "podcast": "Odd Lots",
+  "publishTime": 1792569600,
+  "seq": 9217568,
+  "status": "summarized",
+  "tags": [
+   "macro",
+   "institutions",
+   "political-economy",
+   "China"
+  ],
+  "title": "James Robinson on What It Looks Like When a State is Failing",
+  "url": "https://app.podwise.ai/dashboard/episodes/9217568",
+  "id": "9217568"
+ },
+ {
+  "addedAt": "2026-10-21T02:46:57Z",
+  "durationMin": 120,
+  "lang": "zh",
+  "lines": [
+   "科沃斯 CEO 钱程谈“创二代”接班：难点在于把父辈那个时代的成功要素，转化成能穿越周期的新竞争力，推动公司从制造根基走向创新驱动和全球化。",
+   "他认为战略能否落地，取决于能否和组织里沉淀几十年的文化与执行习惯（“神经系统”）对接；组织变革不能照搬西方管理理论，要靠制度和信任逐步从“人治”走向体系化。",
+   "在竞争上，他认为消费电子没有永久护城河，品牌只是用户下次购买时的记忆提示，真正的壁垒是迭代速度和定义新场景的能力；对手是“试金石”，而非要消灭的目标。",
+   "对 AI 和机器人他保持克制：家庭场景的 AI 应用仍在“拿锤子找钉子”阶段；他判断机器人会像物种进化一样多形态并存，而不是都走向人形，企业应围绕具体场景深挖。"
+  ],
+  "podcast": "张小珺Jùn｜商业访谈录",
+  "publishTime": 1792540800,
+  "seq": 9215793,
+  "status": "summarized",
+  "tags": [
+   "企业传承",
+   "机器人",
+   "消费电子",
+   "科沃斯"
+  ],
+  "title": "155. 和科沃斯钱程聊，父与子、企二代接班的样本与肌理、机器人，和我内心的追寻",
+  "url": "https://app.podwise.ai/dashboard/episodes/9215793",
+  "id": "9215793"
+ },
+ {
+  "addedAt": "2026-10-21T05:47:31Z",
+  "durationMin": 47,
+  "lang": "en",
+  "lines": [
+   "Sundar Pichai says compute is the main bottleneck for frontier AI, and that Google's capacity today reflects infrastructure bets made years ago; it must split that compute between Cloud customers and its own Gemini research.",
+   "He frames recursive self-improvement as AI agents helping researchers build models in an iterative loop, not an uncontrolled intelligence explosion.",
+   "Pichai cites AI coding gains inside Google: roughly 30% more code submissions and about a third fewer rollbacks caused by errors.",
+   "On safety, he argues for defense in depth (real-time monitoring, sandboxing) and eventually independent, industry-wide audits modeled on financial controls.",
+   "Looking out 20 years, he sees interfaces shifting to agents that adapt to users, and mentions experimental ideas like space-based data centers powered by solar energy."
+  ],
+  "podcast": "Big Technology Podcast",
+  "publishTime": 1792516680,
+  "seq": 9214545,
+  "status": "summarized",
+  "tags": [
+   "AI-capex",
+   "Google",
+   "AI-agents",
+   "compute"
+  ],
+  "title": "Google CEO Sundar Pichai: AI’s Infinite Possibilities, Compute Scarcity Dilemmas, Future AI Products",
+  "url": "https://app.podwise.ai/dashboard/episodes/9214545",
+  "id": "9214545"
+ },
+ {
+  "addedAt": "2026-10-21T14:47:15Z",
+  "durationMin": 71,
+  "lang": "en",
+  "lines": [
+   "Mercedes F1 boss Toto Wolff says cost caps have turned Formula 1 from an unlimited R&D arms race into a resource-allocation game, and teams from marketing cost centers into profitable businesses with roughly 30% EBIT margins thanks to scarce franchises and booming popularity.",
+   "He credits Drive to Survive with layering soap-opera storytelling on top of a credible, rule-based sport, pulling in new audiences such as young women; he argues that credibility is what underpins teams' multi-billion-dollar valuations.",
+   "On talent, Wolff says Mercedes scouts drivers from karting as young as eight, looking for an intuitive 'connectedness' to the car and social competence rather than physical metrics alone.",
+   "Inside the team he enforces a 'no genius asshole' rule, and before pushing regulatory gray-area innovations, engineers run 'mock trials' arguing both sides of their legality.",
+   "As an investor he stresses exiting when valuations detach from reality, and says founder transitions need the outgoing leader to stay out of day-to-day operations."
+  ],
+  "podcast": "Cheeky Pint",
+  "publishTime": 1792501500,
+  "seq": 9207875,
+  "status": "summarized",
+  "tags": [
+   "sports-business",
+   "Formula-1",
+   "management",
+   "valuation"
+  ],
+  "title": "How Toto Wolff built the most valuable team in F1",
+  "url": "https://app.podwise.ai/dashboard/episodes/9207875",
+  "id": "9207875"
+ },
+ {
+  "addedAt": "2026-10-20T19:50:00Z",
+  "durationMin": 87,
+  "lang": "zh",
+  "lines": [
+   "全球流动性已经到了“存量博弈”阶段，钱不够同时撑起 AI 基建投入和各国政府扩表。",
+   "国内看 9 月金融数据：直接融资占比再次超过贷款；政府发债后不再赶进度投项目，更多用于化债和应对外部冲击；助贷和影子银行被收紧后，居民短贷出现负增长。",
+   "AI 方面，数据中心债在二级市场折价，市场从奖励“投得多”转向惩罚负自由现金流。",
+   "应对思路：节目称人民币跨境结算占比已到五成左右，贸易顺差通过 ODI 留在海外；政策引导公募均衡配置、险资持有高股息蓝筹来稳定指数。"
+  ],
+  "podcast": "高能量",
+  "publishTime": 1792493032,
+  "seq": 9206669,
+  "status": "summarized",
+  "tags": [
+   "宏观",
+   "全球流动性",
+   "AI资本开支",
+   "人民币国际化"
+  ],
+  "title": "Vol.238 宏观漫谈112｜全球资本市场，集体“缺钱”？",
+  "url": "https://app.podwise.ai/dashboard/episodes/9206669",
+  "id": "9206669"
+ },
+ {
+  "addedAt": "2026-10-20T19:46:45Z",
+  "durationMin": 56,
+  "lang": "en",
+  "lines": [
+   "OpenAI's health AI lead Karan Singhal argues AI can become a proactive \"quarterback\" for personal health, with 300M+ people already asking ChatGPT health questions each week.",
+   "He says training general-purpose models with medical data at every phase beats building standalone healthcare models, which quickly go stale.",
+   "Use cases he highlights: a safety net for patients in fragmented care, catching drug interactions and missed diagnoses for clinicians, and cutting the 5–17 year lag before new guidelines reach practice.",
+   "The main adoption barrier, in his view, is friction: AI must sit inside existing workflows such as EHRs; he also sees payer and provider billing bots moving from an arms race to a shared record of the encounter.",
+   "Biggest cost savings, he argues, will come from managing chronic conditions early as the price of high-level medical intelligence keeps falling."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1792490400,
+  "seq": 9206402,
+  "status": "summarized",
+  "tags": [
+   "healthcare-AI",
+   "OpenAI",
+   "AI-adoption"
+  ],
+  "title": "What Happens When Everyone Has a Health Expert in Their Pocket? | OpenAI’s Karan Singhal",
+  "url": "https://app.podwise.ai/dashboard/episodes/9206402",
+  "id": "9206402"
+ },
+ {
+  "addedAt": "2026-10-21T02:46:57Z",
+  "durationMin": 69,
+  "lang": "zh",
+  "lines": [
+   "四川大学王果老师讲卢作孚如何把匪患丛生的北碚建成现代工业中心，认为这是中国本土化现代化的一个重要样本。",
+   "关键在于峡防局：原本的地方团练被改造成“寓兵于工”的现代机构，以较低成本维持治安，同时推动市政改革、煤矿开发和民众教育。",
+   "卢作孚以铁路和航运把煤炭变成工业动力，把能源中心和工业中心结合起来，并创办中国西部科学院，让科研直接服务农业、矿业生产；这些积累后来成为抗战大后方工业化的能源支撑。",
+   "嘉宾认为，和外来知识分子的乡建实验相比，本地精英依托社会网络推动的“在地工业化”更有执行力；重庆作为陪都的工业与科教基因，源自战前的系统布局，而非战争偶然。"
+  ],
+  "podcast": "忽左忽右",
+  "publishTime": 1792487190,
+  "seq": 9215792,
+  "status": "summarized",
+  "tags": [
+   "近代史",
+   "现代化",
+   "工业化",
+   "重庆"
+  ],
+  "title": "509 通往战时陪都之路：卢作孚建设重庆北碚往事",
+  "url": "https://app.podwise.ai/dashboard/episodes/9215792",
+  "id": "9215792"
+ },
+ {
+  "addedAt": "2026-10-20T19:46:45Z",
+  "durationMin": 30,
+  "lang": "en",
+  "lines": [
+   "CME CEO Terry Duffy argues regulators are sidestepping core principles by approving contracts open to manipulation, such as prediction markets on trivial events.",
+   "He says perpetual futures are really swaps: with no expiry and complex funding rates, they are hard for institutions to risk-manage.",
+   "He sees 24/7 trading as inevitable, but says banking and settlement infrastructure can't yet support it for big asset classes like equities, risking pockets of illiquidity.",
+   "Duffy also expects the GPU compute market to outgrow crypto by 2030 and to need futures for hedging; he calls for durable rules that survive changes of administration and equal access to market data."
+  ],
+  "podcast": "Odd Lots",
+  "publishTime": 1792483200,
+  "seq": 9205915,
+  "status": "summarized",
+  "tags": [
+   "market-structure",
+   "regulation",
+   "prediction-markets",
+   "derivatives"
+  ],
+  "title": "CME's Terry Duffy on the Disconcerting State of Finance Regulation",
+  "url": "https://app.podwise.ai/dashboard/episodes/9205915",
+  "id": "9205915"
+ },
+ {
+  "addedAt": "2026-10-20T19:50:00Z",
+  "durationMin": 57,
+  "lang": "en",
+  "lines": [
+   "Vanta's CEO on turning a compliance-automation SaaS into an AI security platform: a \"Trust Graph\" of each customer's systems lets agents handle offboarding, monitoring and remediation at machine speed.",
+   "On the business model, she warns that token-based pricing invites direct comparison with raw model costs, and favors usage, retention and long-run margins over low-margin AI growth.",
+   "Other threads: agents need modular codebases, pen testing is shifting to continuous automated fixes, pay dispersion is widening for high-agency talent, and some non-US customers are diversifying away from US models."
+  ],
+  "podcast": "Invest Like the Best",
+  "publishTime": 1792483200,
+  "seq": 9205917,
+  "status": "summarized",
+  "tags": [
+   "SaaS",
+   "cybersecurity",
+   "AI-agents",
+   "software-pricing"
+  ],
+  "title": "Christina Cacioppo - Building an Enduring Software Company in the Age of AI - [Invest Like the Best, EP.496]",
+  "url": "https://app.podwise.ai/dashboard/episodes/9205917",
+  "id": "9205917"
+ },
+ {
+  "addedAt": "2026-10-20T19:46:45Z",
+  "durationMin": 41,
+  "lang": "en",
+  "lines": [
+   "Figma CEO Dylan Field argues that as AI commoditizes code, software differentiation shifts to design, brand and emotional resonance: \"design is the new code.\"",
+   "In his view, AI lowers the floor for production but doesn't raise the ceiling; quality still depends on human intent and bold, non-consensus ideas outside models' training distribution.",
+   "On the blocked $20B Adobe deal, he says a long regulatory review can hurt innovation more than the competition it targets, by freezing companies in ambiguity.",
+   "He pushes back on the \"SaaS apocalypse\": vendors with deep, specialized workflows and strong UX are still growing; he also expects explicit AI disclosure to become a trust signal."
+  ],
+  "podcast": "All-In Podcast",
+  "publishTime": 1792447565,
+  "seq": 9204238,
+  "status": "summarized",
+  "tags": [
+   "design",
+   "SaaS",
+   "AI-tools",
+   "Figma"
+  ],
+  "title": "Dylan Field: Is AI Replacing Designers?, Design is the New Code & Democratizing Creativity",
+  "url": "https://app.podwise.ai/dashboard/episodes/9204238",
+  "id": "9204238"
+ }
+]

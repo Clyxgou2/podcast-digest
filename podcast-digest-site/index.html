@@ -1,0 +1,422 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>播客新集速览</title>
+<meta name="description" content="Podwise 关注节目的新集 AI 摘要，每集 3–5 行主旨和主题标签。">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Ccircle cx='8' cy='8' r='6' fill='%23C2410C'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+Condensed:wght@500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+*, *::before, *::after { box-sizing: border-box; }
+:root {
+  --bg: #F4F5F7;
+  --surface: #FFFFFF;
+  --fg: #18202C;
+  --muted: #5B6576;
+  --line: #DADFE6;
+  --chip: #E9ECF1;
+  --accent: #C2410C;
+  --accent-soft: #FBE8DE;
+  --font-body: "IBM Plex Sans", "PingFang SC", "Hiragino Sans GB", "Noto Sans SC", "Microsoft YaHei", system-ui, sans-serif;
+  --font-display: "IBM Plex Sans Condensed", "PingFang SC", "Hiragino Sans GB", "Noto Sans SC", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0F1319; --surface: #161B23; --fg: #E5E8ED; --muted: #98A1B0;
+    --line: #29303B; --chip: #1F2630; --accent: #FF8A4C; --accent-soft: #3A2217;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0F1319; --surface: #161B23; --fg: #E5E8ED; --muted: #98A1B0;
+  --line: #29303B; --chip: #1F2630; --accent: #FF8A4C; --accent-soft: #3A2217;
+  color-scheme: dark;
+}
+[hidden] { display: none !important; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-body);
+  font-size: 15px;
+  line-height: 1.6;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 28px 56px;
+}
+.wrap { max-width: 720px; margin: 0 auto; display: flex; flex-direction: column; gap: 22px; }
+
+header { display: flex; flex-direction: column; gap: 6px; }
+.eyebrow {
+  display: flex; align-items: center; gap: 8px;
+  font-family: var(--font-mono); font-size: 12px; letter-spacing: .06em; text-transform: uppercase; color: var(--muted);
+}
+.onair { width: 8px; height: 8px; border-radius: 50%; background: var(--accent); flex: none; }
+h1 { margin: 0; font-family: var(--font-display); font-weight: 600; font-size: 30px; line-height: 1.2; text-wrap: balance; }
+.sub { margin: 0; color: var(--muted); font-size: 14px; }
+.stats { font-family: var(--font-mono); font-size: 12.5px; color: var(--muted); font-variant-numeric: tabular-nums; }
+
+.filters { display: flex; flex-direction: column; gap: 10px; }
+.row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; background: var(--surface); }
+.seg button {
+  font: inherit; font-size: 13px; padding: 6px 12px; border: 0; background: transparent; color: var(--muted); cursor: pointer;
+}
+.seg button + button { border-left: 1px solid var(--line); }
+.seg button[aria-pressed="true"] { background: var(--fg); color: var(--bg); }
+#q {
+  flex: 1 1 180px; min-width: 0; font: inherit; font-size: 14px; padding: 6px 10px;
+  border: 1px solid var(--line); border-radius: 8px; background: var(--surface); color: var(--fg);
+}
+.tagbar { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 2px; scrollbar-width: thin; }
+.tag {
+  flex: none; font-family: var(--font-body); font-size: 12.5px; line-height: 1.4; padding: 3px 9px;
+  border-radius: 999px; border: 1px solid transparent; background: var(--chip); color: var(--fg); cursor: pointer; white-space: nowrap;
+}
+.tag:hover { border-color: var(--line); }
+.tag[aria-pressed="true"] { background: var(--accent-soft); color: var(--accent); border-color: var(--accent); }
+.tag .n { color: var(--muted); font-family: var(--font-mono); font-size: 11px; margin-left: 4px; }
+.daterow { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.datebar { flex: 1 1 240px; min-width: 0; display: flex; gap: 6px; overflow-x: auto; padding-bottom: 2px; scrollbar-width: thin; }
+.dchip {
+  flex: none; min-width: 58px; display: flex; flex-direction: column; align-items: center; gap: 1px;
+  padding: 6px 10px; font: inherit; line-height: 1.25; cursor: pointer;
+  border: 1px solid var(--line); border-radius: 8px; background: var(--surface); color: var(--fg);
+}
+.dchip .w { font-family: var(--font-mono); font-size: 11px; color: var(--muted); }
+.dchip .d { font-family: var(--font-display); font-weight: 600; font-size: 16px; font-variant-numeric: tabular-nums; }
+.dchip .c { font-family: var(--font-mono); font-size: 11px; color: var(--accent); font-variant-numeric: tabular-nums; }
+.dchip:hover { border-color: var(--muted); }
+.dchip[aria-pressed="true"] { background: var(--fg); border-color: var(--fg); color: var(--bg); }
+.dchip[aria-pressed="true"] .w, .dchip[aria-pressed="true"] .c { color: var(--bg); opacity: .8; }
+#date-pick {
+  flex: none; font: inherit; font-size: 13px; padding: 5px 8px;
+  border: 1px solid var(--line); border-radius: 8px; background: var(--surface); color: var(--fg);
+}
+button:focus-visible, a:focus-visible, input:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+#feed { display: flex; flex-direction: column; gap: 40px; }
+.day { display: flex; flex-direction: column; }
+.day-h {
+  position: sticky; top: 0; z-index: 2;
+  margin: 0; font-size: inherit; font-weight: inherit;
+  display: flex; align-items: baseline; flex-wrap: wrap; gap: 4px 10px;
+  padding-block: 12px 10px; background: var(--bg); border-bottom: 2px solid var(--fg);
+}
+.day-date { font-family: var(--font-display); font-weight: 600; font-size: 24px; line-height: 1.2; }
+.day-week { font-family: var(--font-mono); font-size: 13px; color: var(--muted); }
+.day-rel {
+  align-self: center; font-family: var(--font-mono); font-size: 11px; letter-spacing: .06em;
+  padding: 1px 7px; border-radius: 4px; background: var(--accent); color: var(--bg);
+}
+.day-count { margin-left: auto; font-family: var(--font-mono); font-size: 12.5px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.ep { display: flex; flex-direction: column; gap: 6px; padding: 16px 0; border-bottom: 1px solid var(--line); min-width: 0; }
+.ep-top { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+.pod { font-family: var(--font-display); font-weight: 500; font-size: 13.5px; color: var(--accent); }
+.meta { font-family: var(--font-mono); font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.lang {
+  font-family: var(--font-mono); font-size: 10.5px; letter-spacing: .06em; padding: 0 5px; border-radius: 4px;
+  border: 1px solid var(--line); color: var(--muted);
+}
+.ep h3 { margin: 0; font-size: 16.5px; line-height: 1.4; font-weight: 600; text-wrap: balance; overflow-wrap: anywhere; }
+.ep h3 a { color: inherit; text-decoration: none; }
+.ep h3 a:hover { text-decoration: underline; text-decoration-color: var(--accent); text-underline-offset: 3px; }
+.sum { display: flex; flex-direction: column; gap: 4px; max-width: 65ch; }
+.sum p { margin: 0; overflow-wrap: anywhere; }
+.ep.pending h3, .ep.pending .sum { color: var(--muted); }
+.note { font-size: 13px; color: var(--muted); font-style: italic; margin: 0; }
+.ep .tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 2px; }
+
+.empty {
+  padding: 28px 20px; border: 1px dashed var(--line); border-radius: 10px; background: var(--surface);
+  display: flex; flex-direction: column; gap: 6px;
+}
+.empty strong { font-family: var(--font-display); font-size: 16px; }
+.empty p { margin: 0; color: var(--muted); font-size: 14px; }
+footer { color: var(--muted); font-size: 12.5px; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow"><span class="onair" aria-hidden="true"></span><span>Podwise · 关注列表</span></div>
+    <h1>播客新集速览</h1>
+    <p class="sub">每 3 小时检查一次（香港时间 07:00–24:00），新集有 AI 摘要后收进这里。中文节目用中文写，英文节目用英文写。</p>
+    <div class="stats" id="stats">正在读取…</div>
+  </header>
+
+  <section class="filters" aria-label="筛选">
+    <div class="row">
+      <div class="seg" role="group" aria-label="语言">
+        <button type="button" id="lang-all" data-lang="all" aria-pressed="true">全部</button>
+        <button type="button" id="lang-zh" data-lang="zh" aria-pressed="false">中文</button>
+        <button type="button" id="lang-en" data-lang="en" aria-pressed="false">English</button>
+      </div>
+      <input id="q" type="search" placeholder="搜索节目、标题或内容" autocomplete="off">
+    </div>
+    <div class="daterow">
+      <div class="datebar" id="datebar" role="group" aria-label="按日期筛选"></div>
+      <input id="date-pick" type="date" aria-label="选择日期" title="选择日期">
+    </div>
+    <div class="tagbar" id="tagbar" aria-label="主题标签"></div>
+  </section>
+
+  <main id="feed">
+    <div class="empty">
+      <strong>正在加载摘要…</strong>
+    </div>
+  </main>
+
+  <footer>摘要由 AI 根据 Podwise 的节目摘要改写，仅供参考；点标题可到 Podwise 查看原集。</footer>
+</div>
+
+<script>
+(function () {
+  var state = { rows: [], lang: "all", tag: null, q: "", date: null };
+  var TZ = "Asia/Hong_Kong";
+  var mdFmt = new Intl.DateTimeFormat("zh-CN", { timeZone: TZ, month: "long", day: "numeric" });
+  var wdFmt = new Intl.DateTimeFormat("zh-CN", { timeZone: TZ, weekday: "short" });
+  var shortFmt = new Intl.DateTimeFormat("en-US", { timeZone: TZ, month: "numeric", day: "numeric" });
+  var keyFmt = new Intl.DateTimeFormat("en-CA", { timeZone: TZ, year: "numeric", month: "2-digit", day: "2-digit" });
+  var timeFmt = new Intl.DateTimeFormat("en-GB", { timeZone: TZ, hour: "2-digit", minute: "2-digit", hour12: false });
+  var stampFmt = new Intl.DateTimeFormat("zh-CN", { timeZone: TZ, month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit", hour12: false });
+
+  function el(tag, cls, text) {
+    var n = document.createElement(tag);
+    if (cls) n.className = cls;
+    if (text != null) n.textContent = text;
+    return n;
+  }
+  function str(v) { return typeof v === "string" ? v : ""; }
+  function arr(v) { return Array.isArray(v) ? v.filter(function (x) { return typeof x === "string" && x.trim(); }) : []; }
+  function safeUrl(r) {
+    var u = str(r.url);
+    if (/^https:\/\/app\.podwise\.ai\//.test(u)) return u;
+    var s = Number(r.seq);
+    return s > 0 ? "https://app.podwise.ai/dashboard/episodes/" + s : null;
+  }
+  function langOf(r) { return r.lang === "zh" ? "zh" : "en"; }
+
+  function keyOfDate(d) {
+    var p = {};
+    keyFmt.formatToParts(d).forEach(function (x) { p[x.type] = x.value; });
+    return p.year + "-" + p.month + "-" + p.day;
+  }
+  function keyOf(r) { return keyOfDate(new Date(Number(r.publishTime || 0) * 1000)); }
+  function dateFromKey(k) { return new Date(k + "T12:00:00+08:00"); }
+  function relLabel(k) {
+    var now = Date.now();
+    if (k === keyOfDate(new Date(now))) return "今天";
+    if (k === keyOfDate(new Date(now - 864e5))) return "昨天";
+    return "";
+  }
+
+  function matches(r, skip) {
+    if (skip !== "lang" && state.lang !== "all" && langOf(r) !== state.lang) return false;
+    if (skip !== "date" && state.date && keyOf(r) !== state.date) return false;
+    if (skip !== "tag" && state.tag && arr(r.tags).indexOf(state.tag) === -1) return false;
+    if (state.q) {
+      var hay = [str(r.podcast), str(r.title)].concat(arr(r.lines), arr(r.tags)).join(" ").toLowerCase();
+      if (hay.indexOf(state.q) === -1) return false;
+    }
+    return true;
+  }
+
+  function renderStats() {
+    var box = document.getElementById("stats");
+    var done = state.rows.filter(function (r) { return r.status === "summarized"; }).length;
+    var latest = state.rows.map(function (r) { return Date.parse(str(r.addedAt)) || 0; }).reduce(function (a, b) { return Math.max(a, b); }, 0);
+    box.textContent = "已收录 " + done + " 集" + (latest ? " · 最近更新 " + stampFmt.format(new Date(latest)) : "");
+  }
+
+  function renderTags() {
+    var bar = document.getElementById("tagbar");
+    var counts = {};
+    state.rows.forEach(function (r) {
+      if (!matches(r, "tag")) return;
+      arr(r.tags).forEach(function (t) { counts[t] = (counts[t] || 0) + 1; });
+    });
+    var list = Object.keys(counts).sort(function (a, b) { return counts[b] - counts[a] || a.localeCompare(b); }).slice(0, 24);
+    if (state.tag && list.indexOf(state.tag) === -1) list.unshift(state.tag);
+    bar.replaceChildren();
+    list.forEach(function (t) {
+      var b = el("button", "tag", "#" + t);
+      b.type = "button";
+      b.setAttribute("aria-pressed", String(state.tag === t));
+      b.appendChild(el("span", "n", String(counts[t] || 0)));
+      b.addEventListener("click", function () { state.tag = state.tag === t ? null : t; render(); });
+      bar.appendChild(b);
+    });
+    bar.hidden = list.length === 0;
+  }
+
+  function dchip(k, top, main, n) {
+    var b = el("button", "dchip");
+    b.type = "button";
+    b.setAttribute("aria-pressed", String(state.date === k));
+    b.appendChild(el("span", "w", top));
+    b.appendChild(el("span", "d", main));
+    b.appendChild(el("span", "c", n + " 集"));
+    b.addEventListener("click", function () { state.date = k; render(); });
+    return b;
+  }
+
+  function renderDates() {
+    var bar = document.getElementById("datebar");
+    var counts = {};
+    var total = 0;
+    state.rows.forEach(function (r) {
+      if (!matches(r, "date")) return;
+      var k = keyOf(r);
+      counts[k] = (counts[k] || 0) + 1;
+      total++;
+    });
+    var keys = Object.keys(counts);
+    if (state.date && keys.indexOf(state.date) === -1) keys.push(state.date);
+    keys.sort().reverse();
+    bar.replaceChildren(dchip(null, "日期", "全部", total));
+    keys.forEach(function (k) {
+      var d = dateFromKey(k);
+      bar.appendChild(dchip(k, relLabel(k) || wdFmt.format(d), shortFmt.format(d), counts[k] || 0));
+    });
+    var pick = document.getElementById("date-pick");
+    var all = state.rows.map(keyOf).sort();
+    if (all.length) {
+      var today = keyOfDate(new Date());
+      pick.min = all[0];
+      pick.max = all[all.length - 1] > today ? all[all.length - 1] : today;
+    }
+    pick.value = state.date || "";
+  }
+
+  function entry(r) {
+    var pending = r.status !== "summarized";
+    var art = el("article", "ep" + (pending ? " pending" : ""));
+    var top = el("div", "ep-top");
+    top.appendChild(el("span", "pod", str(r.podcast) || "未知节目"));
+    var bits = [];
+    if (r.publishTime) bits.push(timeFmt.format(new Date(Number(r.publishTime) * 1000)));
+    if (r.durationMin) bits.push(langOf(r) === "zh" ? r.durationMin + " 分钟" : r.durationMin + " min");
+    top.appendChild(el("span", "meta", bits.join(" · ")));
+    top.appendChild(el("span", "lang", langOf(r) === "zh" ? "ZH" : "EN"));
+    art.appendChild(top);
+
+    var h = el("h3");
+    var url = safeUrl(r);
+    if (url) {
+      var a = el("a", null, str(r.title) || "(无标题)");
+      a.href = url; a.target = "_blank"; a.rel = "noopener";
+      h.appendChild(a);
+    } else {
+      h.textContent = str(r.title) || "(无标题)";
+    }
+    art.appendChild(h);
+
+    var lines = arr(r.lines);
+    if (lines.length) {
+      var sum = el("div", "sum");
+      lines.forEach(function (l) { sum.appendChild(el("p", null, l)); });
+      art.appendChild(sum);
+    }
+    if (pending) art.appendChild(el("p", "note", "Podwise 还没有生成 AI 摘要，生成后会自动补上。"));
+
+    var tags = arr(r.tags);
+    if (tags.length) {
+      var tw = el("div", "tags");
+      tags.forEach(function (t) {
+        var b = el("button", "tag", "#" + t);
+        b.type = "button";
+        b.setAttribute("aria-pressed", String(state.tag === t));
+        b.addEventListener("click", function () { state.tag = state.tag === t ? null : t; render(); window.scrollTo({ top: 0, behavior: "smooth" }); });
+        tw.appendChild(b);
+      });
+      art.appendChild(tw);
+    }
+    return art;
+  }
+
+  function render() {
+    renderStats();
+    renderDates();
+    renderTags();
+    ["all", "zh", "en"].forEach(function (k) {
+      document.getElementById("lang-" + k).setAttribute("aria-pressed", String(state.lang === k));
+    });
+    var feed = document.getElementById("feed");
+    var rows = state.rows.filter(matches);
+    feed.replaceChildren();
+    if (!state.rows.length) {
+      var e = el("div", "empty");
+      e.appendChild(el("strong", null, "还没有摘要"));
+      e.appendChild(el("p", null, "关注的节目出了新集、Podwise 生成好 AI 摘要后，这里会按日期列出 3–5 行的主旨和主题标签。"));
+      feed.appendChild(e);
+      return;
+    }
+    if (!rows.length) {
+      var f = el("div", "empty");
+      f.appendChild(el("strong", null, state.date ? mdFmt.format(dateFromKey(state.date)) + "没有符合筛选的单集" : "没有符合筛选的单集"));
+      f.appendChild(el("p", null, "换一个日期、标签、语言或关键词试试。"));
+      feed.appendChild(f);
+      return;
+    }
+    var groups = [];
+    var byKey = {};
+    rows.forEach(function (r) {
+      var k = keyOf(r);
+      if (!byKey[k]) { byKey[k] = { key: k, items: [] }; groups.push(byKey[k]); }
+      byKey[k].items.push(r);
+    });
+    var frag = document.createDocumentFragment();
+    groups.forEach(function (g) {
+      var sec = el("section", "day");
+      var d = dateFromKey(g.key);
+      var h = el("h2", "day-h");
+      h.appendChild(el("span", "day-date", mdFmt.format(d)));
+      h.appendChild(el("span", "day-week", wdFmt.format(d)));
+      var rel = relLabel(g.key);
+      if (rel) h.appendChild(el("span", "day-rel", rel));
+      h.appendChild(el("span", "day-count", g.items.length + " 集"));
+      sec.appendChild(h);
+      g.items.forEach(function (r) { sec.appendChild(entry(r)); });
+      frag.appendChild(sec);
+    });
+    feed.appendChild(frag);
+  }
+
+  document.querySelectorAll(".seg button").forEach(function (b) {
+    b.addEventListener("click", function () { state.lang = b.getAttribute("data-lang"); render(); });
+  });
+  var qTimer;
+  document.getElementById("q").addEventListener("input", function (ev) {
+    clearTimeout(qTimer);
+    var v = ev.target.value;
+    qTimer = setTimeout(function () { state.q = v.trim().toLowerCase(); render(); }, 150);
+  });
+  var pick = document.getElementById("date-pick");
+  pick.addEventListener("change", function () {
+    state.date = pick.value || null;
+    render();
+    var bar = document.getElementById("datebar");
+    var sel = bar.querySelector('.dchip[aria-pressed="true"]');
+    if (sel) bar.scrollLeft += sel.getBoundingClientRect().left - bar.getBoundingClientRect().left - 8;
+  });
+
+  fetch("episodes.json?t=" + Date.now(), { cache: "no-store" })
+    .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(function (rows) {
+      state.rows = (Array.isArray(rows) ? rows : []).slice().sort(function (a, b) { return (b.publishTime || 0) - (a.publishTime || 0); });
+      render();
+    })
+    .catch(function (err) {
+      document.getElementById("stats").textContent = "读取摘要时出错（" + err.message + "），请刷新页面重试。";
+    });
+})();
+</script>
+</body>
+</html>
