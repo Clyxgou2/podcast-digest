@@ -1,0 +1,25 @@
+{
+  "addedAt": "2026-10-26T11:47:29Z",
+  "durationMin": 45,
+  "lang": "en",
+  "lines": [
+    "OpenAI's Ari Weinstein and James Sun argue computer-using agents now work faster than the average human, and that the next step — superhuman speed — will change how people interact with software.",
+    "They frame the screen itself as a universal interface: agents can automate legacy enterprise systems that never got APIs, with standards like WebMCP helping agents and humans share the same interfaces.",
+    "They say cutting 'thinking tokens' drives both speed and reliability for OpenAI's Astra model, and that small gains — say from 97% to 99% task success — matter a lot for enterprise trust.",
+    "Enterprise adoption, in their view, needs deterministic sandbox controls plus configurable human-in-the-loop review, while the best workflows shift toward proactive background agents that fix issues before people notice.",
+    "They expect traditional UIs to survive because people like direct manipulation, and see the startup opportunity in vertical tools that stitch together non-API legacy systems."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1793008800,
+  "seq": 9251130,
+  "status": "summarized",
+  "tags": [
+    "AI-agents",
+    "computer-use",
+    "enterprise-AI",
+    "OpenAI"
+  ],
+  "tg": true,
+  "title": "OpenAI: When AI Agents Use Computers Faster Than You",
+  "url": "https://app.podwise.ai/dashboard/episodes/9251130"
+}

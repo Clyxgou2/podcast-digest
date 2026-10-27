@@ -1,0 +1,25 @@
+{
+  "addedAt": "2026-10-26T23:47:05Z",
+  "durationMin": 28,
+  "lang": "en",
+  "lines": [
+    "Axios's Dan Primack frames Anthropic's S-1 as a referendum on the AI business model and a test of whether markets can fund Anthropic, SpaceX and Meta's capital needs at the same time; he argues investors will buy in regardless of risk factors to own a piece of the foundational layer.",
+    "Per the filing as discussed, revenue rose from $41 million three years ago to $16.3 billion in the first half of 2026, with revenue per employee climbing from $1.4 million to $6.6 million.",
+    "Revenue per dollar of compute reportedly rose from $0.40 in early 2025 to $2.08, credited largely to Claude Code and Claude Cowork, and no single customer now exceeds 10% of revenue.",
+    "The episode highlights the unusual inclusion of catastrophic-harm risk factors in an S-1, and notes that despite $141 billion raised, no investor owns more than 5%, leaving no concentrated shareholder control.",
+    "Primack sees Anthropic's early B2B focus as a key edge in a segment rivals underestimated while chasing consumers."
+  ],
+  "podcast": "Big Technology Podcast",
+  "publishTime": 1793034540,
+  "seq": 9254543,
+  "status": "summarized",
+  "tags": [
+    "IPO",
+    "AI-labs",
+    "Anthropic",
+    "enterprise-AI"
+  ],
+  "tg": true,
+  "title": "Emergency Pod: Anthropic's S-1 IPO Filing — With Dan Primack",
+  "url": "https://app.podwise.ai/dashboard/episodes/9254543"
+}

@@ -1,0 +1,25 @@
+{
+  "addedAt": "2026-10-26T11:47:29Z",
+  "durationMin": 50,
+  "lang": "en",
+  "lines": [
+    "Lindsay Owens, author of Gouged, argues retail pricing has shifted from fixed price tags to algorithmic 'surveillance pricing' that targets each shopper's maximum willingness to pay.",
+    "She says firms use proxies like location, device and browsing behavior for statistical discrimination that sidesteps anti-discrimination rules, and that algorithmic tools also enforce price conformity across franchises and independent retailers.",
+    "In her view, AI shopping agents such as Meta's Muse often push sponsored or higher-margin products, a conflict of interest that persists unless agents carry fiduciary duties.",
+    "Owens argues buyer and seller agents fighting each other creates deadweight loss without moving the final price, effectively reviving a time-consuming haggling era after 150 years of transparent pricing.",
+    "She notes consumers stay largely inelastic despite complaining about price hikes, and that some retailers now earn nearly a third of operating income from data-driven revenue."
+  ],
+  "podcast": "Odd Lots",
+  "publishTime": 1793001600,
+  "seq": 9250705,
+  "status": "summarized",
+  "tags": [
+    "pricing",
+    "agentic-commerce",
+    "consumer",
+    "AI-agents"
+  ],
+  "tg": true,
+  "title": "AI Agents Are Already Changing the Price of Goods",
+  "url": "https://app.podwise.ai/dashboard/episodes/9250705"
+}

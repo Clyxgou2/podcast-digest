@@ -1,0 +1,25 @@
+{
+  "addedAt": "2026-10-24T11:46:59Z",
+  "durationMin": 42,
+  "lang": "en",
+  "lines": [
+    "Ben Horowitz argues that AI makes companies easier to start, but the hardest parts of founding — deciding under uncertainty, building momentum and managing self-doubt — haven't changed.",
+    "He frames AI as a \"probabilistic computer\" with instant utility, letting small teams reach huge audiences without the slow, network-dependent adoption curve of the early internet.",
+    "He rejects the \"GPT wrapper\" critique: serious apps combine multiple models and accumulate proprietary data, which becomes a durable moat alongside market dominance.",
+    "In his view, VC's real value today is generating momentum through hiring and customer wins rather than product advice, and AI entertainment is a new medium, not automated film or TV.",
+    "His advice for crises: founders need a sense of inevitability to push through doubt, and should ignore the overwhelming implications and focus only on the single best available move."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1792836000,
+  "seq": 9242931,
+  "status": "summarized",
+  "tags": [
+    "entrepreneurship",
+    "venture-capital",
+    "AI-startups",
+    "leadership"
+  ],
+  "tg": true,
+  "title": "What It Takes to Win as a Founder | Ben Horowitz",
+  "url": "https://app.podwise.ai/dashboard/episodes/9242931"
+}

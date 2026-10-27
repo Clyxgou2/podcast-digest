@@ -1,0 +1,25 @@
+{
+  "addedAt": "2026-10-26T23:47:05Z",
+  "durationMin": 63,
+  "lang": "en",
+  "lines": [
+    "Paul Kedrosky argues the AI capex boom is uniquely dangerous because it combines four classic crisis drivers at once: loose credit, data-center real estate speculation, a transformative-technology narrative and US–China arms-race spending.",
+    "He says AI capex accounts for 25%–60% of quarterly US GDP growth, masking weakness elsewhere and distorting the usual read on economic health.",
+    "Unlike earlier general-purpose technologies that complemented labor, he sees AI as a substitute for white-collar symbolic work, implying faster, broader labor disruption.",
+    "He flags fragile demand: roughly 70% of frontier-lab revenue comes from about eight companies, and debt-financed buildouts could end in a Japan-style balance-sheet recession where rate cuts lose traction.",
+    "For analysts, he argues basic modeling is now a commodity; human value shifts to spotting inflections and tail events, since models drift toward the center of the distribution."
+  ],
+  "podcast": "Hidden Forces",
+  "publishTime": 1792998000,
+  "seq": 9250380,
+  "status": "summarized",
+  "tags": [
+    "AI-capex",
+    "macro",
+    "credit",
+    "bubble-risk"
+  ],
+  "tg": true,
+  "title": "The Most Dangerous Investment Cycle In History | Paul Kedrosky",
+  "url": "https://app.podwise.ai/dashboard/episodes/9250380"
+}
