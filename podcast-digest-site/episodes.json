@@ -1,5 +1,180 @@
 [
  {
+  "addedAt": "2026-10-26T23:47:05Z",
+  "durationMin": 28,
+  "lang": "en",
+  "lines": [
+   "Axios's Dan Primack frames Anthropic's S-1 as a referendum on the AI business model and a test of whether markets can fund Anthropic, SpaceX and Meta's capital needs at the same time; he argues investors will buy in regardless of risk factors to own a piece of the foundational layer.",
+   "Per the filing as discussed, revenue rose from $41 million three years ago to $16.3 billion in the first half of 2026, with revenue per employee climbing from $1.4 million to $6.6 million.",
+   "Revenue per dollar of compute reportedly rose from $0.40 in early 2025 to $2.08, credited largely to Claude Code and Claude Cowork, and no single customer now exceeds 10% of revenue.",
+   "The episode highlights the unusual inclusion of catastrophic-harm risk factors in an S-1, and notes that despite $141 billion raised, no investor owns more than 5%, leaving no concentrated shareholder control.",
+   "Primack sees Anthropic's early B2B focus as a key edge in a segment rivals underestimated while chasing consumers."
+  ],
+  "podcast": "Big Technology Podcast",
+  "publishTime": 1793034540,
+  "seq": 9254543,
+  "status": "summarized",
+  "tags": [
+   "IPO",
+   "AI-labs",
+   "Anthropic",
+   "enterprise-AI"
+  ],
+  "title": "Emergency Pod: Anthropic's S-1 IPO Filing — With Dan Primack",
+  "url": "https://app.podwise.ai/dashboard/episodes/9254543",
+  "id": "9254543"
+ },
+ {
+  "addedAt": "2026-10-26T14:47:18Z",
+  "durationMin": 141,
+  "lang": "zh",
+  "lines": [
+   "上海交大教授陆铭认为，人口向大城市集聚是提升效率的经济规律，AI时代服务业占比上升、面对面交流需求增加，反而会强化中心城市的吸引力。",
+   "他认为汽车等行业的“内卷”源于地方政府招商引资的恶性竞争，以牺牲国内劳动者福利和环境为代价，变相补贴了海外消费者。",
+   "陆铭称大城市高房价很大程度上来自建设用地指标管制造成的人为供给短缺；县域竞争早期有助资本积累，如今已演变为市场分割和重复建设，需转向统一大市场。",
+   "在消费上，他认为劳动时间过长压抑了服务消费，主张限制工时、放开服务业管制，并配合公共服务均等化和税制改革来释放内需。",
+   "他还主张AI时代教育应从记忆、演算等技能转向通识教育，培养审美、价值观和对人性的理解，并呼吁建立解释中国央地关系的新经济学研究范式。"
+  ],
+  "podcast": "高能量",
+  "publishTime": 1793019022,
+  "seq": 9253115,
+  "status": "summarized",
+  "tags": [
+   "宏观",
+   "城市化",
+   "内卷",
+   "房地产"
+  ],
+  "title": "Vol.239 访问思考者1｜李翔对话陆铭：聊聊AI、内卷、房价和消费抉择",
+  "url": "https://app.podwise.ai/dashboard/episodes/9253115",
+  "id": "9253115"
+ },
+ {
+  "addedAt": "2026-10-26T11:47:29Z",
+  "durationMin": 45,
+  "lang": "en",
+  "lines": [
+   "OpenAI's Ari Weinstein and James Sun argue computer-using agents now work faster than the average human, and that the next step — superhuman speed — will change how people interact with software.",
+   "They frame the screen itself as a universal interface: agents can automate legacy enterprise systems that never got APIs, with standards like WebMCP helping agents and humans share the same interfaces.",
+   "They say cutting 'thinking tokens' drives both speed and reliability for OpenAI's Astra model, and that small gains — say from 97% to 99% task success — matter a lot for enterprise trust.",
+   "Enterprise adoption, in their view, needs deterministic sandbox controls plus configurable human-in-the-loop review, while the best workflows shift toward proactive background agents that fix issues before people notice.",
+   "They expect traditional UIs to survive because people like direct manipulation, and see the startup opportunity in vertical tools that stitch together non-API legacy systems."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1793008800,
+  "seq": 9251130,
+  "status": "summarized",
+  "tags": [
+   "AI-agents",
+   "computer-use",
+   "enterprise-AI",
+   "OpenAI"
+  ],
+  "title": "OpenAI: When AI Agents Use Computers Faster Than You",
+  "url": "https://app.podwise.ai/dashboard/episodes/9251130",
+  "id": "9251130"
+ },
+ {
+  "addedAt": "2026-10-27T05:47:48Z",
+  "durationMin": 122,
+  "lang": "zh",
+  "lines": [
+   "《中国菜市场》作者、中山大学副教授钟淑如认为，菜市场不只是买菜的地方，而是城市里连接自然、地方文化与人际关系的“关系基础设施”。",
+   "她指出电商和超市的工业化供应链追求标准化与高周转，会过滤掉产量不稳、卖相差但风味独特的本地品种，让餐桌趋于同质化，也遮蔽了食物的产地和季节感。",
+   "菜市场接纳这些非标商品，扮演“补位者”角色；摊主作为“食物的人证”，靠长期信任网络维系社区生态，他们追求的“自由”是对生活节奏的掌控，代价是高强度、全年无休的劳动。",
+   "节目还谈到食物消费的阶级属性：高端农夫市集带有中产符号，传统菜市场则是少数高性价比、能容纳各类人群的公共空间。",
+   "嘉宾认为“过日子”的关键是建立自己的在地供应商网络，把吃饭从单纯摄入变成与地方、季节共振的日常练习。"
+  ],
+  "podcast": "面基",
+  "publishTime": 1793007000,
+  "seq": 9251238,
+  "status": "summarized",
+  "tags": [
+   "城市生活",
+   "菜市场",
+   "消费",
+   "社会学"
+  ],
+  "title": "既然都争当「过日子人」，那一起去逛菜市场吧！",
+  "url": "https://app.podwise.ai/dashboard/episodes/9251238",
+  "id": "9251238"
+ },
+ {
+  "addedAt": "2026-10-26T11:47:29Z",
+  "durationMin": 50,
+  "lang": "en",
+  "lines": [
+   "Lindsay Owens, author of Gouged, argues retail pricing has shifted from fixed price tags to algorithmic 'surveillance pricing' that targets each shopper's maximum willingness to pay.",
+   "She says firms use proxies like location, device and browsing behavior for statistical discrimination that sidesteps anti-discrimination rules, and that algorithmic tools also enforce price conformity across franchises and independent retailers.",
+   "In her view, AI shopping agents such as Meta's Muse often push sponsored or higher-margin products, a conflict of interest that persists unless agents carry fiduciary duties.",
+   "Owens argues buyer and seller agents fighting each other creates deadweight loss without moving the final price, effectively reviving a time-consuming haggling era after 150 years of transparent pricing.",
+   "She notes consumers stay largely inelastic despite complaining about price hikes, and that some retailers now earn nearly a third of operating income from data-driven revenue."
+  ],
+  "podcast": "Odd Lots",
+  "publishTime": 1793001600,
+  "seq": 9250705,
+  "status": "summarized",
+  "tags": [
+   "pricing",
+   "agentic-commerce",
+   "consumer",
+   "AI-agents"
+  ],
+  "title": "AI Agents Are Already Changing the Price of Goods",
+  "url": "https://app.podwise.ai/dashboard/episodes/9250705",
+  "id": "9250705"
+ },
+ {
+  "addedAt": "2026-10-26T11:47:29Z",
+  "durationMin": 48,
+  "lang": "en",
+  "lines": [
+   "Scott Ramsower, who runs private equity funds at the $250 billion Teacher Retirement System of Texas, argues continuation vehicles are inherently conflicted because the GP is both seller and buyer, so every deal needs bespoke scrutiny of pricing, process and alignment.",
+   "He warns CVs and NAV loans can produce 'synthetic' DPI that flatters track records, and that routinely moving top assets into CVs strips commingled funds of the right-tail upside that drives PE returns.",
+   "He sees a growing pile of 'zombie funds' that can neither exit assets nor raise new capital, which will absorb LP governance time and drag on industry performance.",
+   "Ramsower argues semi-liquid retail PE products undermine the asset class's core edge, since illiquidity protects long-term value creation, and that fee-paying CVs cannibalize the fee-free co-investment flow LPs built over decades.",
+   "His answer is 'craftsmanship alpha': pairing quantitative diligence with a qualitative read of GP partnership cohesion that tends to crack when performance slips."
+  ],
+  "podcast": "Capital Allocators – Inside the Institutional Investment Industry",
+  "publishTime": 1793001600,
+  "seq": 9250932,
+  "status": "summarized",
+  "tags": [
+   "private-equity",
+   "continuation-vehicles",
+   "LPs",
+   "pensions"
+  ],
+  "title": "Continuation Vehicles from the LP Seat – Scott Ramsower (EP.523)",
+  "url": "https://app.podwise.ai/dashboard/episodes/9250932",
+  "id": "9250932"
+ },
+ {
+  "addedAt": "2026-10-26T23:47:05Z",
+  "durationMin": 63,
+  "lang": "en",
+  "lines": [
+   "Paul Kedrosky argues the AI capex boom is uniquely dangerous because it combines four classic crisis drivers at once: loose credit, data-center real estate speculation, a transformative-technology narrative and US–China arms-race spending.",
+   "He says AI capex accounts for 25%–60% of quarterly US GDP growth, masking weakness elsewhere and distorting the usual read on economic health.",
+   "Unlike earlier general-purpose technologies that complemented labor, he sees AI as a substitute for white-collar symbolic work, implying faster, broader labor disruption.",
+   "He flags fragile demand: roughly 70% of frontier-lab revenue comes from about eight companies, and debt-financed buildouts could end in a Japan-style balance-sheet recession where rate cuts lose traction.",
+   "For analysts, he argues basic modeling is now a commodity; human value shifts to spotting inflections and tail events, since models drift toward the center of the distribution."
+  ],
+  "podcast": "Hidden Forces",
+  "publishTime": 1792998000,
+  "seq": 9250380,
+  "status": "summarized",
+  "tags": [
+   "AI-capex",
+   "macro",
+   "credit",
+   "bubble-risk"
+  ],
+  "title": "The Most Dangerous Investment Cycle In History | Paul Kedrosky",
+  "url": "https://app.podwise.ai/dashboard/episodes/9250380",
+  "id": "9250380"
+ },
+ {
   "addedAt": "2026-10-25T11:47:31Z",
   "durationMin": 34,
   "lang": "en",
