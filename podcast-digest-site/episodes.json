@@ -1,5 +1,30 @@
 [
  {
+  "addedAt": "2026-10-29T23:46:53Z",
+  "durationMin": 50,
+  "lang": "en",
+  "lines": [
+   "The a16z team argues that America's defense, energy, manufacturing and robotics booms are converging into one story: rebuilding the domestic industrial base, which they frame as essential to national security and long-term competitiveness.",
+   "In their view, defense contracts act as a financial catalyst that effectively subsidizes industrial capacity later used by commercial sectors like robotics and medical devices, while private capital now funds systems ahead of government demand, bypassing the procurement 'valley of death'.",
+   "They say startups such as Mariana Minerals and Hadrian often must vertically integrate because legacy suppliers lack the agility and technology next-generation systems need, and that AI lets technicians reconfigure lines on the fly, making high-mix, low-volume manufacturing economical.",
+   "The hosts describe a new class of 'co-engineering' suppliers that rethink subcomponents rather than just executing old specs, and argue the grid must shift from static mechanical designs to software-native power electronics.",
+   "They also contend physical-world companies are drawing the most ambitious founders, and that bringing local communities into the economic upside is key to winning public support for new infrastructure."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1793281800,
+  "seq": 9280671,
+  "status": "summarized",
+  "tags": [
+   "defense-tech",
+   "manufacturing",
+   "energy",
+   "industrial-policy"
+  ],
+  "title": "The Startups Rebuilding American Industry | The AD50",
+  "url": "https://app.podwise.ai/dashboard/episodes/9280671",
+  "id": "9280671"
+ },
+ {
   "addedAt": "2026-10-29T14:51:10Z",
   "durationMin": 53,
   "lang": "en",
