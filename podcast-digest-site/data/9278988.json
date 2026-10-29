@@ -1,0 +1,24 @@
+{
+  "addedAt": "2026-10-29T11:49:30Z",
+  "durationMin": 41,
+  "lang": "en",
+  "lines": [
+    "Barclays' Alex Altmann argues the AI trade is in a 'denial phase': sentiment stays overwhelmingly bullish even as financing stress builds at the edges of the build-out.",
+    "He sees a widening split between cash-rich hyperscalers and peripheral 'neoclouds' that are finding debt markets harder to tap, as AI capex — potentially reaching around 12% of GDP by some projections — competes for finite capital.",
+    "Altmann describes a 'KOSPI-fication' of the S&P 500, with roughly 75% of expected earnings growth concentrated in semiconductors and the wider AI ecosystem, and says the shifting beta of the 'AI factor' makes it hard for multi-manager funds to hedge.",
+    "He notes semiconductor stocks trade on very low multiples (he cites about 3x P/E), signaling investors believe the sector is at a cyclical peak rather than a secular inflection.",
+    "In his view, the next leg up needs a killer consumer application, since enterprise revenue alone can't justify multi-trillion-dollar valuations, while running large models locally on consumer hardware could reduce reliance on centralized data centers."
+  ],
+  "podcast": "Odd Lots",
+  "publishTime": 1793260800,
+  "seq": 9278988,
+  "status": "summarized",
+  "tags": [
+    "AI-capex",
+    "semiconductors",
+    "equities",
+    "credit"
+  ],
+  "title": "What Wall Street Really Thinks About the AI Trade Now",
+  "url": "https://app.podwise.ai/dashboard/episodes/9278988"
+}

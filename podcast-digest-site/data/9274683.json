@@ -1,0 +1,24 @@
+{
+  "addedAt": "2026-10-28T23:46:37Z",
+  "durationMin": 66,
+  "lang": "en",
+  "lines": [
+    "Wharton professor Ethan Mollick argues AI has a large 'capability overhang': today's tools could already transform the economy, but organizational inertia keeps their impact far below what the technology allows.",
+    "He says individual workers see big productivity gains, yet companies lag because they lack 'multiplayer' processes to absorb high-volume AI output into team workflows, and have lost the muscle memory for redesigning roles and mandates.",
+    "In his view, reasoning models that think on a scratchpad before answering, plus agentic harnesses that let AI operate computers, have moved the technology from passive chat to multi-step task execution.",
+    "Mollick notes some large firms already earn positive ROI by using models as 'super-analysts' to find internal inefficiencies and launch new products, and expects falling token costs to make today's budget worries moot.",
+    "He warns AI tutors help when they scaffold learning but cause de-skilling when used to skip the effort that real learning requires."
+  ],
+  "podcast": "Big Technology Podcast",
+  "publishTime": 1793195640,
+  "seq": 9274683,
+  "status": "summarized",
+  "tags": [
+    "AI-productivity",
+    "enterprise-AI",
+    "AI-agents",
+    "future-of-work"
+  ],
+  "title": "This AI Expert Argues We're Underestimating AI's Productivity Impact — With Ethan Mollick",
+  "url": "https://app.podwise.ai/dashboard/episodes/9274683"
+}
