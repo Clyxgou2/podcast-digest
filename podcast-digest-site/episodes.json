@@ -1,5 +1,205 @@
 [
  {
+  "addedAt": "2026-10-29T11:49:30Z",
+  "durationMin": 41,
+  "lang": "en",
+  "lines": [
+   "Barclays' Alex Altmann argues the AI trade is in a 'denial phase': sentiment stays overwhelmingly bullish even as financing stress builds at the edges of the build-out.",
+   "He sees a widening split between cash-rich hyperscalers and peripheral 'neoclouds' that are finding debt markets harder to tap, as AI capex — potentially reaching around 12% of GDP by some projections — competes for finite capital.",
+   "Altmann describes a 'KOSPI-fication' of the S&P 500, with roughly 75% of expected earnings growth concentrated in semiconductors and the wider AI ecosystem, and says the shifting beta of the 'AI factor' makes it hard for multi-manager funds to hedge.",
+   "He notes semiconductor stocks trade on very low multiples (he cites about 3x P/E), signaling investors believe the sector is at a cyclical peak rather than a secular inflection.",
+   "In his view, the next leg up needs a killer consumer application, since enterprise revenue alone can't justify multi-trillion-dollar valuations, while running large models locally on consumer hardware could reduce reliance on centralized data centers."
+  ],
+  "podcast": "Odd Lots",
+  "publishTime": 1793260800,
+  "seq": 9278988,
+  "status": "summarized",
+  "tags": [
+   "AI-capex",
+   "semiconductors",
+   "equities",
+   "credit"
+  ],
+  "title": "What Wall Street Really Thinks About the AI Trade Now",
+  "url": "https://app.podwise.ai/dashboard/episodes/9278988",
+  "id": "9278988"
+ },
+ {
+  "addedAt": "2026-10-29T02:46:38Z",
+  "durationMin": 86,
+  "lang": "en",
+  "lines": [
+   "Kyle Grieve and Shawn O'Malley argue Airbnb has become a capital-light, high-margin toll booth on global travel, and that its slowdown looks more like groundwork for the next growth phase than a peak.",
+   "They point to gross booking value compounding at 34% since 2024 and first-time bookers at a four-year high, with a moat built on about 500 million reviews and 200 million verified identities that capital alone can't replicate.",
+   "Growth levers they highlight include hotel inventory as an acquisition funnel (35% of first-time hotel guests book a home within a year) and India growing about 60% a year, while sponsored-listing revenue is delayed as management prioritizes AI-driven search.",
+   "The hosts credit 'founder mode' with doubling revenue on a roughly pre-pandemic headcount, and say revenue now outgrows stock-based comp, with strong free cash flow funding aggressive buybacks.",
+   "They treat regulatory crackdowns in New York and Barcelona as local headwinds given 9 million listings across 220 countries, while flagging cyclical travel risk and AI-agent competition."
+  ],
+  "podcast": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
+  "publishTime": 1793232000,
+  "seq": 9276995,
+  "status": "summarized",
+  "tags": [
+   "consumer-internet",
+   "travel",
+   "Airbnb",
+   "stock-analysis"
+  ],
+  "title": "TIP856: Airbnb (ABNB): The Business Outgrew Its Peak, The Stock Hasn't w/ Kyle Grieve & Shawn O'Malley",
+  "url": "https://app.podwise.ai/dashboard/episodes/9276995",
+  "id": "9276995"
+ },
+ {
+  "addedAt": "2026-10-28T23:46:37Z",
+  "durationMin": 66,
+  "lang": "en",
+  "lines": [
+   "Wharton professor Ethan Mollick argues AI has a large 'capability overhang': today's tools could already transform the economy, but organizational inertia keeps their impact far below what the technology allows.",
+   "He says individual workers see big productivity gains, yet companies lag because they lack 'multiplayer' processes to absorb high-volume AI output into team workflows, and have lost the muscle memory for redesigning roles and mandates.",
+   "In his view, reasoning models that think on a scratchpad before answering, plus agentic harnesses that let AI operate computers, have moved the technology from passive chat to multi-step task execution.",
+   "Mollick notes some large firms already earn positive ROI by using models as 'super-analysts' to find internal inefficiencies and launch new products, and expects falling token costs to make today's budget worries moot.",
+   "He warns AI tutors help when they scaffold learning but cause de-skilling when used to skip the effort that real learning requires."
+  ],
+  "podcast": "Big Technology Podcast",
+  "publishTime": 1793195640,
+  "seq": 9274683,
+  "status": "summarized",
+  "tags": [
+   "AI-productivity",
+   "enterprise-AI",
+   "AI-agents",
+   "future-of-work"
+  ],
+  "title": "This AI Expert Argues We're Underestimating AI's Productivity Impact — With Ethan Mollick",
+  "url": "https://app.podwise.ai/dashboard/episodes/9274683",
+  "id": "9274683"
+ },
+ {
+  "addedAt": "2026-10-28T11:47:43Z",
+  "durationMin": 61,
+  "lang": "en",
+  "lines": [
+   "Mark Cuban argues US healthcare's core problem is missing price discovery and broken incentives, and that AI alone won't fix it; transparency is the most effective disruptive tool.",
+   "His immediate advice for employers: run every benefits contract through AI before signing to expose hidden fees and intercompany transfers, which he calls 'contractual terrorism' by vertically integrated carriers steering plans to their own high-cost subsidiaries.",
+   "He says Cost Plus Drugs' public, low-markup pricing has pushed incumbents to cut prices even without direct deals, and proposes mandatory disclosure of taxpayer-funded contracts and letting cheaper out-of-network care count toward deductibles.",
+   "Cuban sees modular, trailer-sized manufacturing pods enabling local production of sterile injectables and personalized 'end-of-one' therapies, with DNA-based medicine becoming a subscription service as AI pushes drug design costs toward zero.",
+   "He expects doctors to become physician-scientists using AI on patient-specific data, and argues companies need C-suites that understand how models work to stay competitive."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1793181600,
+  "seq": 9273846,
+  "status": "summarized",
+  "tags": [
+   "healthcare",
+   "pharma",
+   "AI",
+   "employer-benefits"
+  ],
+  "title": "Mark Cuban’s Plan to Make Healthcare Affordable",
+  "url": "https://app.podwise.ai/dashboard/episodes/9273846",
+  "id": "9273846"
+ },
+ {
+  "addedAt": "2026-10-28T11:47:43Z",
+  "durationMin": 80,
+  "lang": "en",
+  "lines": [
+   "United Airlines CEO Scott Kirby argues long-term capital bets beat short-term Wall Street metrics, pointing to United's large fleet expansion during COVID while rivals shrank.",
+   "He sees fast low-Earth-orbit Wi-Fi via Starlink as the industry's biggest differentiator, made possible by moving reservation software, seatback entertainment and other core systems in-house onto a modern tech stack.",
+   "Kirby says money-losing 'strategic' routes with no path to profit should be cut, and rejects customer surveys and expert consensus as poor predictors of how people actually behave.",
+   "He argues AI's real value is in speeding up programming and automating real-time decisions, and that showing customers data like radar maps during weather delays sharply improves satisfaction.",
+   "In his view, air traffic control modernization is the single biggest capacity bottleneck, held back by political incentives to keep scattered facilities."
+  ],
+  "podcast": "Cheeky Pint",
+  "publishTime": 1793101500,
+  "seq": 9257860,
+  "status": "summarized",
+  "tags": [
+   "airlines",
+   "Starlink",
+   "capex",
+   "AI"
+  ],
+  "title": "The airline CEO putting Starlink on every plane",
+  "url": "https://app.podwise.ai/dashboard/episodes/9257860",
+  "id": "9257860"
+ },
+ {
+  "addedAt": "2026-10-27T11:48:10Z",
+  "durationMin": 57,
+  "lang": "en",
+  "lines": [
+   "Alpha School founder Joe Liemandt argues AI learning engines let students master the standard curriculum in about two hours a day, and the freed time should go to agency, teamwork, entrepreneurship and leadership rather than more academics.",
+   "He says engagement peaks when students are kept at roughly 80–85% correct — hard enough to require effort but not so hard they disengage — and that demanding challenges like MBA-level simulations make young students happier than simplified content.",
+   "The guests liken AI's impact on education to the tractor's arrival in 1910, which made traditional career paths obsolete and forced institutions to restructure.",
+   "They argue entrepreneurship is a teachable, repeatable skill set, and that universities fail mainly because they are built around adults and faculty rather than student success.",
+   "In their view, AI turns students from passive consumers into builders of software and products, and direct access to accomplished people makes high achievement feel attainable."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1793095200,
+  "seq": 9257321,
+  "status": "summarized",
+  "tags": [
+   "education",
+   "AI",
+   "edtech",
+   "entrepreneurship"
+  ],
+  "title": "Reinventing School for the AI Era | Joe Liemandt, Gagan Biyani & Erik Torenberg",
+  "url": "https://app.podwise.ai/dashboard/episodes/9257321",
+  "id": "9257321"
+ },
+ {
+  "addedAt": "2026-10-28T08:47:22Z",
+  "durationMin": 118,
+  "lang": "zh",
+  "lines": [
+   "清华大学副教授袁先欣以2016年在伦敦政经学院重见天日的费孝通英文小说手稿《茧》为线索，认为它展示了费孝通社会学家身份之外，用文学探索中国农村工业化与社会改良的一面。",
+   "嘉宾认为30年代江南农村危机不只是“封建剥削”，而是大萧条背景下银本位货币制度与国际丝价波动共同造成的城乡经济循环断裂；与茅盾《春蚕》的左翼革命叙事不同，《茧》对农村出路给出了改良式设想。",
+   "小说中制丝工厂管理和女工生活的细节，取材于费孝通二姐费达生的蚕丝业改革实践；节目也借此重新评价费达生、朱玉宝等女性知识分子在实业救国和劳工福利中的核心作用。",
+   "嘉宾指出，费孝通转向社会学，深受大革命失败后社会性质论战和兄长投身革命的情感影响；而写《茧》的动机之一，是赛珍珠《大地》走红后西方对中国题材的兴趣。",
+   "节目还比较了关中与江南农村在土地占有、宗族形态和金融化程度上的差异，认为这解释了不同作家对“农村问题”的认知分歧。"
+  ],
+  "podcast": "忽左忽右",
+  "publishTime": 1793093073,
+  "seq": 9273158,
+  "status": "summarized",
+  "tags": [
+   "历史",
+   "社会学",
+   "费孝通",
+   "农村经济"
+  ],
+  "title": "511 重新发现费孝通：文学视角下的三十年代江南丝业危机与北平青年思潮",
+  "url": "https://app.podwise.ai/dashboard/episodes/9273158",
+  "id": "9273158"
+ },
+ {
+  "addedAt": "2026-10-27T09:22:50Z",
+  "durationMin": 61,
+  "lang": "en",
+  "lines": [
+   "CAS Investment Partners founder Cliff Sosin argues intelligence has hard limits: it is a ratio for predicting complex dynamic systems, not an unbounded quantity, since reality often requires real-world experimentation.",
+   "As intelligence gets cheap, he says value shifts to its complements — proprietary data, human attention, physical proximity and scale, and emotional attachment — and investors should favor businesses that use them to lower costs or improve customer outcomes.",
+   "He expects most intelligence tasks to commoditize with rapid price deflation, leaving frontier models valuable only in a narrow set of use cases, and describes a U-shaped demand curve where falling prices eventually stop generating new usage.",
+   "He views the AI infrastructure build-out as a speculative but efficient redeployment of capital, like past industrial booms, while warning of overcapacity and a 'winner's curse' that makes picking winners hard.",
+   "Sosin also says AI-driven portfolio construction is outperforming humans on sizing, and argues education must stay bimodal: build foundational skills without models so people can direct them well."
+  ],
+  "podcast": "Invest Like the Best with Patrick O'Shaughnessy",
+  "publishTime": 1793088000,
+  "seq": 9256861,
+  "status": "summarized",
+  "tags": [
+   "AI-economics",
+   "investing",
+   "AI-capex",
+   "commoditization"
+  ],
+  "title": "Cliff Sosin - Owning the Complements to Intelligence - [Invest Like the Best, EP.497]",
+  "url": "https://app.podwise.ai/dashboard/episodes/9256861",
+  "id": "9256861"
+ },
+ {
   "addedAt": "2026-10-26T23:47:05Z",
   "durationMin": 28,
   "lang": "en",
