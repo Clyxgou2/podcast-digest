@@ -1,5 +1,29 @@
 [
  {
+  "addedAt": "2026-10-29T14:51:10Z",
+  "durationMin": 53,
+  "lang": "en",
+  "lines": [
+   "OpenAI CEO Sam Altman argues that teams of collaborating AI agents, not one monolithic superintelligence, scale better and are easier to keep aligned, making them the more resilient path forward.",
+   "On security, he says models now find vulnerabilities (such as critical PHP bugs) faster than humans can patch them, so the real task is re-architecting systems; he calls sandboxing superhuman models unsolved and points to deep alignment and activation monitoring instead.",
+   "He frames AI capital allocation as compute allocation: giving researchers unconstrained compute and leaning on test-time compute and chain-of-thought is what produces breakthroughs like OpenAI's internal Navier-Stokes proof experiments, which he admits brings some nostalgia for manual research.",
+   "Altman says personal agents have not yet had their 'Macintosh moment' because they lack reliability, but expects commerce to shift from web forms to agents acting for users; tokens stay the pricing unit because customers want cost predictability over outcome-based pricing."
+  ],
+  "podcast": "Cheeky Pint",
+  "publishTime": 1793274300,
+  "seq": 9280392,
+  "status": "summarized",
+  "tags": [
+   "AI-agents",
+   "AI-safety",
+   "compute",
+   "OpenAI"
+  ],
+  "title": "Why Sam Altman is against a single superintelligence",
+  "url": "https://app.podwise.ai/dashboard/episodes/9280392",
+  "id": "9280392"
+ },
+ {
   "addedAt": "2026-10-29T11:49:30Z",
   "durationMin": 41,
   "lang": "en",
