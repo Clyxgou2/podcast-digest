@@ -1,0 +1,23 @@
+{
+  "addedAt": "2026-10-30T11:47:23Z",
+  "durationMin": 49,
+  "lang": "en",
+  "lines": [
+    "Thai Duong and Bruce Dang of hacking firm Calif argue AI is collapsing the window between finding a software flaw and exploiting it, so defenses built around patching and detection are no longer enough.",
+    "They say models good at coding and debugging are inherently good at hacking, so the offensive risk can't be separated from the productivity gains; the PHP2Shell bug, dormant in a language used by about 70% of websites, is their example.",
+    "In their view, AI agents can reverse-engineer public patches on GitHub into working exploits before users update, and attacks have shifted from surgical intrusions to mass compromises spreading at machine speed.",
+    "They claim AI analysis of long-hardened codebases turns up as many as ten times more vulnerabilities than previously estimated, while formal verification still can't scale to software as large and fast-changing as browsers.",
+    "Today's edge belongs to 'centaur' hackers pairing human intuition with AI, which they expect to be short-lived, and the attacker-defender asymmetry persists because defenders must cover every entry point while keeping systems running."
+  ],
+  "podcast": "Odd Lots",
+  "publishTime": 1793347200,
+  "seq": 9285018,
+  "status": "summarized",
+  "tags": [
+    "cybersecurity",
+    "AI-security",
+    "software-vulnerabilities"
+  ],
+  "title": "PHP2Shell Won't Be the Last Big AI Cybersecurity Risk",
+  "url": "https://app.podwise.ai/dashboard/episodes/9285018"
+}
