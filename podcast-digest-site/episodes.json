@@ -1,5 +1,53 @@
 [
  {
+  "addedAt": "2026-10-30T11:47:23Z",
+  "durationMin": 53,
+  "lang": "en",
+  "lines": [
+   "Eve CEO Jay Madheswaran argues AI's real impact on plaintiff law is revenue expansion, not cost-cutting: firms are limited by legal labor rather than client demand, and the show says they turn away up to 96% of potential cases.",
+   "He says AI agents that run the full case lifecycle, from intake to settlement and often 10,000+ individual actions, can let firms handle up to five times more cases without proportional hiring.",
+   "In his view, legal software is really a 'shadow labor market', making its addressable market far larger than traditional software metrics suggest.",
+   "He argues insurers' centralized, automated claim-denial systems create a data asymmetry that AI-equipped plaintiff firms can now counter, with attorneys becoming data-scientist-like designers of agent workflows.",
+   "Madheswaran expects contingency law's outcome-based model to spread to other legal areas, and future firms to scale by hyper-specializing in specific fact patterns backed by proprietary data."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1793354400,
+  "seq": 9285671,
+  "status": "summarized",
+  "tags": [
+   "legal-tech",
+   "AI-agents",
+   "vertical-AI"
+  ],
+  "title": "Why AI Could Turn Small Law Firms Into Billion-Dollar Businesses",
+  "url": "https://app.podwise.ai/dashboard/episodes/9285671",
+  "id": "9285671"
+ },
+ {
+  "addedAt": "2026-10-30T11:47:23Z",
+  "durationMin": 49,
+  "lang": "en",
+  "lines": [
+   "Thai Duong and Bruce Dang of hacking firm Calif argue AI is collapsing the window between finding a software flaw and exploiting it, so defenses built around patching and detection are no longer enough.",
+   "They say models good at coding and debugging are inherently good at hacking, so the offensive risk can't be separated from the productivity gains; the PHP2Shell bug, dormant in a language used by about 70% of websites, is their example.",
+   "In their view, AI agents can reverse-engineer public patches on GitHub into working exploits before users update, and attacks have shifted from surgical intrusions to mass compromises spreading at machine speed.",
+   "They claim AI analysis of long-hardened codebases turns up as many as ten times more vulnerabilities than previously estimated, while formal verification still can't scale to software as large and fast-changing as browsers.",
+   "Today's edge belongs to 'centaur' hackers pairing human intuition with AI, which they expect to be short-lived, and the attacker-defender asymmetry persists because defenders must cover every entry point while keeping systems running."
+  ],
+  "podcast": "Odd Lots",
+  "publishTime": 1793347200,
+  "seq": 9285018,
+  "status": "summarized",
+  "tags": [
+   "cybersecurity",
+   "AI-security",
+   "software-vulnerabilities"
+  ],
+  "title": "PHP2Shell Won't Be the Last Big AI Cybersecurity Risk",
+  "url": "https://app.podwise.ai/dashboard/episodes/9285018",
+  "id": "9285018"
+ },
+ {
   "addedAt": "2026-10-29T23:46:53Z",
   "durationMin": 50,
   "lang": "en",
