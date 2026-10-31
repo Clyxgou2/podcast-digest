@@ -1,0 +1,23 @@
+{
+  "addedAt": "2026-10-31T08:47:29Z",
+  "durationMin": 59,
+  "lang": "en",
+  "lines": [
+    "Alex Kantrowitz and Ranjan Roy argue Big Tech's rough earnings week marks a shift: investors are moving from rewarding aggressive AI infrastructure spending to questioning whether that capex and the core businesses behind it are sustainable.",
+    "They say the web's old bargain, where search sends traffic to publishers in exchange for crawling, is breaking down as AI overviews answer queries directly, while closed ad ecosystems like Meta and Amazon look more resilient; the show notes Meta has overtaken Google in ad revenue.",
+    "On Anthropic's S-1, the hosts see a highly cash-efficient business but argue its margins are likely flattered by discounted compute from partners Amazon and Google, and that its employee equity is creating an unusual concentration of wealth.",
+    "They contend aggressive LLM price wars are commoditizing models, and that efficiency gains could reduce demand for massive data-center build-outs, with knock-on risk for data-center operators."
+  ],
+  "podcast": "Big Technology Podcast",
+  "publishTime": 1793395800,
+  "seq": 9288395,
+  "status": "summarized",
+  "tags": [
+    "Big-Tech",
+    "AI-capex",
+    "Anthropic",
+    "digital-ads"
+  ],
+  "title": "Big Tech's Ugly Week, Getting Rich At Anthropic, AI Costs Plunge",
+  "url": "https://app.podwise.ai/dashboard/episodes/9288395"
+}
