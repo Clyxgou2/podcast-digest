@@ -1,12 +1,13 @@
 {
-  "addedAt": "2026-10-31T08:47:29Z",
+  "addedAt": "2026-10-31T05:47:10Z",
   "durationMin": 59,
   "lang": "en",
   "lines": [
-    "Alex Kantrowitz and Ranjan Roy argue Big Tech's rough earnings week marks a shift: investors are moving from rewarding aggressive AI infrastructure spending to questioning whether that capex and the core businesses behind it are sustainable.",
-    "They say the web's old bargain, where search sends traffic to publishers in exchange for crawling, is breaking down as AI overviews answer queries directly, while closed ad ecosystems like Meta and Amazon look more resilient; the show notes Meta has overtaken Google in ad revenue.",
-    "On Anthropic's S-1, the hosts see a highly cash-efficient business but argue its margins are likely flattered by discounted compute from partners Amazon and Google, and that its employee equity is creating an unusual concentration of wealth.",
-    "They contend aggressive LLM price wars are commoditizing models, and that efficiency gains could reduce demand for massive data-center build-outs, with knock-on risk for data-center operators."
+    "Alex Kantrowitz and Ranjan Roy argue Big Tech is facing a market correction as investors stop rewarding heavy AI infrastructure spending and start questioning whether the core businesses can sustain it.",
+    "They say the web's old bargain, where search sends traffic to publishers in exchange for crawling rights, is breaking down as AI overviews answer queries directly, while closed-ecosystem ad models like Meta's and Amazon's hold up better than open-web search ads.",
+    "On Anthropic's S-1, the hosts see a highly cash-efficient business but suspect its margins are flattered by discounted compute from Amazon and Google, and note the employee equity it creates could concentrate a startling share of top-tier wealth in a few AI firms.",
+    "They argue an aggressive LLM price war is commoditizing models, and that better compute efficiency could paradoxically hurt data center operators by shrinking demand for the build-out.",
+    "They also worry AI recording wearables could turn everyday conversation into a performance by making every moment replayable."
   ],
   "podcast": "Big Technology Podcast",
   "publishTime": 1793395800,
