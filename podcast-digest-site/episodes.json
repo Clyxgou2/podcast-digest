@@ -1,5 +1,29 @@
 [
  {
+  "addedAt": "2026-10-31T08:47:29Z",
+  "durationMin": 59,
+  "lang": "en",
+  "lines": [
+   "Alex Kantrowitz and Ranjan Roy argue Big Tech's rough earnings week marks a shift: investors are moving from rewarding aggressive AI infrastructure spending to questioning whether that capex and the core businesses behind it are sustainable.",
+   "They say the web's old bargain, where search sends traffic to publishers in exchange for crawling, is breaking down as AI overviews answer queries directly, while closed ad ecosystems like Meta and Amazon look more resilient; the show notes Meta has overtaken Google in ad revenue.",
+   "On Anthropic's S-1, the hosts see a highly cash-efficient business but argue its margins are likely flattered by discounted compute from partners Amazon and Google, and that its employee equity is creating an unusual concentration of wealth.",
+   "They contend aggressive LLM price wars are commoditizing models, and that efficiency gains could reduce demand for massive data-center build-outs, with knock-on risk for data-center operators."
+  ],
+  "podcast": "Big Technology Podcast",
+  "publishTime": 1793395800,
+  "seq": 9288395,
+  "status": "summarized",
+  "tags": [
+   "Big-Tech",
+   "AI-capex",
+   "Anthropic",
+   "digital-ads"
+  ],
+  "title": "Big Tech's Ugly Week, Getting Rich At Anthropic, AI Costs Plunge",
+  "url": "https://app.podwise.ai/dashboard/episodes/9288395",
+  "id": "9288395"
+ },
+ {
   "addedAt": "2026-10-30T11:47:23Z",
   "durationMin": 53,
   "lang": "en",
@@ -22,6 +46,30 @@
   "title": "Why AI Could Turn Small Law Firms Into Billion-Dollar Businesses",
   "url": "https://app.podwise.ai/dashboard/episodes/9285671",
   "id": "9285671"
+ },
+ {
+  "addedAt": "2026-10-31T08:47:29Z",
+  "durationMin": 84,
+  "lang": "zh",
+  "lines": [
+   "本期与王恺聊江南秋季饮食，核心观点是“不时不食”：对食材在地性与季节性的讲究，既是农业社会传统的延续，也是对抗工业化饮食同质化的一种生活美学。",
+   "节目称传统苏州蟹宴重在蟹粉菜而非整蟹，因为在文人饮食体系里当众剥蟹被视为不雅；大闸蟹则因“清水养蟹”技术推广，从小而杂的野生蟹变成规格统一、品质可控的商品。",
+   "嘉宾认为蟹酿橙、炖生敲、西湖醋鱼等不少“古法名菜”，其实是上世纪80年代厨师依据古籍所做的复原与再创作，并非一脉相承。",
+   "在他看来，江南风味的深层逻辑是糟、酱、醉、腌、臭等发达的发酵技术；而一些地方饮食的“荒漠化”源于流量驱动的连锁扩张和预制菜，并非缺少好食材。",
+   "他还提到，好的市井小馆要看是否被本地资深食客长期青睐而非点评评分，顶尖厨师的共同点是坚持亲自挑选食材。"
+  ],
+  "podcast": "忽左忽右",
+  "publishTime": 1793349989,
+  "seq": 9289217,
+  "status": "summarized",
+  "tags": [
+   "饮食文化",
+   "江南",
+   "大闸蟹"
+  ],
+  "title": "512 与王恺漫话江南食事：从文人蟹宴到乡野土菜",
+  "url": "https://app.podwise.ai/dashboard/episodes/9289217",
+  "id": "9289217"
  },
  {
   "addedAt": "2026-10-30T11:47:23Z",
