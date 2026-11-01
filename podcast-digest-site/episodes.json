@@ -1,5 +1,77 @@
 [
  {
+  "addedAt": "2026-11-01T02:46:48Z",
+  "durationMin": 88,
+  "lang": "en",
+  "lines": [
+   "Stig Brodersen, Tobias Carlisle and Hari Ramachandra pitch three out-of-favor stocks, arguing the market is pricing quality businesses as 'melting ice cubes' while compressed multiples limit the downside.",
+   "Hari's case for Novo Nordisk: at about 12x forward earnings the stock already reflects Eli Lilly's competition in weight-loss drugs and looming patent expirations, so pipeline wins such as amycretin could deliver significant upside.",
+   "Stig pitches S&P Global at roughly 23x P/E as a wide-moat leader in ratings and indices, describing the rating agencies as a complementary oligopoly; he flags AI commoditizing terminal-style data workflows as the main risk to its market intelligence segment.",
+   "Deckers (HOKA, UGG) trades around 11x earnings with no debt and heavy buybacks funded by free cash flow, which the hosts see as downside protection while consumer-spending pressures like student-loan repayments slow growth.",
+   "They also suggest using 13F filings as a starting screen rather than a signal, and compare AI's push for regulation to pharma, where high barriers protect incumbents at the expense of startups."
+  ],
+  "podcast": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
+  "publishTime": 1793491200,
+  "seq": 9294237,
+  "status": "summarized",
+  "tags": [
+   "value-investing",
+   "pharma",
+   "financial-data",
+   "consumer"
+  ],
+  "title": "TIP857: S&P Global, Novo, Deckers Brands w/ Stig Brodersen, Tobias Carlisle, & Hari Ramachandra",
+  "url": "https://app.podwise.ai/dashboard/episodes/9294237",
+  "id": "9294237"
+ },
+ {
+  "addedAt": "2026-10-31T23:46:29Z",
+  "durationMin": 25,
+  "lang": "en",
+  "lines": [
+   "Cosign is building a professional network around peer endorsements and trusted relationships, arguing that who vouches for you is a better hiring signal than resumes, cold applications or job boards.",
+   "The team says high-impact operators who actually drive company trajectories are under-recognized next to public-facing founders, which its Cosign Awards aim to correct, with employees' own nominations serving as a signal of culture and talent density.",
+   "The longer-term goal is a relationship-and-reputation graph that AI agents can parse, negotiating on their owners' behalf to find a 'coincidence of intent' before people ever meet.",
+   "They pitch this as engineered serendipity that widens access, letting overlooked talent be discovered by contributions rather than geography, social ties or legacy credentials."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1793440800,
+  "seq": 9290168,
+  "status": "summarized",
+  "tags": [
+   "AI-agents",
+   "recruiting",
+   "professional-networks",
+   "startups"
+  ],
+  "title": "Can AI Fix Professional Networking? | Inside Cosign",
+  "url": "https://app.podwise.ai/dashboard/episodes/9290168",
+  "id": "9290168"
+ },
+ {
+  "addedAt": "2026-10-31T23:46:29Z",
+  "lang": "en",
+  "lines": [
+   "The besties read Anthropic's S-1 as evidence of an unusually capital-efficient business, with explosive revenue growth and a founder-controlled structure (50.1% voting power on a single share class) that they say could make it one of the biggest venture outcomes ever.",
+   "They highlight roughly $100 billion in cash reserves despite spending only a small share of capital raised, and claim recursive self-improvement yields 'compute multipliers' that let Anthropic cut token prices while widening gross margins.",
+   "Falling token costs, they argue, are triggering a Jevons Paradox of surging consumption, while data center capacity and power have become the binding constraint and AI's capital needs now rival US Treasury issuance, a new systemic risk.",
+   "On Google's roughly $500 billion one-day market-cap drop, the hosts see slowing core search ads as a sign AI answers are structurally disrupting click-based search; the episode closes with midterm election predictions."
+  ],
+  "podcast": "All-In Podcast",
+  "publishTime": 1793397821,
+  "seq": 9290350,
+  "status": "summarized",
+  "tags": [
+   "Anthropic",
+   "AI-capex",
+   "Google",
+   "digital-ads"
+  ],
+  "title": "Anthropic S-1 Shocker, Greatest Business Ever? Google’s $500B Wipeout, Midterm Predictions",
+  "url": "https://app.podwise.ai/dashboard/episodes/9290350",
+  "id": "9290350"
+ },
+ {
   "addedAt": "2026-10-31T05:47:10Z",
   "durationMin": 59,
   "lang": "en",
@@ -94,6 +166,30 @@
   "title": "PHP2Shell Won't Be the Last Big AI Cybersecurity Risk",
   "url": "https://app.podwise.ai/dashboard/episodes/9285018",
   "id": "9285018"
+ },
+ {
+  "addedAt": "2026-11-01T05:47:20Z",
+  "durationMin": 10,
+  "lang": "en",
+  "lines": [
+   "Daniel Balthasar, co-CIO of Active Strategies at Norway's sovereign wealth fund (NBIM), argues that active management works through long horizons, direct engagement with companies, and systematically challenging one's own investment theses.",
+   "He says cheap stocks are usually cheap for a reason and need a catalyst for change, pointing to Bill Ackman's Air Products campaign as an example of backing a company with a strong moat and predictable cash flows.",
+   "To counter cognitive biases, the fund reviews managers' past decisions to map their individual strengths and weaknesses, and deliberately seeks out counter-arguments rather than relying on Kahneman-style 'fast thinking'.",
+   "Balthasar stresses that permanent capital and active ownership, including defending 'one share, one vote', underpin the fund's pursuit of excess returns, and that sleep, nutrition and exercise help sustain focus through periods of underperformance."
+  ],
+  "podcast": "In Good Company with Nicolai Tangen",
+  "publishTime": 1793332800,
+  "seq": 9284302,
+  "status": "summarized",
+  "tags": [
+   "active-investing",
+   "sovereign-wealth",
+   "activism",
+   "behavioral-finance"
+  ],
+  "title": "Friday Wrap-Up: Inside Active Strategies and Learning from Bill Ackman",
+  "url": "https://app.podwise.ai/dashboard/episodes/9284302",
+  "id": "9284302"
  },
  {
   "addedAt": "2026-10-29T23:46:53Z",
