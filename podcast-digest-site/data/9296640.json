@@ -1,0 +1,24 @@
+{
+  "addedAt": "2026-11-01T11:47:17Z",
+  "durationMin": 44,
+  "lang": "en",
+  "lines": [
+    "Bending Spoons CEO Luca Ferrari argues that relentless optimization of established software businesses is a more dependable path to value than radical invention, which can produce huge outcomes but rarely does.",
+    "The company's 'buy, improve, and compound' model acquires mature products such as Airtable, Eventbrite and WeTransfer and prioritizes compounding free cash flow over short-term valuation.",
+    "He says debt is used deliberately but conservatively: leverage kept below 3x, interest-rate risk hedged, and every loan repayable even under severely adverse scenarios.",
+    "Ferrari claims AI now handles over 90% of the company's coding and data analysis, shifting staff toward architecture and process design, while a proprietary in-house platform lets it quickly replace acquired companies' vendor systems.",
+    "In his view, digital moats come from network effects, proprietary data and switching costs rather than technical difficulty, and high talent density plus first-principles decision-making are the company's core operating constraints."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1793530800,
+  "seq": 9296640,
+  "status": "summarized",
+  "tags": [
+    "software-M&A",
+    "compounders",
+    "AI-productivity",
+    "capital-allocation"
+  ],
+  "title": "How Bending Spoons Built a $20 Billion Compounder | Luca Ferrari",
+  "url": "https://app.podwise.ai/dashboard/episodes/9296640"
+}
