@@ -1,0 +1,24 @@
+{
+  "addedAt": "2026-11-02T11:47:54Z",
+  "durationMin": 52,
+  "lang": "en",
+  "lines": [
+    "The episode argues that US structured notes, now at a roughly $300 billion annual run rate in SEC-registered issuance, have grown big enough that their hedging can influence broader equity market dynamics.",
+    "These notes pair bank debt with derivatives, letting investors give up upside or accept specific downside risks for extra yield; 'worst-of' auto-callables are especially popular and can express views on assets like AI-related semiconductors.",
+    "Auto-call features bring reinvestment risk through early termination, while 'worst-of' baskets raise yield but force dealers to model correlation across disparate assets.",
+    "As underlying assets near barrier levels, dealers can flip from long to short gamma, buying into rallies and selling into declines in ways that amplify market moves.",
+    "A 'spot up, vol up' regime makes hedging harder still, since prices and implied volatility rise together, and in turbulence offloading delta, vega and gamma risk can become prohibitively expensive."
+  ],
+  "podcast": "Odd Lots",
+  "publishTime": 1793610000,
+  "seq": 9299882,
+  "status": "summarized",
+  "tags": [
+    "structured-products",
+    "derivatives",
+    "equity-volatility",
+    "market-structure"
+  ],
+  "title": "The $300 Billion Structured Notes Market Is Booming",
+  "url": "https://app.podwise.ai/dashboard/episodes/9299882"
+}
