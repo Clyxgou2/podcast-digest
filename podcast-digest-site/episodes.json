@@ -1,5 +1,80 @@
 [
  {
+  "addedAt": "2026-11-03T11:48:00Z",
+  "durationMin": 49,
+  "lang": "en",
+  "lines": [
+   "Andrew Huberman reduces health and focus to three priorities: bright light soon after waking, resistance training, and making whatever sleep you get as high-quality as possible.",
+   "For founders, he argues the most important habit is protecting 'workabouts', typically two 3-hour blocks of peak cognitive capacity, because output in those windows far exceeds the rest of the day.",
+   "He favors minimalist training of two sets to failure per exercise over high volume, saying it serves long-term strength and body recomposition while preserving nervous-system recovery; 10,000-lux artificial light can stand in when morning sun isn't available.",
+   "He says phones should be made physically inaccessible, for example in lockboxes, because mere proximity drains cognitive resources, and that meditation trains the brain to observe mental chaos without reacting.",
+   "Supplements and cold exposure can help but should serve life goals rather than add stress; in his view long-term success is an endurance event that depends on consistent capacity and a non-destructive weekly reset, not stimulant-fueled bursts."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1793703600,
+  "seq": 9305645,
+  "status": "summarized",
+  "tags": [
+   "health",
+   "productivity",
+   "neuroscience",
+   "founders"
+  ],
+  "title": "Andrew Huberman’s Three Rules for Better Health and Focus",
+  "url": "https://app.podwise.ai/dashboard/episodes/9305645",
+  "id": "9305645"
+ },
+ {
+  "addedAt": "2026-11-03T11:48:00Z",
+  "durationMin": 43,
+  "lang": "en",
+  "lines": [
+   "Nate Silver calls these midterms the 'rock and a hard place election': conditions favor Democrats in both chambers, helped by Trump's historically low approval and little Republican momentum in key Senate races, yet a Senate win needs results not seen in generations, such as carrying Texas.",
+   "He argues pollsters now act as modelers, applying subjective 'likely voter' adjustments to avoid the reputational risk of overstating Democrats, which can produce mathematically inconsistent results.",
+   "Silver treats prediction markets as aggregators of polls and sentiment rather than independent truth, since they carry the biases and risk appetite of their participants.",
+   "The discussion also covers aggressive redistricting that can backfire into 'dummy-manders' if the environment shifts, and political ads with sharply diminishing returns that can provoke voter backlash.",
+   "On AI, large language models speed up coding and data work for model-building, but Silver says they still need expert oversight to catch subtle, logic-distorting bugs."
+  ],
+  "podcast": "Odd Lots",
+  "publishTime": 1793696400,
+  "seq": 9305140,
+  "status": "summarized",
+  "tags": [
+   "US-midterms",
+   "polling",
+   "prediction-markets",
+   "politics"
+  ],
+  "title": "An Election Day Special With Nate Silver",
+  "url": "https://app.podwise.ai/dashboard/episodes/9305140",
+  "id": "9305140"
+ },
+ {
+  "addedAt": "2026-11-03T11:48:00Z",
+  "durationMin": 70,
+  "lang": "zh",
+  "lines": [
+   "节目的核心判断是，全球资本周期已走到尾部，流动性收紧后，市场对AI的定价逻辑正从看资本开支规模转向考核单位投入的回报。",
+   "中国正通过监管提前推动资金“再平衡”，引导资金从过热赛道流向高分红、经营稳定的蓝筹，以避开类似韩国市场由少数权重股波动引发的系统性风险；保险资金转配长期分红资产，也是为了平滑市场波动对当期损益的冲击。",
+   "金融政策上，节目认为存贷款利率市场化、放宽外资准入和强化香港离岸人民币中心地位，共同指向更具韧性的国际化金融市场。",
+   "科技政策从追赶式研发转向应用驱动，要求民营企业作为创新主体，把AI融入规模化制造和机器人场景；机器人行业也在从概念炒作回归真实交付。",
+   "节目还提醒，周期尾部的资产价格对预期偏差极度敏感，但真正的暴跌往往来自市场之外的黑天鹅，而不是技术周期本身。"
+  ],
+  "podcast": "高能量",
+  "publishTime": 1793695358,
+  "seq": 9305155,
+  "status": "summarized",
+  "tags": [
+   "宏观",
+   "资本市场",
+   "AI资本开支",
+   "机器人"
+  ],
+  "title": "Vol.240 宏观漫谈113｜中国资本市场的提前再平衡与全球股市波动（10.30录制）",
+  "url": "https://app.podwise.ai/dashboard/episodes/9305155",
+  "id": "9305155"
+ },
+ {
   "addedAt": "2026-11-02T23:46:49Z",
   "durationMin": 46,
   "lang": "en",
