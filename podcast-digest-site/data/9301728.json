@@ -1,0 +1,24 @@
+{
+  "addedAt": "2026-11-02T23:46:49Z",
+  "durationMin": 46,
+  "lang": "en",
+  "lines": [
+    "Tutor Intelligence CEO Josh Gruenstein argues robotics has failed to scale because it was treated as a narrow technical problem, when general-purpose robots really need a full stack spanning AI models, hardware manufacturing, supply chain and customer work.",
+    "The company deploys robots in real factories and warehouses with human teleoperators in the loop, generating proprietary training data that feeds a flywheel of improving performance.",
+    "The episode says most US manufacturing and logistics sites remain 'greenfield' for automation, and charging an hourly rate rather than selling capital equipment ties vendor incentives to customer operating costs and speeds adoption, especially in the mid-market.",
+    "Gruenstein's view is that frontier models trained on 3D spatial data and CAD files have largely cracked spatial reasoning, while hardware must be verticalized because the industrial supply chain is built for legacy, repetitive machines.",
+    "He adds a practical note on integration: simple touches like naming the robots help workers collaborate with them on the factory floor."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1793635500,
+  "seq": 9301728,
+  "status": "summarized",
+  "tags": [
+    "robotics",
+    "physical-AI",
+    "manufacturing",
+    "automation"
+  ],
+  "title": "The Robots Already Working in American Factories | Tutor Intelligence",
+  "url": "https://app.podwise.ai/dashboard/episodes/9301728"
+}

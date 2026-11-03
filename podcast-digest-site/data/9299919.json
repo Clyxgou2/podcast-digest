@@ -1,0 +1,24 @@
+{
+  "addedAt": "2026-11-02T23:46:49Z",
+  "durationMin": 52,
+  "lang": "en",
+  "lines": [
+    "FT's Robert Armstrong frames the AI build-out as the largest capex cycle in US history, projected at 3.6% of GDP over eight years, but funded by the most profitable companies ever rather than the speculative money behind past bubbles.",
+    "The episode flags a circular finance dynamic in which Nvidia reinvests profits into the model developers that buy its chips, while the current cycle remains driven by committed contracts.",
+    "GPUs are today's main constraint, but the bottleneck is shifting toward electricity generation and distribution, slowed by legacy infrastructure and a local-permitting 'vetoocracy' that the episode treats as a threat to long-term US competitiveness.",
+    "Past technology shifts did not cause lasting unemployment, yet the speed of potential white-collar automation creates a risk of short-term economic and political instability.",
+    "AI leaders' refusal to accept personal liability for harms is presented as a political risk that could invite aggressive regulation after a major accident, with public anxiety amplified by social atomization and engagement-driven media."
+  ],
+  "podcast": "Hidden Forces",
+  "publishTime": 1793606400,
+  "seq": 9299919,
+  "status": "summarized",
+  "tags": [
+    "AI-capex",
+    "energy",
+    "regulation",
+    "labor-market"
+  ],
+  "title": "How to Hedge the AI Boom and the Unrest in France | Robert Armstrong",
+  "url": "https://app.podwise.ai/dashboard/episodes/9299919"
+}
