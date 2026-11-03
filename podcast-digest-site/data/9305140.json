@@ -1,0 +1,24 @@
+{
+  "addedAt": "2026-11-03T11:48:00Z",
+  "durationMin": 43,
+  "lang": "en",
+  "lines": [
+    "Nate Silver calls these midterms the 'rock and a hard place election': conditions favor Democrats in both chambers, helped by Trump's historically low approval and little Republican momentum in key Senate races, yet a Senate win needs results not seen in generations, such as carrying Texas.",
+    "He argues pollsters now act as modelers, applying subjective 'likely voter' adjustments to avoid the reputational risk of overstating Democrats, which can produce mathematically inconsistent results.",
+    "Silver treats prediction markets as aggregators of polls and sentiment rather than independent truth, since they carry the biases and risk appetite of their participants.",
+    "The discussion also covers aggressive redistricting that can backfire into 'dummy-manders' if the environment shifts, and political ads with sharply diminishing returns that can provoke voter backlash.",
+    "On AI, large language models speed up coding and data work for model-building, but Silver says they still need expert oversight to catch subtle, logic-distorting bugs."
+  ],
+  "podcast": "Odd Lots",
+  "publishTime": 1793696400,
+  "seq": 9305140,
+  "status": "summarized",
+  "tags": [
+    "US-midterms",
+    "polling",
+    "prediction-markets",
+    "politics"
+  ],
+  "title": "An Election Day Special With Nate Silver",
+  "url": "https://app.podwise.ai/dashboard/episodes/9305140"
+}
