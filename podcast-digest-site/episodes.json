@@ -1,5 +1,55 @@
 [
  {
+  "addedAt": "2026-11-02T23:46:49Z",
+  "durationMin": 46,
+  "lang": "en",
+  "lines": [
+   "Tutor Intelligence CEO Josh Gruenstein argues robotics has failed to scale because it was treated as a narrow technical problem, when general-purpose robots really need a full stack spanning AI models, hardware manufacturing, supply chain and customer work.",
+   "The company deploys robots in real factories and warehouses with human teleoperators in the loop, generating proprietary training data that feeds a flywheel of improving performance.",
+   "The episode says most US manufacturing and logistics sites remain 'greenfield' for automation, and charging an hourly rate rather than selling capital equipment ties vendor incentives to customer operating costs and speeds adoption, especially in the mid-market.",
+   "Gruenstein's view is that frontier models trained on 3D spatial data and CAD files have largely cracked spatial reasoning, while hardware must be verticalized because the industrial supply chain is built for legacy, repetitive machines.",
+   "He adds a practical note on integration: simple touches like naming the robots help workers collaborate with them on the factory floor."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1793635500,
+  "seq": 9301728,
+  "status": "summarized",
+  "tags": [
+   "robotics",
+   "physical-AI",
+   "manufacturing",
+   "automation"
+  ],
+  "title": "The Robots Already Working in American Factories | Tutor Intelligence",
+  "url": "https://app.podwise.ai/dashboard/episodes/9301728",
+  "id": "9301728"
+ },
+ {
+  "addedAt": "2026-11-02T23:46:49Z",
+  "durationMin": 105,
+  "lang": "zh",
+  "lines": [
+   "本期请来《长线制胜》译者、「聪明投资者」创始合伙人范恩洁，讨论资本集团近百年长盛不衰的原因；节目的核心判断是，它靠的是组织结构和文化基因，而不是某位投资天才。",
+   "多基金经理制是关键：决策去中心化，每位经理在自己的能力圈内独立决策、自担结果，既平抑了单一风格的波动，也绕开了明星经理模式下的规模瓶颈和人才流失。",
+   "节目认为长期主义要落在股权结构和激励机制上，主动放弃短期利益、留出冗余才算数；决策者的“效用函数”也会随财富增长而改变，金钱边际效用下降后才更容易做长期决定。",
+   "招人被比作“找结婚对象”，要经过长周期、多轮次考察价值观和团队匹配度；“巨人才会雇佣巨人”，而熊市中的逆势扩张和制度迭代则是组织升级的窗口。",
+   "节目还称主动投资是市场有效性的基石，指数化是搭了主动研究的便车；国内公募在股权和考核上虽有差异，资本集团的做法仍有参考价值。"
+  ],
+  "podcast": "面基",
+  "publishTime": 1793611800,
+  "seq": 9300410,
+  "status": "summarized",
+  "tags": [
+   "资产管理",
+   "基金",
+   "长期主义",
+   "组织管理"
+  ],
+  "title": "异 类",
+  "url": "https://app.podwise.ai/dashboard/episodes/9300410",
+  "id": "9300410"
+ },
+ {
   "addedAt": "2026-11-02T11:47:54Z",
   "durationMin": 59,
   "lang": "en",
@@ -48,6 +98,31 @@
   "title": "The $300 Billion Structured Notes Market Is Booming",
   "url": "https://app.podwise.ai/dashboard/episodes/9299882",
   "id": "9299882"
+ },
+ {
+  "addedAt": "2026-11-02T23:46:49Z",
+  "durationMin": 52,
+  "lang": "en",
+  "lines": [
+   "FT's Robert Armstrong frames the AI build-out as the largest capex cycle in US history, projected at 3.6% of GDP over eight years, but funded by the most profitable companies ever rather than the speculative money behind past bubbles.",
+   "The episode flags a circular finance dynamic in which Nvidia reinvests profits into the model developers that buy its chips, while the current cycle remains driven by committed contracts.",
+   "GPUs are today's main constraint, but the bottleneck is shifting toward electricity generation and distribution, slowed by legacy infrastructure and a local-permitting 'vetoocracy' that the episode treats as a threat to long-term US competitiveness.",
+   "Past technology shifts did not cause lasting unemployment, yet the speed of potential white-collar automation creates a risk of short-term economic and political instability.",
+   "AI leaders' refusal to accept personal liability for harms is presented as a political risk that could invite aggressive regulation after a major accident, with public anxiety amplified by social atomization and engagement-driven media."
+  ],
+  "podcast": "Hidden Forces",
+  "publishTime": 1793606400,
+  "seq": 9299919,
+  "status": "summarized",
+  "tags": [
+   "AI-capex",
+   "energy",
+   "regulation",
+   "labor-market"
+  ],
+  "title": "How to Hedge the AI Boom and the Unrest in France | Robert Armstrong",
+  "url": "https://app.podwise.ai/dashboard/episodes/9299919",
+  "id": "9299919"
  },
  {
   "addedAt": "2026-11-01T11:47:17Z",
