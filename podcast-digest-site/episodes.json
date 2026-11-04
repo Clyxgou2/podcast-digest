@@ -1,5 +1,55 @@
 [
  {
+  "addedAt": "2026-11-04T11:47:30Z",
+  "durationMin": 51,
+  "lang": "en",
+  "lines": [
+   "The episode argues the agent landscape is moving from one general-purpose productivity tool toward an 'army' of specialized assistants that act as personal 'secret superpowers' for different parts of life.",
+   "Trust is framed as the main barrier to adoption, though users show a gap between stated and revealed preferences: they voice privacy worries yet trade sensitive data for trivial utility, so agents need clear 'fences' to keep work and personal data apart.",
+   "Paternalistic agents that dictate 'optimal' choices tend to fail, the discussion says, because people favor tools that serve their identity and aspirations over pure productivity; screenshots and photo rolls reveal taste better than text inputs.",
+   "Agent-to-agent communication is pitched as a social lubricant that enables connections humans would find awkward to start, while current models still struggle to balance conflicting constraints like cost and time.",
+   "The speakers contend performance gaps at scale keep infrastructure reliability a real moat, and that agents won't make humans more rational but may develop 'alien' irrationalities of their own."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1793790000,
+  "seq": 9312426,
+  "status": "summarized",
+  "tags": [
+   "AI-agents",
+   "consumer-AI",
+   "privacy",
+   "personalization"
+  ],
+  "title": "The New AI Agents That Shop, Plan, and Gossip",
+  "url": "https://app.podwise.ai/dashboard/episodes/9312426",
+  "id": "9312426"
+ },
+ {
+  "addedAt": "2026-11-04T11:47:30Z",
+  "durationMin": 65,
+  "lang": "en",
+  "lines": [
+   "a16z's Martin Casado argues AI has turned software from an engineering-constrained problem into a capital-constrained one, so money can now convert directly into technical output and the 'Mythical Man Month' limit largely falls away.",
+   "He says investors must know whether they are acting as productive, traditional finance, frontier or speculative investors, because applying the wrong framework gets disruptive technology rejected on lagging metrics.",
+   "He puts the competitive lifespan of a state-of-the-art model at just three to six months, forcing perpetual iteration, and contends that in fast-growing markets the focus on moats is often a distraction from growth velocity.",
+   "Casado prefers judging network effects by their mathematical shape (superlinear, linear or sublinear) and says strategic M&A rests on personal trust between founders and buyers, not poker-style auctions and leaks.",
+   "He calls the chase for 'non-consensus' deals an ego-driven fallacy in efficient private markets, and argues more capital deployment expands the market rather than playing a zero-sum game."
+  ],
+  "podcast": "Invest Like the Best with Patrick O'Shaughnessy",
+  "publishTime": 1793782800,
+  "seq": 9312034,
+  "status": "summarized",
+  "tags": [
+   "AI-infrastructure",
+   "venture-capital",
+   "model-economics",
+   "M-and-A"
+  ],
+  "title": "Martin Casado on Frontier Model Economics, AI's Slowdown, and the Cursor Deal - [Invest Like the Best, EP.498]",
+  "url": "https://app.podwise.ai/dashboard/episodes/9312034",
+  "id": "9312034"
+ },
+ {
   "addedAt": "2026-11-04T05:48:00Z",
   "durationMin": 43,
   "lang": "en",
