@@ -1,0 +1,24 @@
+{
+  "addedAt": "2026-11-04T05:48:00Z",
+  "durationMin": 43,
+  "lang": "en",
+  "lines": [
+    "NextEra CEO John Ketchum expects US electricity demand to grow sixfold over the next 20 years, driven by AI data centers, reshored manufacturing, chip production and rising residential use, and argues scale is the sector's main competitive moat.",
+    "He says scale lowers procurement, construction and financing costs and secures access to scarce turbines and transformers, which also speeds deployment of wind, solar and batteries.",
+    "Renewables remain the cheapest source in his view, but the 24/7 needs of AI training call for gas generation and possibly a nuclear revival; restarting a dormant plant, he says, is a 'super outage' refurbishment rather than a new build if core infrastructure is intact.",
+    "NextEra's model is to supply land and power rather than own data centers, because hyperscalers want full control of security and hardware, with ratepayer protection pledges meant to ensure they pay their fair share.",
+    "Ketchum stresses 10-year planning since projects can take five years or more to come online, and keeps an entrepreneurial culture through annual 'Rewire' programs where staff pitch AI-enabled efficiency ideas to leadership, plus small 'toe-in-the-water' bets that fail fast."
+  ],
+  "podcast": "In Good Company with Nicolai Tangen",
+  "publishTime": 1793764800,
+  "seq": 9310694,
+  "status": "summarized",
+  "tags": [
+    "energy",
+    "AI-capex",
+    "utilities",
+    "nuclear"
+  ],
+  "title": "NextEra Energy CEO: Powering AI, Nuclear's Comeback and a Historic Utility Merger",
+  "url": "https://app.podwise.ai/dashboard/episodes/9310694"
+}
