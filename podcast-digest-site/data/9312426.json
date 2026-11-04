@@ -1,0 +1,24 @@
+{
+  "addedAt": "2026-11-04T11:47:30Z",
+  "durationMin": 51,
+  "lang": "en",
+  "lines": [
+    "The episode argues the agent landscape is moving from one general-purpose productivity tool toward an 'army' of specialized assistants that act as personal 'secret superpowers' for different parts of life.",
+    "Trust is framed as the main barrier to adoption, though users show a gap between stated and revealed preferences: they voice privacy worries yet trade sensitive data for trivial utility, so agents need clear 'fences' to keep work and personal data apart.",
+    "Paternalistic agents that dictate 'optimal' choices tend to fail, the discussion says, because people favor tools that serve their identity and aspirations over pure productivity; screenshots and photo rolls reveal taste better than text inputs.",
+    "Agent-to-agent communication is pitched as a social lubricant that enables connections humans would find awkward to start, while current models still struggle to balance conflicting constraints like cost and time.",
+    "The speakers contend performance gaps at scale keep infrastructure reliability a real moat, and that agents won't make humans more rational but may develop 'alien' irrationalities of their own."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1793790000,
+  "seq": 9312426,
+  "status": "summarized",
+  "tags": [
+    "AI-agents",
+    "consumer-AI",
+    "privacy",
+    "personalization"
+  ],
+  "title": "The New AI Agents That Shop, Plan, and Gossip",
+  "url": "https://app.podwise.ai/dashboard/episodes/9312426"
+}
