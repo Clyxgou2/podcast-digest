@@ -75,6 +75,31 @@
   "id": "9310694"
  },
  {
+  "addedAt": "2026-11-04T14:47:17Z",
+  "durationMin": 59,
+  "lang": "en",
+  "lines": [
+   "General Matter CEO Scott Nolan argues fuel is the bottleneck for US nuclear: the country leans on foreign enrichment, especially Russian, and the federal import ban taking effect in 2028 makes domestic High-Assay Low-Enriched Uranium (HALEU) production urgent.",
+   "HALEU allows smaller reactor cores, the episode says, which is what lets small modular reactors be factory-built rather than delivered as custom, multi-billion-dollar construction projects.",
+   "Nolan's view is that enrichment is at heart a manufacturing and isotope-separation problem, so a clean-sheet design and an in-house engineering and construction model at the Paducah, Kentucky plant can bring costs down.",
+   "He blames the industry's stagnation mainly on cost-plus construction that rewards no efficiency, rather than on safety regulation alone, and calls nuclear regulation structured and manageable when it stays focused on safety, security and environmental impact.",
+   "On execution, he uses a 'Green Lights to Malibu' schedule that strips all buffers to expose critical-path constraints, and says hardware startups win by targeting one overlooked bottleneck holding back a whole industry."
+  ],
+  "podcast": "Cheeky Pint",
+  "publishTime": 1793709900,
+  "seq": 9306150,
+  "status": "summarized",
+  "tags": [
+   "nuclear",
+   "uranium-enrichment",
+   "energy",
+   "supply-chain"
+  ],
+  "title": "The company building America’s uranium supply from scratch",
+  "url": "https://app.podwise.ai/dashboard/episodes/9306150",
+  "id": "9306150"
+ },
+ {
   "addedAt": "2026-11-03T11:48:00Z",
   "durationMin": 49,
   "lang": "en",
