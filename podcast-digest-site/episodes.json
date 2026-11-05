@@ -1,5 +1,55 @@
 [
  {
+  "addedAt": "2026-11-05T11:47:03Z",
+  "durationMin": 32,
+  "lang": "en",
+  "lines": [
+   "James Bosworth of the Stimson Center argues Latin American politics keeps swinging on local economic performance, so Lula's surprise win in Brazil and the stalling of the pro-Trump 'orange wave' reflect voters' moods more than any fixed regional realignment.",
+   "The episode credits Lula's comeback to anti-incumbent bias and the two-round system, which can turn a runoff into a referendum on the incumbent, along with viral short-form content and WhatsApp mobilization that bypass traditional media.",
+   "Leaders aligned with Trump face headwinds from inflation and the political liability of his volatile agenda, the discussion says, though the region's governments still have to engage with US authorities.",
+   "On Venezuela, democratic transition remains stalled, and the view is that big oil investment needs long-term rule-of-law guarantees, which leaves the market to short-term opportunists rather than major firms.",
+   "Other threads: the shift from Catholicism to evangelical Christianity is creating a reliable conservative voting bloc, and prediction markets missed late voter shifts through overconfidence and herding."
+  ],
+  "podcast": "Odd Lots",
+  "publishTime": 1793869200,
+  "seq": 9326141,
+  "status": "summarized",
+  "tags": [
+   "Latin-America",
+   "Brazil",
+   "elections",
+   "Venezuela"
+  ],
+  "title": "James Bosworth on What Comes After Lula's Stunning Win",
+  "url": "https://app.podwise.ai/dashboard/episodes/9326141",
+  "id": "9326141"
+ },
+ {
+  "addedAt": "2026-11-05T11:47:03Z",
+  "durationMin": 88,
+  "lang": "zh",
+  "lines": [
+   "节目的核心判断是，非侵入式脑机接口正从实验室走向临床，行业重心从科研探索转向以疗效为导向的医疗器械，竞争焦点也从硬件转向临床数据的积累与标准化。",
+   "昆迈医疗和穹顶医疗分别用量子传感、时间干预刺激等技术读取和调控大脑信号，避开侵入式手术的风险；节目认为侵入式与非侵入式是互补关系，前者面向高精度、长时程的重症治疗，后者在精神疾病诊疗、康复和大众应用上空间更大。",
+   "数据被视为核心壁垒：初创公司购买医院脱敏数据训练模型，难点在于拿到高质量、低噪声的标准化数据；节目还提出，治疗精神疾病时AI驱动的“黑盒”干预可能优于传统解析式诊断，不必纠结精确分类，而是直接优化大脑对干预的动态响应。",
+   "商业化取决于能否帮医院降本增效，而不只是技术指标；为提高临床效率，有时要牺牲部分精度，比如缩短佩戴时间。节目称，中国的优势在于监管对临床试验响应快、临床资源庞大、工程迭代速度快。",
+   "节目认为行业的终局是闭环：用声、光、电、磁等多物理因子联合调控，从检测脑状态到精准干预形成动态平衡。"
+  ],
+  "podcast": "高能量",
+  "publishTime": 1793867079,
+  "seq": 9326162,
+  "status": "summarized",
+  "tags": [
+   "脑机接口",
+   "医疗器械",
+   "AI医疗",
+   "精神疾病"
+  ],
+  "title": "Vol.241 产业观察45｜从读懂大脑到治疗疾病，脑机接口还有多远的路要走？",
+  "url": "https://app.podwise.ai/dashboard/episodes/9326162",
+  "id": "9326162"
+ },
+ {
   "addedAt": "2026-11-05T02:47:00Z",
   "durationMin": 83,
   "lang": "en",
