@@ -1,5 +1,30 @@
 [
  {
+  "addedAt": "2026-11-05T14:47:00Z",
+  "durationMin": 51,
+  "lang": "en",
+  "lines": [
+   "Figma CFO Praveer Melwani argues AI is pushing finance from a reactive 'traffic cop' role built on historical reporting toward a proactive business partner that shapes strategy in real time.",
+   "He says the hard part is not the model: organizing and cleaning data is 95% of the effort, and consistent definitions remain the foundation of reliable reporting.",
+   "A new 'finance engineer' archetype is emerging, people who pair domain expertise with the skills to build automated workflows; access to AI tools and a 'maker' culture also helps recruit and retain top talent.",
+   "Companies are in a 'messy middle' of bottom-up automation, the episode says, which will need centralized CIO functions to standardize these tools for scale.",
+   "Melwani still sees AI as an aid to critical thinking rather than a replacement, particularly when reading the sensitivity of financial models, and says Excel stays essential because hands-on building creates trust in a model."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1793876400,
+  "seq": 9326543,
+  "status": "summarized",
+  "tags": [
+   "AI-in-finance",
+   "CFO",
+   "automation",
+   "enterprise-AI"
+  ],
+  "title": "The New CFO: How AI Is Rewriting the Finance Function | Figma CFO Praveer Melwani",
+  "url": "https://app.podwise.ai/dashboard/episodes/9326543",
+  "id": "9326543"
+ },
+ {
   "addedAt": "2026-11-05T11:47:03Z",
   "durationMin": 32,
   "lang": "en",
@@ -23,6 +48,31 @@
   "title": "James Bosworth on What Comes After Lula's Stunning Win",
   "url": "https://app.podwise.ai/dashboard/episodes/9326141",
   "id": "9326141"
+ },
+ {
+  "addedAt": "2026-11-05T14:47:00Z",
+  "durationMin": 50,
+  "lang": "en",
+  "lines": [
+   "Vik Uppal, founder and CIO of $2 billion Mavik Capital Management, argues outperformance comes from flexible mandates and patient, high-conviction bets where capital is scarce, not from scaling into a bureaucratic AUM factory.",
+   "Without rigid allocation buckets, he says, Mavik can capture 'tweener' opportunities such as middle-market restructurings and distressed commercial real estate that fall between traditional mandates and that larger, scale-driven rivals overlook as boring.",
+   "He treats sitting out poor deal flow as a key discipline, refusing forced deployment and resisting herd trades such as the current AI infrastructure boom.",
+   "Risk management, in his view, means building large buffers for unpredictable events rather than trusting initial underwriting assumptions, with investment and asset management teams combined so restructuring lessons feed future underwriting.",
+   "Alignment comes from every eligible employee investing personally in the funds and sharing incentive fees across the whole firm, which he says fosters an owner's mindset."
+  ],
+  "podcast": "Capital Allocators – Inside the Institutional Investment Industry",
+  "publishTime": 1793869200,
+  "seq": 9326558,
+  "status": "summarized",
+  "tags": [
+   "real-estate",
+   "private-credit",
+   "distressed-investing",
+   "asset-management"
+  ],
+  "title": "Opportunistic Real Estate and Hard Asset Credit at Mavik – Vik Uppal (EP.525)",
+  "url": "https://app.podwise.ai/dashboard/episodes/9326558",
+  "id": "9326558"
  },
  {
   "addedAt": "2026-11-05T11:47:03Z",
