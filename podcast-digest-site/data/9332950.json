@@ -1,0 +1,24 @@
+{
+  "addedAt": "2026-11-06T14:47:39Z",
+  "durationMin": 49,
+  "lang": "en",
+  "lines": [
+    "Salesforce corporate development chief John Somorjai describes a disciplined build-partner-buy framework in which the best acquisitions speed up the product roadmap, bring in top talent and plug startups into Salesforce's distribution, including some 15,000 sales reps.",
+    "He argues distribution is the real shortcut: startups can spend years and heavy capital building global sales channels, which deals like Slack and the AI-native platform Finn bypass; Slack, he says, has become the conversational interface for enterprise AI agents.",
+    "Due diligence centers on security and data integrity, which he calls the top deal-breakers: a failed penetration test or weak control over customer contracts can sink a deal regardless of product quality, and ARR alone can mask customer attrition.",
+    "Somorjai expects a reckoning for non-generational startups on unsustainable valuations, since few buyers can absorb multi-billion-dollar deals, and sees software pricing shifting from per-seat to outcome-based.",
+    "Salesforce Ventures keeps a broad aperture, now including physical AI and robotics, to watch industry shifts and spot future targets, while integration focuses on retaining talent, with many acquired founders rising into senior leadership."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1793962800,
+  "seq": 9332950,
+  "status": "summarized",
+  "tags": [
+    "M-and-A",
+    "SaaS",
+    "enterprise-AI",
+    "venture-capital"
+  ],
+  "title": "Inside Salesforce’s $100 Billion M&A Playbook | John Somorjai",
+  "url": "https://app.podwise.ai/dashboard/episodes/9332950"
+}
