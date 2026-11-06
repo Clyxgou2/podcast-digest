@@ -1,5 +1,55 @@
 [
  {
+  "addedAt": "2026-11-06T11:47:03Z",
+  "durationMin": 46,
+  "lang": "en",
+  "lines": [
+   "Abstract Ventures founder Ramtin Naimi describes a venture market that matches 2021 in intensity, with AI companies raising huge rounds at record speed, but argues it differs because AI-native businesses are reaching product-market fit and creating real value quickly.",
+   "He says valuations have come loose from near-term traction and are priced off rare trillion-dollar outcomes, while mega-funds are deploying capital about three times faster than planned and returning to raise sooner.",
+   "Fast revenue growth can hide structural problems, he warns, such as negative margins, heavy customer concentration, or non-standard revenue recognition like annualizing monthly data sales.",
+   "Naimi argues alpha comes from backing brilliant founders on non-obvious ideas (he cites bets like brain-computer interfaces), since reactive bets in consensus categories tend to land in the bottom quartile; talent retention is the hardest operational problem for AI startups.",
+   "He sees secondary tranches as a functional need for compute-hungry companies rather than irrationality, and suggests equity may be an inefficient instrument for them, pointing to financing that delivers compute capacity directly; LP liquidity, meanwhile, is concentrated in a handful of giant winners."
+  ],
+  "podcast": "Invest Like the Best with Patrick O'Shaughnessy",
+  "publishTime": 1793955600,
+  "seq": 9332313,
+  "status": "summarized",
+  "tags": [
+   "venture-capital",
+   "AI-startups",
+   "valuation",
+   "compute-financing"
+  ],
+  "title": "Ramtin Naimi on the State of Venture Investing - [Invest Like the Best, EP.499]",
+  "url": "https://app.podwise.ai/dashboard/episodes/9332313",
+  "id": "9332313"
+ },
+ {
+  "addedAt": "2026-11-06T11:47:03Z",
+  "durationMin": 37,
+  "lang": "en",
+  "lines": [
+   "Employ America's Skanda Amarnath argues the Democratic sweep of Congress may erode the GOP's structural Senate advantage and reshapes the outlook for judicial and Federal Reserve appointments, where he expects likely gridlock over vacancies.",
+   "He describes a bifurcated economy: the non-AI economy is stable, but AI-sensitive sectors such as tech hardware, software and industrial equipment are now large enough that the durability of AI capex drives the broader cycle.",
+   "Data center construction has gone from a bipartisan economic-development win to a politically toxic issue, the episode says, forcing hyperscalers and state leaders to deal with local opposition and new regulatory risks.",
+   "Amarnath expects core inflation to stay anchored near 3% for some time as energy-sensitive services, AI hardware demand and delayed tariff pass-through converge, leaving the Fed little room to reach 2%.",
+   "Other threads: tech leaders' political spending is criticized as high-cost and low-impact, and Texas's new business court bid against Delaware is complicated by the state's fast-shifting politics."
+  ],
+  "podcast": "Odd Lots",
+  "publishTime": 1793955600,
+  "seq": 9332311,
+  "status": "summarized",
+  "tags": [
+   "macro",
+   "US-midterms",
+   "inflation",
+   "AI-capex"
+  ],
+  "title": "The Macro Implications of the Blue Tsunami",
+  "url": "https://app.podwise.ai/dashboard/episodes/9332311",
+  "id": "9332311"
+ },
+ {
   "addedAt": "2026-11-06T05:46:40Z",
   "durationMin": 10,
   "lang": "en",
