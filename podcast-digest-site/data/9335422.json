@@ -1,0 +1,24 @@
+{
+  "addedAt": "2026-11-07T02:46:57Z",
+  "durationMin": 58,
+  "lang": "en",
+  "lines": [
+    "The episode argues that local political resistance to data centers is undercutting the AI growth story, forcing investors to rethink the huge capex assumptions that underpin current AI valuations.",
+    "Because the AI trade rests on a narrow group of companies that need near-perfect execution, the hosts say even small regulatory or supply-chain hurdles can hit the whole sector, which helps explain recent stock volatility.",
+    "They expect Anthropic to press ahead with its IPO to cash in on its recent growth before competition and sheer scale erode its valuation upside, and note claims that AI-assisted research has roughly doubled its pace of model development.",
+    "On prediction markets, the view is that they track sentiment in real time but mostly piggyback on existing polling models rather than discovering new information.",
+    "The hosts also see a communications crisis for the industry: the physical footprint of data centers has opened a gap between AI's promise and its disruptive local impact."
+  ],
+  "podcast": "Big Technology Podcast",
+  "publishTime": 1794009420,
+  "seq": 9335422,
+  "status": "summarized",
+  "tags": [
+    "AI-capex",
+    "data-centers",
+    "Anthropic",
+    "prediction-markets"
+  ],
+  "title": "AI Stockpocalypse, Anthropic Nears RSI?, Prediction Markets vs. Pollsters",
+  "url": "https://app.podwise.ai/dashboard/episodes/9335422"
+}
