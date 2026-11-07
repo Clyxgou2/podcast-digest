@@ -1,5 +1,30 @@
 [
  {
+  "addedAt": "2026-11-07T14:46:28Z",
+  "durationMin": 31,
+  "lang": "en",
+  "lines": [
+   "Dr. Mark Hyman, co-founder of Function Health, argues longevity comes from the compounding effect of small daily habits in strength, nutrition, sleep and stress, not from extreme one-off interventions.",
+   "He calls muscle mass the core currency of aging well and says people over 60 need 1.5 to 2 grams of protein per kilogram of body weight, favoring animal protein for its higher leucine content.",
+   "He warns that GLP-1 weight-loss drugs risk serious muscle loss unless paired with high protein intake and strength training, and blames frequent snacking for metabolic syndrome, urging a return to structured meals.",
+   "Hyman sees preventive medicine shifting to cheap, large-scale data such as genomics, advanced blood panels, imaging and AI analysis to catch imbalances decades before symptoms appear.",
+   "He also urges cutting exposure to environmental toxins and microplastics and claims modern hybridized wheat is more inflammatory; peptides and supplements, in his view, only help on top of the basics."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1794049200,
+  "seq": 9336797,
+  "status": "summarized",
+  "tags": [
+   "longevity",
+   "healthcare",
+   "GLP-1",
+   "preventive-medicine"
+  ],
+  "title": "Mark Hyman’s Guide to Living Longer and Staying Strong",
+  "url": "https://app.podwise.ai/dashboard/episodes/9336797",
+  "id": "9336797"
+ },
+ {
   "addedAt": "2026-11-07T02:46:57Z",
   "durationMin": 58,
   "lang": "en",
