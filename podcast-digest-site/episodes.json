@@ -1,5 +1,30 @@
 [
  {
+  "addedAt": "2026-11-08T14:46:55Z",
+  "durationMin": 26,
+  "lang": "en",
+  "lines": [
+   "Truemed CEO Justin Mares argues most people should skip extreme biohacks and focus on a few sustainable fundamentals: better-sourced food, movement, sleep and fewer toxins.",
+   "He says US healthcare spends under 3% on prevention, so incentives only kick in after chronic disease sets in; his pitch is that HSA and FSA funds can be redirected to exercise, nutrition and sleep aids.",
+   "On diet, he claims food sourcing matters more than diet labels, blames seed oils and corn-fed poultry (high in PUFAs) for inflammation, and recommends adding collagen-rich foods like bone broth and organ meats.",
+   "He treats supplements as data-driven experiments: get blood work, run 90-180 day trials of items such as nattokinase or methylated B vitamins, then retest.",
+   "Low-cost, high-leverage habits he highlights include 30-60 minutes outdoors right after waking and passive fixes like reverse-osmosis water filters and air purifiers."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1794135600,
+  "seq": 9342806,
+  "status": "summarized",
+  "tags": [
+   "healthcare",
+   "preventive-medicine",
+   "longevity",
+   "HSA"
+  ],
+  "title": "The Health Interventions Actually Worth Your Time | Justin Mares",
+  "url": "https://app.podwise.ai/dashboard/episodes/9342806",
+  "id": "9342806"
+ },
+ {
   "addedAt": "2026-11-08T02:46:29Z",
   "durationMin": 64,
   "lang": "en",
