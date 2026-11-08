@@ -1,0 +1,23 @@
+{
+  "addedAt": "2026-11-07T23:46:21Z",
+  "lang": "en",
+  "lines": [
+    "Replit CEO Amjad Masad argues 'vibe coding' turns software development from writing code by hand into directing autonomous agents, with Replit positioned as the infrastructure layer that handles deployment, sandboxing and databases.",
+    "He says the real breakthrough was moving from single-turn chat to agents that run to completion, fixing their own errors and looping until a task works, which Replit shipped in 2024.",
+    "The apparent simplicity rests on heavy systems engineering underneath, such as transactional file systems and robust sandboxing.",
+    "Masad envisions 'self-driving companies' where non-technical employees build their own internal tools, and says large organizations already use such platforms to bypass outsourcing and bureaucratic bottlenecks.",
+    "His prescription is an exponential mindset: assume rapid change tied to compute growth, ride the wave rather than protect legacy workflows, and keep reinventing as AI capabilities commoditize."
+  ],
+  "podcast": "Y Combinator",
+  "publishTime": 1794063614,
+  "seq": 9337851,
+  "status": "summarized",
+  "tags": [
+    "AI-coding",
+    "AI-agents",
+    "developer-tools",
+    "enterprise-AI"
+  ],
+  "title": "How Amjad Masad Saw Vibe Coding A Decade Early",
+  "url": "https://app.podwise.ai/dashboard/episodes/9337851"
+}
