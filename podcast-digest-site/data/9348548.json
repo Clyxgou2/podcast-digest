@@ -1,0 +1,24 @@
+{
+  "addedAt": "2026-11-09T23:46:51Z",
+  "durationMin": 27,
+  "lang": "en",
+  "lines": [
+    "In a solo episode, Alex Kantrowitz argues that reports of Jensen Huang's affair with a woman US intelligence reportedly links to Chinese intelligence are a national-security problem for Nvidia, not just a personal scandal.",
+    "He frames Huang as a near-irreplaceable leader, so any hit to his standing threatens Nvidia's stability, and raises the risk that sensitive communications or chip strategy may have been exposed.",
+    "Kantrowitz says the episode undercuts Huang's credibility as the leading voice against US export controls on AI chips, and lands just as a shift in congressional control sets up hearings on AI and national security.",
+    "He notes rivals such as Google are using the uncertainty to pitch TPUs as an alternative, especially to government and heavily regulated customers.",
+    "Still, he expects Huang to keep his job, arguing the industry's dependence on Nvidia and the momentum of the AI build-out shield it from the usual corporate consequences."
+  ],
+  "podcast": "Big Technology Podcast",
+  "publishTime": 1794243480,
+  "seq": 9348548,
+  "status": "summarized",
+  "tags": [
+    "Nvidia",
+    "semiconductors",
+    "export-controls",
+    "national-security"
+  ],
+  "title": "Jensen and The Honeypot",
+  "url": "https://app.podwise.ai/dashboard/episodes/9348548"
+}
