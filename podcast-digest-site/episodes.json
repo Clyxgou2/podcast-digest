@@ -1,5 +1,30 @@
 [
  {
+  "addedAt": "2026-11-09T23:46:51Z",
+  "durationMin": 27,
+  "lang": "en",
+  "lines": [
+   "In a solo episode, Alex Kantrowitz argues that reports of Jensen Huang's affair with a woman US intelligence reportedly links to Chinese intelligence are a national-security problem for Nvidia, not just a personal scandal.",
+   "He frames Huang as a near-irreplaceable leader, so any hit to his standing threatens Nvidia's stability, and raises the risk that sensitive communications or chip strategy may have been exposed.",
+   "Kantrowitz says the episode undercuts Huang's credibility as the leading voice against US export controls on AI chips, and lands just as a shift in congressional control sets up hearings on AI and national security.",
+   "He notes rivals such as Google are using the uncertainty to pitch TPUs as an alternative, especially to government and heavily regulated customers.",
+   "Still, he expects Huang to keep his job, arguing the industry's dependence on Nvidia and the momentum of the AI build-out shield it from the usual corporate consequences."
+  ],
+  "podcast": "Big Technology Podcast",
+  "publishTime": 1794243480,
+  "seq": 9348548,
+  "status": "summarized",
+  "tags": [
+   "Nvidia",
+   "semiconductors",
+   "export-controls",
+   "national-security"
+  ],
+  "title": "Jensen and The Honeypot",
+  "url": "https://app.podwise.ai/dashboard/episodes/9348548",
+  "id": "9348548"
+ },
+ {
   "addedAt": "2026-11-09T14:47:06Z",
   "durationMin": 57,
   "lang": "en",
@@ -96,6 +121,31 @@
   "title": "[REPLAY] Aydin Senkut – Tenacious Sourcing and Founder Support at Felicis, Venture is Eating the Investment World 6 (EP.234)",
   "url": "https://app.podwise.ai/dashboard/episodes/9346776",
   "id": "9346776"
+ },
+ {
+  "addedAt": "2026-11-09T23:46:51Z",
+  "durationMin": 43,
+  "lang": "en",
+  "lines": [
+   "StoneX macro strategist Vincent Deluard reads the US midterms as part of a global turn to economic populism, with voters focused on inflation and affordability over cultural issues, and notes that huge campaign spending failed to sway key races.",
+   "He argues the 2% inflation target is becoming untenable under fiscal dominance: central banks will have to tolerate structurally higher inflation to fund swelling government deficits.",
+   "Deluard sees an emerging 'national capitalism' in which countries repatriate capital from US markets to pay for energy independence, infrastructure and defense, a long-term threat to US equity and bond valuations that depend on foreign inflows.",
+   "He says the Mexican 'super peso' is fading on lower remittances, tighter border enforcement and the unwinding of the yen carry trade, while Canada looks more resilient thanks to pragmatic management.",
+   "He also contends subscription models and algorithmic personalized pricing shift welfare from consumers to producers and make inflation harder to measure, feeding discontent and polarization."
+  ],
+  "podcast": "Hidden Forces",
+  "publishTime": 1794211200,
+  "seq": 9346329,
+  "status": "summarized",
+  "tags": [
+   "macro",
+   "inflation",
+   "populism",
+   "FX"
+  ],
+  "title": "The Return of Economic Populism and the End of Two Percent | Vincent Deluard",
+  "url": "https://app.podwise.ai/dashboard/episodes/9346329",
+  "id": "9346329"
  },
  {
   "addedAt": "2026-11-08T14:46:55Z",
