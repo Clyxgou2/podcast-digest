@@ -1,0 +1,24 @@
+{
+  "addedAt": "2026-11-10T23:46:15Z",
+  "durationMin": 59,
+  "lang": "en",
+  "lines": [
+    "HubSpot co-founder and CTO Dharmesh Shah argues startups should stay off the 'Yellow Brick Road' frontier AI labs are racing down and instead target specific, high-value workflows where the labs face structural or incentive constraints.",
+    "He points to record business formation, with over 70% of new ventures expected to stay one-person businesses, as a large, underserved market for specialized AI-native software.",
+    "Shah says durable AI products combine structured systems of record with unstructured context, a 'second brain' for agentic workflows, and use cheap deterministic queries for retrieval while reserving costly inference for real reasoning.",
+    "In his view the interface is only a means to an end: lasting advantage comes from the underlying data, customer context and delivered outcomes, not from wrapping a model.",
+    "Drawing on HubSpot's path from marketing suite to all-in-one CRM, he advises starting with a narrow wedge on a fragmented pain point, running fast iteration cycles, and keeping a 'startup within a startup' mindset."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1794324575,
+  "seq": 9355487,
+  "status": "summarized",
+  "tags": [
+    "AI-startups",
+    "SaaS",
+    "CRM",
+    "solopreneurs"
+  ],
+  "title": "HubSpot’s Co-Founder on Finding Your Next Startup Idea",
+  "url": "https://app.podwise.ai/dashboard/episodes/9355487"
+}
