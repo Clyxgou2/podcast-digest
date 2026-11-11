@@ -1,0 +1,24 @@
+{
+  "addedAt": "2026-11-11T14:48:00Z",
+  "durationMin": 57,
+  "lang": "en",
+  "lines": [
+    "Former Cisco executive Mike Volpi, now at Hanabi Capital, argues the AI build-out rhymes with the 1990s internet boom but has bigger economic stakes, because it builds infrastructure for intelligence rather than just connectivity, and AI's practical utility is driving faster revenue growth than early web apps did.",
+    "He says GPUs are proving far longer-lived than expected: persistent silicon scarcity keeps even older generations economically useful.",
+    "Volpi expects data center networking to move from stochastic, packet-switched designs built for bursty internet traffic toward predictable, circuit-like systems that maximize GPU utilization, with the whole rack or data center co-designed as one system.",
+    "He doubts funding many small cloud providers will work, since scale economics push the market toward a few hyperscalers, and sees token demand turning more price-sensitive as users pick models by utility and cost.",
+    "Drawing on Cisco's acquisition machine, he favors frequent, process-driven small and mid-size deals over large, culturally complex mergers, and advises founders to keep informal ties with competitors as early-warning intelligence."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1794394800,
+  "seq": 9360619,
+  "status": "summarized",
+  "tags": [
+    "AI-infrastructure",
+    "GPUs",
+    "networking",
+    "M&A"
+  ],
+  "title": "What the Internet Boom Teaches Us About the AI Buildout | Mike Volpi",
+  "url": "https://app.podwise.ai/dashboard/episodes/9360619"
+}
