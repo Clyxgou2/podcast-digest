@@ -1,0 +1,24 @@
+{
+  "addedAt": "2026-11-11T23:46:46Z",
+  "durationMin": 61,
+  "lang": "en",
+  "lines": [
+    "Spyglass author M.G. Siegler and host Alex Kantrowitz discuss how the AI data center boom is driving up memory costs and squeezing Apple's margins, turning Apple from a component price-setter into a price taker even as it stays out of the AI spending race.",
+    "The show notes Apple's services revenue growth is slowing, so the company needs new ways to monetize beyond its existing ecosystem.",
+    "They see the folding 'iPhone Duo' as a push into premium, high-margin hardware, and a possible sign that foldables, working as a compact phone and a larger screen, eventually replace the glass slab.",
+    "AI wearables that passively record and summarize conversations, like Amazon's listening bracelet, are framed as 'gaslight insurance' but face serious privacy, consent and legal hurdles.",
+    "They argue AI is becoming the interface itself: models generating widgets and tools on the fly from user intent could make static, pre-built apps obsolete."
+  ],
+  "podcast": "Big Technology Podcast",
+  "publishTime": 1794432600,
+  "seq": 9448211,
+  "status": "summarized",
+  "tags": [
+    "Apple",
+    "consumer-hardware",
+    "memory",
+    "AI-interfaces"
+  ],
+  "title": "Storm Clouds Ahead For Apple?, Debating Amazon’s Bee Frontier, AI as UI",
+  "url": "https://app.podwise.ai/dashboard/episodes/9448211"
+}
