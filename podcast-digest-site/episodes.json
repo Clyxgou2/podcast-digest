@@ -1,5 +1,30 @@
 [
  {
+  "addedAt": "2026-11-11T14:48:00Z",
+  "durationMin": 57,
+  "lang": "en",
+  "lines": [
+   "Former Cisco executive Mike Volpi, now at Hanabi Capital, argues the AI build-out rhymes with the 1990s internet boom but has bigger economic stakes, because it builds infrastructure for intelligence rather than just connectivity, and AI's practical utility is driving faster revenue growth than early web apps did.",
+   "He says GPUs are proving far longer-lived than expected: persistent silicon scarcity keeps even older generations economically useful.",
+   "Volpi expects data center networking to move from stochastic, packet-switched designs built for bursty internet traffic toward predictable, circuit-like systems that maximize GPU utilization, with the whole rack or data center co-designed as one system.",
+   "He doubts funding many small cloud providers will work, since scale economics push the market toward a few hyperscalers, and sees token demand turning more price-sensitive as users pick models by utility and cost.",
+   "Drawing on Cisco's acquisition machine, he favors frequent, process-driven small and mid-size deals over large, culturally complex mergers, and advises founders to keep informal ties with competitors as early-warning intelligence."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1794394800,
+  "seq": 9360619,
+  "status": "summarized",
+  "tags": [
+   "AI-infrastructure",
+   "GPUs",
+   "networking",
+   "M&A"
+  ],
+  "title": "What the Internet Boom Teaches Us About the AI Buildout | Mike Volpi",
+  "url": "https://app.podwise.ai/dashboard/episodes/9360619",
+  "id": "9360619"
+ },
+ {
   "addedAt": "2026-11-11T11:46:51Z",
   "durationMin": 76,
   "lang": "en",
@@ -72,6 +97,31 @@
   "title": "HubSpot’s Co-Founder on Finding Your Next Startup Idea",
   "url": "https://app.podwise.ai/dashboard/episodes/9355487",
   "id": "9355487"
+ },
+ {
+  "addedAt": "2026-11-11T14:48:00Z",
+  "durationMin": 52,
+  "lang": "en",
+  "lines": [
+   "Revolut founder and CEO Nik Storonsky describes scaling to about 80 million customers by treating products as disciplined, data-validated bets, growing organically with cheaper, better alternatives to legacy services such as multi-currency cards and business accounts rather than early paid marketing.",
+   "Under its 'new bets' process, small autonomous teams launch products that are measured against historical revenue and retention cohorts; laggards are shut down and winners scaled through an automated, LLM-assisted cross-sell engine that acts like a virtual account manager.",
+   "He favors subscription and transaction revenue over interest-heavy lending to reduce credit-cycle risk and support a higher valuation multiple.",
+   "For the US, Revolut plans a credit-card-led push against premium incumbents like Amex and Chase; Storonsky says good markets have 'sleepy' incumbents and favorable interchange and credit rules, and that winning users under 35 is the path to primary-bank status.",
+   "He backs quarterly rather than annual performance reviews to exit underperformers faster, and says AI is shifting teams toward generalists and shrinking the headcount needed to launch products."
+  ],
+  "podcast": "Cheeky Pint",
+  "publishTime": 1794314700,
+  "seq": 9354979,
+  "status": "summarized",
+  "tags": [
+   "fintech",
+   "neobanks",
+   "consumer-finance",
+   "AI-adoption"
+  ],
+  "title": "Nik Storonsky: The most uncompromising banking CEO",
+  "url": "https://app.podwise.ai/dashboard/episodes/9354979",
+  "id": "9354979"
  },
  {
   "addedAt": "2026-11-10T23:46:15Z",
