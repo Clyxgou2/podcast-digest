@@ -1,0 +1,24 @@
+{
+  "addedAt": "2026-11-12T14:46:51Z",
+  "durationMin": 46,
+  "lang": "en",
+  "lines": [
+    "a16z general partners Anish Acharya and Jonathan Lai argue AI is collapsing the gap between a game idea and a playable prototype, opening game creation to non-specialists.",
+    "They say AI agents that operate tools like Blender and game engines let individuals cover gaps in code, art and design, and could cut big-studio production cycles from about a decade to 2-5 years, freeing studios to risk new IP.",
+    "In their view AI handles roughly the first 80% of production, but human intuition still decides the final 20% that makes a game engaging.",
+    "Lower costs make esoteric niches such as hyper-specific job simulators viable, and AI-driven decompilation and modding are reviving legacy games for modern platforms.",
+    "They see the next frontier as AI-native worlds that generate mechanics, quests and stories in real time, and suggest RTS-style game interfaces may be the most intuitive way for non-technical users to manage agent workflows."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1794481200,
+  "seq": 9458307,
+  "status": "summarized",
+  "tags": [
+    "gaming",
+    "AI-agents",
+    "generative-AI",
+    "venture"
+  ],
+  "title": "The Next Era of Games: Mods, Agents, and Infinite Worlds",
+  "url": "https://app.podwise.ai/dashboard/episodes/9458307"
+}
