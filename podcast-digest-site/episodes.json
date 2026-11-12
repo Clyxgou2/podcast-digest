@@ -1,5 +1,53 @@
 [
  {
+  "addedAt": "2026-11-12T11:46:27Z",
+  "durationMin": 7,
+  "lang": "en",
+  "lines": [
+   "Prompted by the new Elizabeth Holmes documentary, Ted Seides argues that allocators' search for certainty often yields reassurance rather than truth, and that more transparency can add confusion instead of clarity.",
+   "He says manager meetings, especially after underperformance, become a ritual in which managers offer comforting narratives and project confidence because that is what the questions reward.",
+   "Since market noise makes precise attribution of cause and effect nearly impossible, he suggests judging managers by temperament, accountability and consistency under pressure rather than by their literal explanations.",
+   "His fix: ask falsifiability questions, such as what would change their mind or where the process could fail, and recognize how the allocator's own expectations shape the answers they get."
+  ],
+  "podcast": "Capital Allocators – Inside the Institutional Investment Industry",
+  "publishTime": 1794474000,
+  "seq": 9457805,
+  "status": "summarized",
+  "tags": [
+   "asset-allocation",
+   "due-diligence",
+   "fund-management"
+  ],
+  "title": "WTT: You Can't See Everything",
+  "url": "https://app.podwise.ai/dashboard/episodes/9457805",
+  "id": "9457805"
+ },
+ {
+  "addedAt": "2026-11-12T11:46:27Z",
+  "durationMin": 54,
+  "lang": "en",
+  "lines": [
+   "Bloomberg tech reporter Mackenzie Hawkins uses the probe into Megaspeed, a Singapore-based intermediary, to show how advanced Nvidia chips may be reaching China and how porous US export controls are.",
+   "She explains that Chinese AI firms largely sidestep the ban legally by renting compute remotely in Southeast Asian data centers, while outright smuggling relies on tactics like declaring high-end GPUs as simple adapter modules.",
+   "Enforcement is thin, with only a handful of officers monitoring global hardware flows, and the show says Nvidia's clout is such that the Commerce Department routes all direct contact with the company through senior legal oversight.",
+   "Hawkins argues the real bottleneck is power-ready data center capacity rather than chips, and that Southeast Asia's build-out is driven largely by Chinese offtake demand.",
+   "She sees Huawei as a serious long-term rival, but says its production constraints leave it unable to meet even domestic Chinese demand until around 2030."
+  ],
+  "podcast": "Odd Lots",
+  "publishTime": 1794474000,
+  "seq": 9457792,
+  "status": "summarized",
+  "tags": [
+   "Nvidia",
+   "export-controls",
+   "semiconductors",
+   "China"
+  ],
+  "title": "What Nvidia's Megaspeed Scandal Is Really All About",
+  "url": "https://app.podwise.ai/dashboard/episodes/9457792",
+  "id": "9457792"
+ },
+ {
   "addedAt": "2026-11-12T02:46:20Z",
   "durationMin": 79,
   "lang": "en",
