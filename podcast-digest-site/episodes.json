@@ -1,5 +1,29 @@
 [
  {
+  "addedAt": "2026-11-13T14:47:30Z",
+  "durationMin": 46,
+  "lang": "en",
+  "lines": [
+   "Wiz co-founder and CTO Ami Luttwak argues that 'Black October', a wave of AI-found vulnerabilities, marks a turning point: AI now lets attackers find and exploit flaws at machine speed, making human-paced patching cycles largely obsolete.",
+   "He says the exploitation window has collapsed from months to roughly 20 minutes, and fast-improving open-source models have erased the buffer between a frontier model's release and its weaponization.",
+   "His prescription is continuous self-attack with 'red agent' swarms built on the latest models, plus secure-by-design architectures that assume zero-days exist and rely on isolation and process lockdown.",
+   "Luttwak contends much of today's security work, such as compliance reporting and static configuration checks, adds little protection, and that unauthenticated internet-facing exposure like hard-coded keys in mobile apps is the more urgent risk.",
+   "To contain AI costs he recommends tiered pipelines where deterministic checks and cheap models filter events before costly models verify, and he expects a 'new 90s' era forcing a reboot of vendor stacks toward AI-native tools."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1794567600,
+  "seq": 9463275,
+  "status": "summarized",
+  "tags": [
+   "cybersecurity",
+   "AI-agents",
+   "security-vendors"
+  ],
+  "title": "Every Day Is Zero Day | Wiz CTO Ami Luttwak",
+  "url": "https://app.podwise.ai/dashboard/episodes/9463275",
+  "id": "9463275"
+ },
+ {
   "addedAt": "2026-11-13T11:46:48Z",
   "durationMin": 58,
   "lang": "en",
