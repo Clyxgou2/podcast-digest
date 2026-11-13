@@ -1,5 +1,30 @@
 [
  {
+  "addedAt": "2026-11-13T05:46:47Z",
+  "durationMin": 11,
+  "lang": "en",
+  "lines": [
+   "In this short wrap-up from New York, Nicolai Tangen and Marthe Skaar revisit his Mike Milken interview, framing Milken's high-yield career as a lesson in questioning what markets label 'safe'.",
+   "They note high-yield debt funded riskier companies that banks ignored and helped consolidate industries such as telecom and media, while a diversified pool of 'risky' credits can deliver higher returns with lower aggregate volatility.",
+   "Tangen highlights Milken's method of changing minds with simple multiple-choice questions rather than confrontation, and stresses auditing positions daily by asking whether you would buy them again today.",
+   "They contrast US agility in absorbing losses and pivoting with slower, legacy-burdened recovery in Europe.",
+   "Tangen warns that firms failing to integrate AI face existential risk, as private equity buyers increasingly acquire legacy companies specifically to replace labor with automation."
+  ],
+  "podcast": "In Good Company with Nicolai Tangen",
+  "publishTime": 1794542400,
+  "seq": 9461951,
+  "status": "summarized",
+  "tags": [
+   "credit",
+   "high-yield",
+   "AI-adoption",
+   "private-equity"
+  ],
+  "title": "Friday Wrap-Up: Milken’s Method and a Tech Day in New York",
+  "url": "https://app.podwise.ai/dashboard/episodes/9461951",
+  "id": "9461951"
+ },
+ {
   "addedAt": "2026-11-13T02:47:17Z",
   "durationMin": 387,
   "lang": "zh",
