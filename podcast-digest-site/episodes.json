@@ -1,5 +1,29 @@
 [
  {
+  "addedAt": "2026-11-13T11:46:48Z",
+  "durationMin": 58,
+  "lang": "en",
+  "lines": [
+   "Yale Law professor John Morley uses Weil Gotshal's sudden wind-down to argue that the traditional law-firm partnership is structurally fragile and prone to 'partner runs' that resemble bank runs.",
+   "He says firms die not only from outright losses but from falling behind peers' profit growth, which prompts partner departures that cut revenue and trigger more exits in a self-reinforcing spiral.",
+   "'Eat what you kill' pay measures individual output but ties clients to rainmakers rather than the firm, and ethics rules barring non-competes stop firms from institutionalizing those relationships.",
+   "Because partners' equity disappears when they retire, Morley argues there is a generational conflict that discourages long-term investment such as AI, and partners as owners also face clawbacks of distributions in a wind-down.",
+   "He contends investor-owned firms could wipe out equity in insolvency while keeping their lawyers, and sees the market splitting into giant platforms and specialist boutiques, squeezing firms like Weil in between."
+  ],
+  "podcast": "Odd Lots",
+  "publishTime": 1794560400,
+  "seq": 9462865,
+  "status": "summarized",
+  "tags": [
+   "legal-industry",
+   "partnerships",
+   "professional-services"
+  ],
+  "title": "Why a $2 Billion Law Firm Suddenly Collapsed",
+  "url": "https://app.podwise.ai/dashboard/episodes/9462865",
+  "id": "9462865"
+ },
+ {
   "addedAt": "2026-11-13T05:46:47Z",
   "durationMin": 11,
   "lang": "en",
