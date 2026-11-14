@@ -1,5 +1,30 @@
 [
  {
+  "addedAt": "2026-11-14T23:46:20Z",
+  "durationMin": 63,
+  "lang": "en",
+  "lines": [
+   "James Gleick, discussing his new book The Telephone: A New History, argues that transformative technologies are ultimately defined by their users, not their inventors.",
+   "He rejects the lone-genius story of the telephone: it came out of a messy, competitive field of simultaneous inventors, and early users such as farmers stringing calls over barbed-wire fences turned it from a broadcast device into a tool for casual conversation.",
+   "The telephone was the original network-effect business; Gleick says the Bell monopoly, which funded Bell Labs, was the result of strategic consolidation rather than something progress required.",
+   "He credits Bell Labs' output to combining wide intellectual freedom with a clear overarching mission.",
+   "Gleick sees AI as a continuation of the digital revolution rather than a discontinuous 'fourth industrial revolution', with computers simply tackling ever more abstract problems."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1794654000,
+  "seq": 9468434,
+  "status": "summarized",
+  "tags": [
+   "tech-history",
+   "telecom",
+   "network-effects",
+   "AI"
+  ],
+  "title": "From the Telephone to Modern Computing | James Gleick",
+  "url": "https://app.podwise.ai/dashboard/episodes/9468434",
+  "id": "9468434"
+ },
+ {
   "addedAt": "2026-11-14T11:46:40Z",
   "durationMin": 36,
   "lang": "en",
