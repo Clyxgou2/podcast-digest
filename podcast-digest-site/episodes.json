@@ -1,5 +1,30 @@
 [
  {
+  "addedAt": "2026-11-14T02:47:09Z",
+  "durationMin": 63,
+  "lang": "en",
+  "lines": [
+   "Alex Kantrowitz and Ranjan Roy discuss Jensen Huang's ouster as Nvidia CEO, arguing the real issue is not his reported personal affairs but allegations that restricted chips reached China in violation of US export controls.",
+   "The episode says reports describe H100 and H200 chips flowing to Chinese AI labs through Singapore-based shell companies, which the hosts frame as both a governance failure and a national security problem now drawing federal investigations.",
+   "They argue Nvidia's CUDA moat is eroding as AI-assisted software cuts onboarding to new hardware from months to days, citing Anthropic's fast adoption of AMD chips, alongside competition from AMD and custom silicon at Google and OpenAI.",
+   "The hosts flag Nvidia's circular financing, where it backs customers who then buy its chips, as a structural weakness, and say its flat structure with many direct reports creates real succession risk without Huang.",
+   "They note the market's relative calm suggests AI infrastructure demand is, for now, decoupled from Nvidia's leadership, while losing Huang as an advocate for China sales could slow Chinese AI labs."
+  ],
+  "podcast": "Big Technology Podcast",
+  "publishTime": 1794614640,
+  "seq": 9467021,
+  "status": "summarized",
+  "tags": [
+   "Nvidia",
+   "semiconductors",
+   "export-controls",
+   "corporate-governance"
+  ],
+  "title": "Special Report: The Fall Of Jensen Huang & What Comes Next",
+  "url": "https://app.podwise.ai/dashboard/episodes/9467021",
+  "id": "9467021"
+ },
+ {
   "addedAt": "2026-11-13T14:47:30Z",
   "durationMin": 46,
   "lang": "en",
