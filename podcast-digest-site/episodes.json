@@ -1,5 +1,30 @@
 [
  {
+  "addedAt": "2026-11-14T08:46:38Z",
+  "durationMin": 85,
+  "lang": "en",
+  "lines": [
+   "The All-In hosts argue Jensen Huang's ouster as Nvidia CEO, following allegations tied to a suspected Chinese intelligence asset, could slow the rapid chip iteration cycle that underpins US leadership in AI.",
+   "They read the leak of classified intelligence that forced the change as a sign of factional fighting within the US national security establishment over how far to engage with China.",
+   "The show describes the 'Bank of Nvidia' model, in which Nvidia supplies capital and guarantees for customers' data center build-outs, as a critical but fragile anchor for the AI economy now at risk.",
+   "The hosts warn that pushes for chip 'kill switches' and centralized telemetry could give government direct control over AI hardware, and note the paradox that Beijing's push for Huawei adoption aligns with US China hawks in restricting American chip flows to China.",
+   "They also see Anthropic, heading toward an IPO, pursuing a winner-take-all strategy by bundling enterprise productivity and communication tools into its platform to displace SaaS incumbents."
+  ],
+  "podcast": "All-In Podcast",
+  "publishTime": 1794624618,
+  "seq": 9467567,
+  "status": "summarized",
+  "tags": [
+   "Nvidia",
+   "export-controls",
+   "AI-infrastructure",
+   "SaaS"
+  ],
+  "title": "Jensen OUT as Nvidia CEO: \"Spy\" Scandal, Export Restrictions, Market Impact",
+  "url": "https://app.podwise.ai/dashboard/episodes/9467567",
+  "id": "9467567"
+ },
+ {
   "addedAt": "2026-11-14T02:47:09Z",
   "durationMin": 63,
   "lang": "en",
