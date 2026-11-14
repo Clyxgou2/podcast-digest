@@ -1,5 +1,30 @@
 [
  {
+  "addedAt": "2026-11-14T11:46:40Z",
+  "durationMin": 36,
+  "lang": "en",
+  "lines": [
+   "Bernstein's Stacy Rasgon argues Jensen Huang's dismissal leaves Nvidia with acute key-man risk: near-term operations look stable, but the long-term strategic vision and personal handshake deals with supply-chain partners were his.",
+   "The episode says the decisive trigger for the board was undisclosed relationships with subordinates and dishonesty toward the board, rather than the espionage and geopolitical concerns that dominated early coverage.",
+   "Rasgon flags Nvidia's highly centralized decision-making with no formal succession plan, plus brain-drain risk as many already-wealthy employees may not stay through the transition.",
+   "The 'Bank of AI' strategy of committing capital to secure supply-chain capacity, driven by Huang's personal conviction, and the durability of the CUDA moat may both be re-tested under new leadership.",
+   "On policy, the show argues that restricting even older-generation chip sales to China could speed its self-sufficient AI ecosystem, and that public infighting in Washington makes chip export rules increasingly unpredictable."
+  ],
+  "podcast": "Odd Lots",
+  "publishTime": 1794646800,
+  "seq": 9467897,
+  "status": "summarized",
+  "tags": [
+   "Nvidia",
+   "semiconductors",
+   "export-controls",
+   "corporate-governance"
+  ],
+  "title": "How Wall Street Is Bracing For the Post-Jensen Huang Nvidia Era",
+  "url": "https://app.podwise.ai/dashboard/episodes/9467897",
+  "id": "9467897"
+ },
+ {
   "addedAt": "2026-11-14T08:46:38Z",
   "durationMin": 85,
   "lang": "en",
@@ -72,6 +97,30 @@
   "title": "Every Day Is Zero Day | Wiz CTO Ami Luttwak",
   "url": "https://app.podwise.ai/dashboard/episodes/9463275",
   "id": "9463275"
+ },
+ {
+  "addedAt": "2026-11-14T11:46:40Z",
+  "durationMin": 89,
+  "lang": "zh",
+  "lines": [
+   "嘉宾徐之凯（上海大学历史学系副教授）以马克龙2026年6月将年鉴学派奠基人马克·布洛赫迎入先贤祠为切口，讲述其两次参战、投身抵抗运动并遭处决的经历与学术遗产。",
+   "节目介绍年鉴学派的核心：摆脱对官方档案的依赖，引入地理、社会、心理等学科，从“长时段”和“集体心态”解释历史；“逆向溯源法”从现代习惯倒推过去，以剥离后世附会。",
+   "嘉宾认为布洛赫的《奇怪的战败》不只是复盘1940年法国溃败，更揭示政治僵化与社会腐坏如何让国家丧失抵抗意志，已成分析社会危机的经典范式。",
+   "节目称从萨科齐到马克龙，入祀先贤祠已成为总统塑造“抵抗记忆”与国家认同的政治工具，用以回应当下法国的社会撕裂。",
+   "嘉宾还谈到当代法国能源价格、精英教育改革与青年就业困境，认为这反映了高福利模式在全球化压力下的结构性问题。"
+  ],
+  "podcast": "忽左忽右",
+  "publishTime": 1794566399,
+  "seq": 9467896,
+  "status": "summarized",
+  "tags": [
+   "历史",
+   "法国",
+   "社会思潮"
+  ],
+  "title": "516 从马克·布洛赫入祀先贤祠看年鉴学派与当代法国社会文化思潮",
+  "url": "https://app.podwise.ai/dashboard/episodes/9467896",
+  "id": "9467896"
  },
  {
   "addedAt": "2026-11-13T11:46:48Z",
