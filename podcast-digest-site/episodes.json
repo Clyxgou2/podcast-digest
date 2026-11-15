@@ -1,5 +1,52 @@
 [
  {
+  "addedAt": "2026-11-15T14:46:56Z",
+  "durationMin": 17,
+  "lang": "en",
+  "lines": [
+   "Zipline CEO Keller Cliffton argues that every 10x jump in scale forces a full reinvention of processes, manufacturing and org structure, so the company runs with 'no sacred cows'.",
+   "Because autonomous flight was illegal in US airspace, Zipline launched in Rwanda in 2016 with life-saving deliveries such as blood; the episode cites a 51% reduction in maternal mortality as proof the model works.",
+   "After more than 3 million deliveries, Zipline is expanding in the US; Cliffton contends fast, reliable autonomous delivery could grow the US instant-delivery market from about 5.5 billion to 50 billion deliveries a year.",
+   "He favors small, empowered 'special forces' teams over hierarchy, and says users normalize seemingly sci-fi services within about a week, while early real-world flaws are a sign of fast iteration."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1794740400,
+  "seq": 9472069,
+  "status": "summarized",
+  "tags": [
+   "drones",
+   "autonomous-delivery",
+   "logistics",
+   "scaling"
+  ],
+  "title": "What Breaks When You Scale 10x? | Zipline’s Keller Cliffton",
+  "url": "https://app.podwise.ai/dashboard/episodes/9472069",
+  "id": "9472069"
+ },
+ {
+  "addedAt": "2026-11-15T14:46:56Z",
+  "durationMin": 143,
+  "lang": "zh",
+  "lines": [
+   "元理智能创始人、前智谱AI COO张帆认为，AI时代企业竞争的关键是基于自身业务逻辑的“边缘解”——把通用大模型转化为特定行业的垂直最优解，而非追逐共识。",
+   "他提醒，把基模的通用能力误当作自身竞争力是最大的幻觉；企业应分层：低频、非核心业务交给通用基模，高频、独特的核心业务沉淀为专属“垂直智能”，并靠数据闭环持续进化。",
+   "嘉宾主张AI应定位为“数字员工”，即概率性模型加确定性流程（Harness）的生产单元，而非Copilot式辅助工具；AI思维应对关键环节做Autopilot式替代，带来商业模式重塑而非单纯降本增效。",
+   "他认为AI公司要避免“规模不经济”，用自动化和生态协作把依赖人工的交付压到最低；人的判断、调度与设计能力在AI时代反而被放大。"
+  ],
+  "podcast": "高能量",
+  "publishTime": 1794737244,
+  "seq": 9472073,
+  "status": "summarized",
+  "tags": [
+   "AI应用",
+   "企业服务",
+   "创业"
+  ],
+  "title": "Vol.243 什么才是AI时代有价值的个体和公司：与张帆聊他的技术与创业思考",
+  "url": "https://app.podwise.ai/dashboard/episodes/9472073",
+  "id": "9472073"
+ },
+ {
   "addedAt": "2026-11-15T02:46:28Z",
   "durationMin": 67,
   "lang": "en",
