@@ -1,5 +1,78 @@
 [
  {
+  "addedAt": "2026-11-16T11:47:17Z",
+  "durationMin": 48,
+  "lang": "en",
+  "lines": [
+   "Paul Enright, ex-Viking Global and until recently Chairman of Fundamental Equities at pod shop Jain Global, argues stock returns are now driven more by multiple expansion and contraction than by earnings, which is far harder to systematize.",
+   "He contrasts the two models: a single-manager fund's unit of production is the exceptional idea, needing upfront quality control, while a multi-manager shop's unit is the portfolio, managed through after-the-fact risk control and leverage.",
+   "Enright says leverage, concentration and volatility cannot coexist, so managers must pick two and tightly limit the third.",
+   "On AI, he urges analysts to hand short-half-life work such as data gathering and consensus tracking to machines but do foundational company research themselves to build 'crystallized knowledge' and avoid cognitive debt.",
+   "He expects winning firms to be 'man plus machine' teams with fewer people per dollar of capital, blending public and private best ideas, and sees today's easiest alpha in battleground stocks whose multiples have moved far ahead of fundamentals."
+  ],
+  "podcast": "Capital Allocators – Inside the Institutional Investment Industry",
+  "publishTime": 1794819600,
+  "seq": 9477075,
+  "status": "summarized",
+  "tags": [
+   "hedge-funds",
+   "multi-manager",
+   "AI-in-investing"
+  ],
+  "title": "Single-Manager Hedge Funds, Pod Shops, and the Age of AI – Paul Enright (EP.527)",
+  "url": "https://app.podwise.ai/dashboard/episodes/9477075",
+  "id": "9477075"
+ },
+ {
+  "addedAt": "2026-11-16T11:47:17Z",
+  "durationMin": 46,
+  "lang": "en",
+  "lines": [
+   "Variant Perception CIO Tian Yang argues governments face an 'impossible trinity' of sovereignty, social spending and sound money, and history suggests sound money is sacrificed first when nations mobilize for military and technological rivalry.",
+   "Yang frames AI, with Nvidia at its center, as a national security imperative rather than a purely commercial bet, which puts a floor under investment regardless of near-term returns.",
+   "The AI race is described as a 'Sisyphean marathon' of endless, costly financing sprints for compute, creating a persistent inflationary impulse, with a parallel drawn to the 1960s when guns-and-butter spending eroded monetary discipline.",
+   "Yang expects the push for chip independence and re-industrialization to replace just-in-time globalization with hard borders, physical rationing and possibly capital controls, and governments to lean on financial repression such as forcing banks to hold government debt.",
+   "For investors, Yang warns that sovereignty creates binary event risks such as export bans, capital controls and asset freezes that can outweigh traditional valuation work."
+  ],
+  "podcast": "Odd Lots",
+  "publishTime": 1794819600,
+  "seq": 9476871,
+  "status": "summarized",
+  "tags": [
+   "macro",
+   "geopolitics",
+   "inflation",
+   "AI-capex"
+  ],
+  "title": "The Impossible Trilemma That Hangs Over the Nvidia Crisis",
+  "url": "https://app.podwise.ai/dashboard/episodes/9476871",
+  "id": "9476871"
+ },
+ {
+  "addedAt": "2026-11-16T11:47:17Z",
+  "durationMin": 67,
+  "lang": "en",
+  "lines": [
+   "Former Viking Global investor Paul Enright argues that analyzing a business and picking a stock are separate disciplines: a great company only becomes a good trade once valuation, liquidity, factor exposure and market expectations are factored in.",
+   "He describes portfolio management as an 'accordion', actively flexing gross and net exposure with the strength of available spreads and reallocating capital to the highest-conviction ideas like setting a baseball lineup.",
+   "On shorts, Enright layers offensive bets against weak businesses, relative-value shorts paired with longs and market-proxy hedges, while respecting liquidity limits to avoid bear traps.",
+   "He says rebalancing should hinge on whether a price move reflects changed fundamental expectations or noise, and sees the best setups where revenue inflects without a matching rise in costs.",
+   "Enright notes passive capital and large multi-manager platforms have made large-cap alpha harder to find, and closes with personal frameworks such as a growth mindset and regret minimization."
+  ],
+  "podcast": "Capital Allocators – Inside the Institutional Investment Industry",
+  "publishTime": 1794819000,
+  "seq": 9476887,
+  "status": "summarized",
+  "tags": [
+   "hedge-funds",
+   "long-short-equity",
+   "portfolio-management"
+  ],
+  "title": "[REPLAY] Paul Enright – Inside Long-Short Equity Investing (Capital Allocators, EP.266)",
+  "url": "https://app.podwise.ai/dashboard/episodes/9476887",
+  "id": "9476887"
+ },
+ {
   "addedAt": "2026-11-15T14:46:56Z",
   "durationMin": 17,
   "lang": "en",
