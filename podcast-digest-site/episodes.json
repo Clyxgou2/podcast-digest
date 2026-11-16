@@ -1,5 +1,29 @@
 [
  {
+  "addedAt": "2026-11-16T14:47:05Z",
+  "durationMin": 64,
+  "lang": "en",
+  "lines": [
+   "Economists Alex Imas (Google DeepMind) and Tyler Cowen argue that fast-improving AI models are not yet producing fast GDP growth because the real economy runs on organizational coordination, and AI agents cannot yet coordinate better than human teams.",
+   "They see the main brakes as institutional inertia and legacy systems in sectors like government, healthcare and education, plus physical infrastructure bottlenecks, more than regulation alone.",
+   "The guests doubt sustained double-digit GDP growth, noting that historical growth spikes have come from crises like wars or pandemics rather than from technology by itself, and that political backlash will rise endogenously as AI's impact grows, slowing any takeoff.",
+   "They argue GDP increasingly undercounts AI's value from free or cheap digital goods, calling for welfare-based metrics, and suggest that while value may shift toward capital, rents will ultimately follow scarcity in energy, land or human-centric roles.",
+   "On safety, the episode favors mechanism design with checks and balances over trying to perfectly align each individual agent's preferences."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1794828648,
+  "seq": 9478203,
+  "status": "summarized",
+  "tags": [
+   "macro",
+   "AI-economics",
+   "productivity"
+  ],
+  "title": "Alex Imas & Tyler Cowen | AI Is Moving Fast. Why Isn’t the Economy?",
+  "url": "https://app.podwise.ai/dashboard/episodes/9478203",
+  "id": "9478203"
+ },
+ {
   "addedAt": "2026-11-16T11:47:17Z",
   "durationMin": 48,
   "lang": "en",
