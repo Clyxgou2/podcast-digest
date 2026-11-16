@@ -24,6 +24,29 @@
   "id": "9478203"
  },
  {
+  "addedAt": "2026-11-16T23:46:39Z",
+  "durationMin": 105,
+  "lang": "zh",
+  "lines": [
+   "节目以嘉宾江岳（公众号「山农下山」）的讨论为主线，认为80后的成长几乎与中国四十年“压缩式现代化”重合，被迫在极短时间内完成从生产型到消费型、从固态到液态社会的切换。",
+   "嘉宾认为“努力就能改变命运”是经济上行期的产物；在当前换挡期，这种线性增长信念不再普适，反而成为中年焦虑的来源，叠加产业式微、资产负债表衰退和教育焦虑。",
+   "节目把代际差异归结为“剧本”和“对手”不同：60/70后对抗物质匮乏，80后对抗同类竞争，00/10后面对技术变革和高企的资产价格；10后则在父母兜底下拥有在内卷与“做自己”之间选择的“期权”。",
+   "在消费上，嘉宾称80后呈现“伪装成投资的消费”，在房贷、教育、养老等刚性支出下要给消费赋予“有用性”，且多是家庭采购方而非最终用户，导致个人消费内缩。"
+  ],
+  "podcast": "面基",
+  "publishTime": 1794821400,
+  "seq": 9477149,
+  "status": "summarized",
+  "tags": [
+   "消费",
+   "人口代际",
+   "中国宏观"
+  ],
+  "title": "咱们80后：一个代际与中国追赶的40年",
+  "url": "https://app.podwise.ai/dashboard/episodes/9477149",
+  "id": "9477149"
+ },
+ {
   "addedAt": "2026-11-16T11:47:17Z",
   "durationMin": 48,
   "lang": "en",
@@ -95,6 +118,29 @@
   "title": "[REPLAY] Paul Enright – Inside Long-Short Equity Investing (Capital Allocators, EP.266)",
   "url": "https://app.podwise.ai/dashboard/episodes/9476887",
   "id": "9476887"
+ },
+ {
+  "addedAt": "2026-11-16T23:46:39Z",
+  "durationMin": 64,
+  "lang": "en",
+  "lines": [
+   "Industrial designer John Mauriello argues design has abandoned its humanist roots for a sterile minimalism driven by corporate efficiency, producing products that meet metrics but evoke little desire or meaning.",
+   "He says profit-driven design aims at the 'barely good enough' threshold to cut manufacturing complexity, homogenizing products; he reads the spread of screens in cars as cost optimization that removes mechanical interfaces rather than a user-centric advance.",
+   "The episode links low-rate environments to founders prioritizing storytelling over working products, citing Theranos as a narrative that collapsed against physical and scientific reality.",
+   "Mauriello contrasts this with Steve Jobs, arguing real innovation pairs ambitious vision with setting ego aside to listen to engineers on technical constraints, and that reclaiming design means putting human needs ahead of extractive scale."
+  ],
+  "podcast": "Hidden Forces",
+  "publishTime": 1794816000,
+  "seq": 9476382,
+  "status": "summarized",
+  "tags": [
+   "industrial-design",
+   "consumer-products",
+   "autos"
+  ],
+  "title": "Why Nothing Looks Cool Anymore | John Mauriello",
+  "url": "https://app.podwise.ai/dashboard/episodes/9476382",
+  "id": "9476382"
  },
  {
   "addedAt": "2026-11-15T14:46:56Z",
