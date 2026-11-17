@@ -1,0 +1,24 @@
+{
+  "addedAt": "2026-11-17T05:46:32Z",
+  "durationMin": 23,
+  "lang": "en",
+  "lines": [
+    "Atlassian CEO Mike Cannon-Brookes argues AI will restructure jobs rather than eliminate them, comparing it to how digital banking changed what bank branches do instead of making them obsolete; the real risk is being outcompeted by people who use AI well.",
+    "He contends that as LLMs commoditize, the competitive edge shifts to the 'harness': the application layer, interface and enterprise context that turn model output into business outcomes.",
+    "Cannon-Brookes pitches Atlassian's 'teamwork graph', which pulls together knowledge, communication, project data and source code, as the context that lets agents deliver better results at lower cost.",
+    "He calls 'headless', command-line-only enterprise software counterproductive and says AI work must move past chat toward delegation (agents acting for users) and pairing (agents working alongside humans).",
+    "In his view, the lag in realized AI productivity gains is a design and UX failure in how agents are embedded in daily work, not a shortfall in model capability."
+  ],
+  "podcast": "Big Technology Podcast",
+  "publishTime": 1794873600,
+  "seq": 9486889,
+  "status": "summarized",
+  "tags": [
+    "SaaS",
+    "AI-agents",
+    "enterprise-software",
+    "future-of-work"
+  ],
+  "title": "How Humans Will Work Alongside AI Agents — With Mike Cannon-Brookes",
+  "url": "https://app.podwise.ai/dashboard/episodes/9486889"
+}
