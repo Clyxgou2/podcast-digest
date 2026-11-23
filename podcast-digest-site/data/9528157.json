@@ -1,0 +1,24 @@
+{
+  "addedAt": "2026-11-23T10:42:53Z",
+  "durationMin": 48,
+  "lang": "en",
+  "lines": [
+    "The podcast explores how the modern internet evolved from the mid-1990s to the iPhone era, highlighting that many failed dot-com ventures merely lacked infrastructure and market maturity rather than sound concepts.",
+    "Host and guest note that major tech shifts typically start with hobbyists working on long-term horizons driven by passion rather than quarterly profit pressures.",
+    "Companies like eBay pioneered trust mechanisms such as reputation systems, proving that faceless strangers could safely transact in a digital economy.",
+    "Google achieved dominance by integrating a relevance-based ad model that created a win-win ecosystem for users, advertisers, and the platform.",
+    "Napster proved that instant convenience drives media consumption, a lesson the music industry initially missed by focusing strictly on piracy laws."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1795345200,
+  "seq": 9528157,
+  "status": "summarized",
+  "tags": [
+    "Internet-History",
+    "Venture-Capital",
+    "Tech-Innovation",
+    "Digital-Economy"
+  ],
+  "title": "Replay: How the Internet Happened | Chris Dixon & Brian McCullough (2018)",
+  "url": "https://app.podwise.ai/dashboard/episodes/9528157"
+}

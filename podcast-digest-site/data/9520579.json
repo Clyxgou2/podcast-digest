@@ -1,0 +1,23 @@
+{
+  "addedAt": "2026-11-23T10:42:49Z",
+  "durationMin": 46,
+  "lang": "en",
+  "lines": [
+    "The podcast discusses how China is pursuing a 'full-stack' industrial strategy to achieve technological self-reliance and bypass Western export controls.",
+    "The hosts note that Beijing's 'new quality productive forces' mandate prioritizes long-term high-tech sovereignty over short-term consumer stimulus or market efficiency.",
+    "The episode highlights how Huawei is attempting to overcome lithography bottlenecks by combining lower-performance chips into high-capacity 'super pods' and engaging in deep hardware-software co-design.",
+    "The analysis suggests that while U.S. export controls have catalyzed China's push to replicate the entire semiconductor supply chain domestically, Chinese AI firms still face a trade-off between keeping pace with the global frontier and using local hardware."
+  ],
+  "podcast": "Odd Lots",
+  "publishTime": 1795251600,
+  "seq": 9520579,
+  "status": "summarized",
+  "tags": [
+    "Industrial-policy",
+    "Semiconductors",
+    "China-tech",
+    "AI-infrastructure"
+  ],
+  "title": "How AI Is Forcing China to Reshape Industrial Policy",
+  "url": "https://app.podwise.ai/dashboard/episodes/9520579"
+}
