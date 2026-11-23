@@ -1,0 +1,22 @@
+{
+  "addedAt": "2026-11-23T22:56:10Z",
+  "durationMin": 66,
+  "lang": "en",
+  "lines": [
+    "AI is transforming the life sciences value chain by enabling agent-based systems to manage drug discovery, potentially allowing a single researcher to oversee multiple therapeutic programs.",
+    "The primary constraint in biological AI is the scarcity of high-signal, clean data, as biological systems remain inherently noisier and more complex to simulate than synthetic coding environments.",
+    "The podcast highlights a 'capability overhang' where advanced AI models are underutilized due to a lack of intuitive product interfaces for scientific researchers.",
+    "Speakers argue that biosecurity is best managed through institutional oversight and full model access for verified entities, rather than relying solely on restrictive prompt-level guardrails."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1795431600,
+  "seq": 9543898,
+  "status": "summarized",
+  "tags": [
+    "ai-agents",
+    "enterprise-ai",
+    "healthcare-pharma"
+  ],
+  "title": "The One-Person Biotech | OpenAI Life Sciences",
+  "url": "https://app.podwise.ai/dashboard/episodes/9543898"
+}
