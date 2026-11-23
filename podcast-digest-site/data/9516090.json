@@ -1,0 +1,24 @@
+{
+  "addedAt": "2026-11-23T10:35:01Z",
+  "durationMin": 53,
+  "lang": "en",
+  "lines": [
+    "The episode argues that the AI agent era will render traditional operating systems like macOS and Windows obsolete by enabling malleable, agent-first computing environments.",
+    "DHH notes that historical barriers to Linux adoption have become major advantages, as agents thrive on command-line control and granular configuration files.",
+    "The podcast highlights that massive codebases are no longer competitive moats because AI allows individuals to replicate complex software in weeks.",
+    "Speakers suggest that this shift presents the first viable opportunity in 25 years to challenge the operating system duopoly with Linux.",
+    "The discussion emphasizes that while AI handles code execution, human taste remains the critical differentiator in producing high-quality software."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1795189693,
+  "seq": 9516090,
+  "status": "summarized",
+  "tags": [
+    "AI-agents",
+    "Operating-Systems",
+    "Linux",
+    "Software-Development"
+  ],
+  "title": "Why the Agent Era Needs a New Operating System | DHH",
+  "url": "https://app.podwise.ai/dashboard/episodes/9516090"
+}
