@@ -1,5 +1,176 @@
 [
  {
+  "addedAt": "2026-11-23T10:42:56Z",
+  "durationMin": 111,
+  "lang": "zh",
+  "lines": [
+   "节目指出，各类投资策略在逆风期的回撤是获取超额收益的必然代价，核心在于认清策略脆弱性与资金属性的匹配度。",
+   "嘉宾认为，低利率环境压缩了生息资产空间，导致流动性极易推高短期估值，而亏损往往源于资金属性与策略逆风期的严重错配。",
+   "播客提到，AI等生产力的爆发速度远超生产关系调整，使传统周期预测模型在非线性演化阶段面临失效。",
+   "文章分析称，量化因子的本质是零和分类工具，超额收益源于对市场偏好的快速轮动而非永恒的数学真理。",
+   "投资智慧在于将人的承受力置于事的事前，通过构建逆境低相关的资产组合来寻找长期的生存与迭代能力。"
+  ],
+  "podcast": "面基",
+  "publishTime": 1795426200,
+  "seq": 9536846,
+  "status": "summarized",
+  "tags": [
+   "投资策略",
+   "宏观流动性",
+   "量化投资",
+   "资产配置"
+  ],
+  "title": "盘点各策略逆风期，以及投资的钱、技、心",
+  "url": "https://app.podwise.ai/dashboard/episodes/9536846",
+  "id": "9536846"
+ },
+ {
+  "addedAt": "2026-11-23T10:42:54Z",
+  "durationMin": 59,
+  "lang": "en",
+  "lines": [
+   "The podcast discusses how China's AI strategy prioritizes industrial diffusion and manufacturing modernization over a sole focus on frontier models.",
+   "Reporter Afra Wang highlights how economic stagnation has driven young tech workers to hubs like Liangzhu to build niche, one-person AI businesses.",
+   "The episode notes that a lucrative, pyramid-style AI education industry has emerged to exploit the anxieties of graduates and small business owners.",
+   "Speakers observe that local government efforts to signal national technological alignment have caused an oversupply of low-quality AI content.",
+   "The show concludes that Chinese citizens maintain a pragmatic optimism toward AI as a necessary tool in a low-trust, zero-sum economic environment."
+  ],
+  "podcast": "Odd Lots",
+  "publishTime": 1795424400,
+  "seq": 9534367,
+  "status": "summarized",
+  "tags": [
+   "Artificial-Intelligence",
+   "Chinese-Economy",
+   "Tech-Industry",
+   "Macroeconomics"
+  ],
+  "title": "What a Town Full of Vibecoders Says About the Chinese Economy",
+  "url": "https://app.podwise.ai/dashboard/episodes/9534367",
+  "id": "9534367"
+ },
+ {
+  "addedAt": "2026-11-23T10:42:53Z",
+  "durationMin": 48,
+  "lang": "en",
+  "lines": [
+   "The podcast explores how the modern internet evolved from the mid-1990s to the iPhone era, highlighting that many failed dot-com ventures merely lacked infrastructure and market maturity rather than sound concepts.",
+   "Host and guest note that major tech shifts typically start with hobbyists working on long-term horizons driven by passion rather than quarterly profit pressures.",
+   "Companies like eBay pioneered trust mechanisms such as reputation systems, proving that faceless strangers could safely transact in a digital economy.",
+   "Google achieved dominance by integrating a relevance-based ad model that created a win-win ecosystem for users, advertisers, and the platform.",
+   "Napster proved that instant convenience drives media consumption, a lesson the music industry initially missed by focusing strictly on piracy laws."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1795345200,
+  "seq": 9528157,
+  "status": "summarized",
+  "tags": [
+   "Internet-History",
+   "Venture-Capital",
+   "Tech-Innovation",
+   "Digital-Economy"
+  ],
+  "title": "Replay: How the Internet Happened | Chris Dixon & Brian McCullough (2018)",
+  "url": "https://app.podwise.ai/dashboard/episodes/9528157",
+  "id": "9528157"
+ },
+ {
+  "addedAt": "2026-11-23T10:42:52Z",
+  "durationMin": 83,
+  "lang": "en",
+  "lines": [
+   "The episode analyzes S&P Global as a high-quality financial infrastructure titan with wide moats in credit ratings and indices, currently trading at an attractive valuation.",
+   "The speakers note that the credit ratings business operates like an essential utility with immense pricing power, protected by the career risks of using alternative standards.",
+   "They argue that AI agents pose a structural threat to software interfaces like Capital IQ by bypassing traditional screens, though the underlying proprietary data retains its value.",
+   "Corporate actions, such as the mobility division spinoff and potential Capital IQ divestiture, aim to reduce the conglomerate discount and sharpen focus on high-margin assets.",
+   "The speakers highlight that the current AI capital expenditure boom has driven a surge in bond issuance, creating a temporary revenue tailwind for S&P's ratings division."
+  ],
+  "podcast": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
+  "publishTime": 1795309200,
+  "seq": 9526416,
+  "status": "summarized",
+  "tags": [
+   "Financial-Infrastructure",
+   "Credit-Ratings",
+   "AI-Disruption",
+   "Capital-Allocation"
+  ],
+  "title": "TIP863: S&P Global (SPGI): A Market Titan Goes on a Rare Sale w/ Shawn O’Malley & Daniel Mahncke",
+  "url": "https://app.podwise.ai/dashboard/episodes/9526416",
+  "id": "9526416"
+ },
+ {
+  "addedAt": "2026-11-23T10:42:50Z",
+  "durationMin": 18,
+  "lang": "en",
+  "lines": [
+   "The podcast argues that professional networks are shifting away from static resumes toward dynamic, reputation-based systems driven by peer endorsements.",
+   "Cosign highlights that the most impactful contributors often remain invisible within traditional top-down organizational hierarchies.",
+   "The platform integrates AI agents to continuously scan the network and actively surface relevant opportunities based on user-defined criteria.",
+   "Recognition initiatives like the Cosign Awards act as community-building catalysts to connect high-potential individuals for future collaboration."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1795258800,
+  "seq": 9520788,
+  "status": "summarized",
+  "tags": [
+   "Professional-Network",
+   "AI-Agents",
+   "Talent-Acquisition"
+  ],
+  "title": "The Professional Network Built for You and Your AI Agent",
+  "url": "https://app.podwise.ai/dashboard/episodes/9520788",
+  "id": "9520788"
+ },
+ {
+  "addedAt": "2026-11-23T10:42:49Z",
+  "durationMin": 46,
+  "lang": "en",
+  "lines": [
+   "The podcast discusses how China is pursuing a 'full-stack' industrial strategy to achieve technological self-reliance and bypass Western export controls.",
+   "The hosts note that Beijing's 'new quality productive forces' mandate prioritizes long-term high-tech sovereignty over short-term consumer stimulus or market efficiency.",
+   "The episode highlights how Huawei is attempting to overcome lithography bottlenecks by combining lower-performance chips into high-capacity 'super pods' and engaging in deep hardware-software co-design.",
+   "The analysis suggests that while U.S. export controls have catalyzed China's push to replicate the entire semiconductor supply chain domestically, Chinese AI firms still face a trade-off between keeping pace with the global frontier and using local hardware."
+  ],
+  "podcast": "Odd Lots",
+  "publishTime": 1795251600,
+  "seq": 9520579,
+  "status": "summarized",
+  "tags": [
+   "Industrial-policy",
+   "Semiconductors",
+   "China-tech",
+   "AI-infrastructure"
+  ],
+  "title": "How AI Is Forcing China to Reshape Industrial Policy",
+  "url": "https://app.podwise.ai/dashboard/episodes/9520579",
+  "id": "9520579"
+ },
+ {
+  "addedAt": "2026-11-23T10:42:48Z",
+  "durationMin": 64,
+  "lang": "en",
+  "lines": [
+   "The podcast notes that Anthropic's IPO succeeded as a capital-raising event but failed to spark a broader market recovery, leaving the S&P 500 and Nasdaq in correction territory.",
+   "The hosts argue that the AI industry is reaching an inflection point as model commoditization forces companies to justify massive compute expenditures with viable revenue models.",
+   "The speakers highlight that ongoing leadership uncertainty and reports of aggressive management practices at Nvidia have significantly eroded investor confidence.",
+   "The episode discusses Apple's strategic pivot toward developing autonomous AI agents to compete directly with frontier model providers, despite lingering skepticism over Siri's limitations."
+  ],
+  "podcast": "Big Technology Podcast",
+  "publishTime": 1795215720,
+  "seq": 9519281,
+  "status": "summarized",
+  "tags": [
+   "AI-infrastructure",
+   "Tech-Stocks",
+   "Market-Trends",
+   "IPOs"
+  ],
+  "title": "Anthropic’s Moment of Truth, Jensen in Limbo, Apple’s AI Agent",
+  "url": "https://app.podwise.ai/dashboard/episodes/9519281",
+  "id": "9519281"
+ },
+ {
   "addedAt": "2026-11-23T10:37:44Z",
   "durationMin": 77,
   "lang": "en",
