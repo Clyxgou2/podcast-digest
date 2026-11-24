@@ -1,0 +1,23 @@
+{
+  "addedAt": "2026-11-24T05:46:28Z",
+  "durationMin": 25,
+  "hook": "→ 观点卡：AI供应链关键人风险与地缘政治干预",
+  "lang": "en",
+  "lines": [
+    "The podcast notes that Jensen Huang was reinstated as Nvidia CEO just 11 days after resigning due to a scandal, following an unprecedented intervention by President Trump to prioritize national economic stability.",
+    "The hosts argue that this event highlights extreme key man risk and a shift away from traditional corporate governance standards for critical AI infrastructure.",
+    "The episode discusses how ongoing SEC and FBI scrutiny, along with tightening export controls, creates significant legal uncertainty despite an initial surge in Nvidia's market valuation.",
+    "The discussion reveals a systemic reliance on informal handshake agreements and a lack of formal succession planning within leading AI hardware supply chains."
+  ],
+  "podcast": "Big Technology Podcast",
+  "publishTime": 1795456620,
+  "seq": 9545884,
+  "status": "summarized",
+  "tags": [
+    "semiconductors",
+    "geopolitics-trade",
+    "regulation"
+  ],
+  "title": "The Shocking Return of Jensen Huang",
+  "url": "https://app.podwise.ai/dashboard/episodes/9545884"
+}
