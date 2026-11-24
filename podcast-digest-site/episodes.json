@@ -1,5 +1,28 @@
 [
  {
+  "addedAt": "2026-11-24T14:46:24Z",
+  "durationMin": 31,
+  "lang": "en",
+  "lines": [
+   "Jennifer Bailey explains how Apple Pay navigated the complex 'chicken and egg' network dynamics among banks, merchants, and payment networks to achieve massive scale.",
+   "The platform was deliberately architected to exclude Apple from storing sensitive transaction data, prioritizing user privacy as a core product feature.",
+   "Global adoption was significantly accelerated by leveraging existing contactless infrastructure and international regulatory mandates that required universal acceptance.",
+   "The Apple Wallet strategy now extends far beyond payments, aiming to systematically digitize and replace physical essentials like transit passes, car keys, and state IDs."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1795518000,
+  "seq": 9551040,
+  "status": "summarized",
+  "tags": [
+   "fintech",
+   "consumer",
+   "history"
+  ],
+  "title": "REPLAY: The Story of Apple Pay | Jennifer Bailey (2024)",
+  "url": "https://app.podwise.ai/dashboard/episodes/9551040",
+  "id": "9551040"
+ },
+ {
   "addedAt": "2026-11-24T11:46:27Z",
   "durationMin": 38,
   "hook": "→ 观点卡：AI 资本开支回报率与市场波动性政变",
