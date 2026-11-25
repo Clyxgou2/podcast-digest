@@ -1,5 +1,27 @@
 [
  {
+  "addedAt": "2026-11-25T05:46:28Z",
+  "durationMin": 31,
+  "lang": "en",
+  "lines": [
+   "Euroclear CEO Valerie Urbain notes that the firm acts as essential global financial infrastructure, settling the equivalent of world GDP monthly and managing 45 trillion euros in assets.",
+   "Urbain highlights that the immobilization of 200 billion euros in Russian central bank assets requires balancing political sanctions with the legal certainty needed to preserve European market confidence.",
+   "The executive explains that despite advances in blockchain tokenization, European markets remain structurally fragmented by divergent national corporate, bankruptcy, and tax laws.",
+   "The program points out that transitioning to a T+0 settlement for institutional wholesale markets is currently impractical due to complex cross-border chains and time zone differences."
+  ],
+  "podcast": "In Good Company with Nicolai Tangen",
+  "publishTime": 1795579200,
+  "seq": 9555767,
+  "status": "summarized",
+  "tags": [
+   "market-structure",
+   "geopolitics-trade"
+  ],
+  "title": "Euroclear CEO: Europe’s Financial Markets, Frozen Russian Assets and Tokenisation",
+  "url": "https://app.podwise.ai/dashboard/episodes/9555767",
+  "id": "9555767"
+ },
+ {
   "addedAt": "2026-11-24T23:46:24Z",
   "durationMin": 65,
   "hook": "→ 观点卡：AI Agent 软件工程生产力与安全风险",
