@@ -1,0 +1,22 @@
+{
+  "addedAt": "2026-11-25T23:46:24Z",
+  "durationMin": 53,
+  "hook": "→ 覆盖相关(CRWD/PANW/FTNT)：AI 自动化攻击浪潮对网络安全平台化整合的影响",
+  "lang": "en",
+  "lines": [
+    "The traditional security \"Pyramid of Pain\" has collapsed as autonomous AI agents democratize nation-state-level attack capabilities, collapsing sophisticated breaches into automated routines.",
+    "Organizations face a critical \"break or breach\" dilemma where skyrocketing Common Vulnerability Exposures force a choice between catastrophic system downtime from rapid patching or leaving assets exposed.",
+    "AI-driven attack frameworks can chain dozens of ignored low-risk vulnerabilities into high-impact remote code execution, rendering traditional risk-prioritization models obsolete.",
+    "Sophisticated state actors are bypassing technical perimeters by infiltrating enterprises as remote employees, driving an urgent shift toward multi-layered identity verification and local AI sovereignty."
+  ],
+  "podcast": "All-In Podcast",
+  "publishTime": 1795522581,
+  "seq": 9558568,
+  "status": "summarized",
+  "tags": [
+    "cybersecurity",
+    "ai-infra"
+  ],
+  "title": "CrowdStrike CEO: AI Cyberattack Wave, Hyperspeed Hacks, & The Patching Problem",
+  "url": "https://app.podwise.ai/dashboard/episodes/9558568"
+}
