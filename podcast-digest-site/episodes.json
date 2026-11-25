@@ -1,5 +1,28 @@
 [
  {
+  "addedAt": "2026-11-25T23:46:27Z",
+  "durationMin": 50,
+  "lang": "en",
+  "lines": [
+   "Ray Dalio emphasizes that codifying recurring life and business experiences into systematic principles and algorithms allows leaders to move beyond emotional reactions toward rational, data-driven decision-making.",
+   "The host notes that effective organizations should utilize 'believability-weighted' decision-making, prioritizing input from experts with proven track records and logical rationales rather than relying on simple consensus.",
+   "Dalio argues that true open-mindedness requires the intellectual humility to worry that one's own opinions might be wrong, using disagreement to rigorously stress-test personal logic.",
+   "The episode highlights that diversifying across uncorrelated return streams is significantly more powerful for risk reduction than attempting to bet on a single optimal outcome."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1795604400,
+  "seq": 9557899,
+  "status": "summarized",
+  "tags": [
+   "management-org",
+   "hedge-funds",
+   "history"
+  ],
+  "title": "Replay: Principles and Algorithms for Work and Life | Ray Dalio (2019)",
+  "url": "https://app.podwise.ai/dashboard/episodes/9557899",
+  "id": "9557899"
+ },
+ {
   "addedAt": "2026-11-25T05:46:28Z",
   "durationMin": 31,
   "lang": "en",
@@ -20,6 +43,29 @@
   "title": "Euroclear CEO: Europe’s Financial Markets, Frozen Russian Assets and Tokenisation",
   "url": "https://app.podwise.ai/dashboard/episodes/9555767",
   "id": "9555767"
+ },
+ {
+  "addedAt": "2026-11-25T23:46:26Z",
+  "durationMin": 203,
+  "hook": "→ 观点卡：AI预训练与递归自我改进（RSI）",
+  "lang": "zh",
+  "lines": [
+   "前xAI预训练团队成员沈驿康指出，模型训练已演变为类似芯片制造的精密工艺，战略方向与数据反馈循环远比单纯的资源积累更为关键。",
+   "嘉宾认为，递归自我改进（RSI）与持续学习技术成为模型进化的核心，旨在通过高效的自我迭代降低对云端高昂算力的依赖。",
+   "节目提到，未来AI生态将向去中心化演进，个人专属智能体将取代通用大模型成为核心入口，推动技术从中心化算力中心向分布式终端转型。"
+  ],
+  "podcast": "张小珺Jùn｜商业访谈录",
+  "publishTime": 1795563000,
+  "seq": 9559820,
+  "status": "summarized",
+  "tags": [
+   "ai-labs",
+   "ai-infra",
+   "semiconductors"
+  ],
+  "title": "158.【2026年复盘】和沈驿康聊，黄仁勋、xAI内幕、RSI、持续学习、去中心化、预训练白盒、硅谷创业地图",
+  "url": "https://app.podwise.ai/dashboard/episodes/9559820",
+  "id": "9559820"
  },
  {
   "addedAt": "2026-11-24T23:46:24Z",
@@ -44,6 +90,29 @@
   "title": "Scott Wu on Cybersecurity, Compute, and the Future of Engineering - [Invest Like the Best, EP.502]",
   "url": "https://app.podwise.ai/dashboard/episodes/9552468",
   "id": "9552468"
+ },
+ {
+  "addedAt": "2026-11-25T23:46:24Z",
+  "durationMin": 53,
+  "hook": "→ 覆盖相关(CRWD/PANW/FTNT)：AI 自动化攻击浪潮对网络安全平台化整合的影响",
+  "lang": "en",
+  "lines": [
+   "The traditional security \"Pyramid of Pain\" has collapsed as autonomous AI agents democratize nation-state-level attack capabilities, collapsing sophisticated breaches into automated routines.",
+   "Organizations face a critical \"break or breach\" dilemma where skyrocketing Common Vulnerability Exposures force a choice between catastrophic system downtime from rapid patching or leaving assets exposed.",
+   "AI-driven attack frameworks can chain dozens of ignored low-risk vulnerabilities into high-impact remote code execution, rendering traditional risk-prioritization models obsolete.",
+   "Sophisticated state actors are bypassing technical perimeters by infiltrating enterprises as remote employees, driving an urgent shift toward multi-layered identity verification and local AI sovereignty."
+  ],
+  "podcast": "All-In Podcast",
+  "publishTime": 1795522581,
+  "seq": 9558568,
+  "status": "summarized",
+  "tags": [
+   "cybersecurity",
+   "ai-infra"
+  ],
+  "title": "CrowdStrike CEO: AI Cyberattack Wave, Hyperspeed Hacks, & The Patching Problem",
+  "url": "https://app.podwise.ai/dashboard/episodes/9558568",
+  "id": "9558568"
  },
  {
   "addedAt": "2026-11-24T14:46:24Z",
