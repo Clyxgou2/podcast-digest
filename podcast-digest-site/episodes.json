@@ -1,5 +1,27 @@
 [
  {
+  "addedAt": "2026-11-26T14:46:27Z",
+  "durationMin": 19,
+  "lang": "en",
+  "lines": [
+   "Dr. Andrea Feinberg and Josh Hix argue that integrating nutrition into clinical practice can slash healthcare expenditures by up to two-thirds for vulnerable populations with diet-responsive chronic conditions.",
+   "The speakers highlight that severe food insecurity correlates with a 70 percent increase in annual household medical expenditures, making nutritional intervention a powerful lever for cost reduction.",
+   "Scaling food-as-medicine models requires shifting the industry focus from forced behavioral modifications to removing friction in access, despite current barriers such as a lack of nutritional education in medical training.",
+   "The guests note that utilizing existing digital infrastructure and consumer touchpoints can drastically improve patient compliance compared to traditional pharmaceutical treatments."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1795690800,
+  "seq": 9562684,
+  "status": "summarized",
+  "tags": [
+   "healthcare-pharma",
+   "consumer"
+  ],
+  "title": "Replay: On Food as Medicine (2020)",
+  "url": "https://app.podwise.ai/dashboard/episodes/9562684",
+  "id": "9562684"
+ },
+ {
   "addedAt": "2026-11-26T11:46:49Z",
   "durationMin": 53,
   "hook": "→ 观点卡：UPS物流商业史与多公司生意模式变迁",
