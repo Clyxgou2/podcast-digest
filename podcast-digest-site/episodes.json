@@ -1,5 +1,28 @@
 [
  {
+  "addedAt": "2026-11-26T11:46:49Z",
+  "durationMin": 53,
+  "hook": "→ 观点卡：UPS物流商业史与多公司生意模式变迁",
+  "lang": "en",
+  "lines": [
+   "Guest Marc Levinson explains that the foundational innovation behind UPS was an organizational shift to a centralized sorting model that aggregated packages to maximize route density rather than relying on advanced technology.",
+   "The host and guest note that early logistics efficiency was achieved by applying rigid scientific management principles, standardizing every operational task from vehicle maintenance to driver movements.",
+   "The discussion highlights how UPS successfully navigated early scaling by securing long-term service contracts with retailers and later lobbying regulators to classify parcel delivery as a unique business distinct from general trucking.",
+   "The conversation points out that a strong internal promotion culture initially delayed UPS's adoption of digital technologies like barcoding due to a lack of external technical expertise."
+  ],
+  "podcast": "Odd Lots",
+  "publishTime": 1795683600,
+  "seq": 9562274,
+  "status": "summarized",
+  "tags": [
+   "industrials",
+   "history"
+  ],
+  "title": "Marc Levinson on How UPS Created Modern Logistics",
+  "url": "https://app.podwise.ai/dashboard/episodes/9562274",
+  "id": "9562274"
+ },
+ {
   "addedAt": "2026-11-26T02:46:33Z",
   "durationMin": 76,
   "lang": "en",
