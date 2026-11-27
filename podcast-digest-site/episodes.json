@@ -1,5 +1,26 @@
 [
  {
+  "addedAt": "2026-11-27T14:46:22Z",
+  "durationMin": 27,
+  "lang": "en",
+  "lines": [
+   "The host and founder Sean Rad discuss how Tinder transformed social discovery by designing an intuitive mobile interface that mitigated the psychological anxiety of rejection.",
+   "Scaling the platform required a disciplined, college-by-college expansion strategy that prioritized local network density over broad, unfocused mass marketing.",
+   "The team maintained focus by fostering a culture of radical honesty, openly debating product decisions and quickly killing underperforming features like the \"Matchmaker\" tool."
+  ],
+  "podcast": "The a16z Show",
+  "publishTime": 1795777200,
+  "seq": 9568418,
+  "status": "summarized",
+  "tags": [
+   "product-design",
+   "venture-capital"
+  ],
+  "title": "Replay: From Swipe to Scale: How Tinder Became #1 (2024)",
+  "url": "https://app.podwise.ai/dashboard/episodes/9568418",
+  "id": "9568418"
+ },
+ {
   "addedAt": "2026-11-27T11:46:23Z",
   "durationMin": 50,
   "lang": "en",
