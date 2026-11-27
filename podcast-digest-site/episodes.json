@@ -1,5 +1,30 @@
 [
  {
+  "addedAt": "2026-11-27T05:46:24Z",
+  "durationMin": 16,
+  "hook": "→ 观点卡：AI资本开支与全球资本向美股集中",
+  "lang": "en",
+  "lines": [
+   "The host notes a stark divergence in AI adoption urgency, with US business leaders aggressively integrating advanced models while European firms lag due to heavy regulatory hurdles.",
+   "The discussion highlights that the democratization of powerful AI models has triggered an exponential surge in sophisticated cyberattacks, exposing critical vulnerabilities in enterprise defense infrastructure.",
+   "Global equity diversification has reached historic lows, with international markets heavily concentrated around a narrow cohort of companies tied to the dominant US-centered AI trade.",
+   "Financial market infrastructure is increasingly acting as a geopolitical instrument, particularly in managing complex cross-border challenges such as frozen sovereign assets."
+  ],
+  "podcast": "In Good Company with Nicolai Tangen",
+  "publishTime": 1795752600,
+  "seq": 9565305,
+  "status": "summarized",
+  "tags": [
+   "ai-infra",
+   "cybersecurity",
+   "macro",
+   "geopolitics-trade"
+  ],
+  "title": "Friday Wrap-Up: Cyber Worries and Capital Flowing into the US",
+  "url": "https://app.podwise.ai/dashboard/episodes/9565305",
+  "id": "9565305"
+ },
+ {
   "addedAt": "2026-11-26T14:46:27Z",
   "durationMin": 19,
   "lang": "en",
