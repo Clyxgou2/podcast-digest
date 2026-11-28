@@ -1,5 +1,30 @@
 [
  {
+  "addedAt": "2026-11-28T05:46:25Z",
+  "durationMin": 57,
+  "hook": "→ 观点卡：Nvidia出口管制风险与算力循环融资脆弱性",
+  "lang": "en",
+  "lines": [
+   "The host notes that the confirmation of Blackwell chips in Chinese data centers strips away Nvidia's plausible deniability regarding U.S. export controls and threatens its high-margin trajectory.",
+   "The discussion highlights systemic fragility in the AI sector due to the 'Bank of Jensen' model, where circular financing and close ties among hyperscalers echo pre-2008 financial vulnerabilities.",
+   "Experts argue that tightening U.S. restrictions are accelerating the technological gap between American frontier labs and Chinese counterparts.",
+   "The podcast warns that AI is rapidly evolving from a retrieval tool into a scientific engine capable of breakthrough work in fields like materials science and cryptography."
+  ],
+  "podcast": "Big Technology Podcast",
+  "publishTime": 1795824780,
+  "seq": 9626641,
+  "status": "summarized",
+  "tags": [
+   "semiconductors",
+   "ai-infra",
+   "geopolitics-trade",
+   "ai-labs"
+  ],
+  "title": "Nvidia’s Undoing?, China’s AI Decline, Alexandr Wang’s Superintelligence Warning",
+  "url": "https://app.podwise.ai/dashboard/episodes/9626641",
+  "id": "9626641"
+ },
+ {
   "addedAt": "2026-11-27T14:46:22Z",
   "durationMin": 27,
   "lang": "en",
